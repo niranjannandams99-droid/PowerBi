@@ -51,6 +51,8 @@ together in one unified analytical tool.
 Navigation hub with action buttons linking to all dashboard pages.
 F1 car hero image, project title, and professional branding.
 
+<img width="1278" height="726" alt="01_home" src="https://github.com/user-attachments/assets/c95304ba-3907-421c-bc80-185b72cb61be" />
+
 ---
 
 ### 📈 Page 2 — SEASON COMMAND CENTER
@@ -65,6 +67,8 @@ F1 car hero image, project title, and professional branding.
 | Nationality Donut | Driver race entries by nationality — British dominance visible |
 
 > 💡 **Key Insight:** Red Bull achieved 93 wins in the 2010s — highest single-decade total by any constructor.
+
+<img width="836" height="846" alt="02_season_command_center" src="https://github.com/user-attachments/assets/a05894fb-7d21-4c2a-ad6d-16186441ce2c" />
 
 ---
 
@@ -82,6 +86,8 @@ F1 car hero image, project title, and professional branding.
 
 > 💡 **Key Insight (Hamilton selected):** 356 Races | 105 Wins | 202 Podiums | 44 DNFs | **29.49% Win Rate** — peak seasons 2014 & 2015 (11 wins each, Mercedes era)
 
+<img width="1027" height="850" alt="03_driver_analytics" src="https://github.com/user-attachments/assets/7b434aa7-dcf5-4ea3-b2cc-bdf1a7c1d191" />
+
 ---
 
 ### 🏗️ Page 4 — CONSTRUCTOR DOMINANCE
@@ -97,6 +103,8 @@ F1 car hero image, project title, and professional branding.
 
 > 💡 **Key Insight:** Ferrari leads all-time with 249 wins but **29.27% DNF rate**. Mercedes is the most reliable modern team at just **11.66% DNF rate** — explaining their 2010s dynasty.
 
+<img width="825" height="850" alt="04_constructor_dominance" src="https://github.com/user-attachments/assets/81b4c5f5-f0ef-46dc-aaef-ece1dfaaab35" />
+
 ---
 
 ### 🗺️ Page 5 — CIRCUIT INTELLIGENCE
@@ -110,6 +118,8 @@ F1 car hero image, project title, and professional branding.
 | Host Country Donut | Italy · UK · Germany · USA · Monaco dominate |
 
 > 💡 **Key Insight:** Autodromo Nazionale di Monza is the most-used circuit with **74 races held** — European nations dominate F1 hosting history.
+
+<img width="841" height="839" alt="05_circuit_intelligence" src="https://github.com/user-attachments/assets/0bdfa360-429c-47de-a5da-2fcb8ee8c724" />
 
 ---
 
