@@ -54,7 +54,7 @@ F1 car hero image, project title, and professional branding.
 ---
 
 ### 📈 Page 2 — SEASON COMMAND CENTER
-![Season Command Center](screenshots/02_season_command_center.png)
+
 
 | Visual | Description |
 |---|---|
@@ -69,7 +69,7 @@ F1 car hero image, project title, and professional branding.
 ---
 
 ### 👤 Page 3 — DRIVER ANALYTICS
-![Driver Analytics](screenshots/03_driver_analytics.png)
+
 
 | Visual | Description |
 |---|---|
@@ -85,7 +85,7 @@ F1 car hero image, project title, and professional branding.
 ---
 
 ### 🏗️ Page 4 — CONSTRUCTOR DOMINANCE
-![Constructor Dominance](screenshots/04_constructor_dominance.png)
+
 
 | Visual | Description |
 |---|---|
@@ -100,7 +100,6 @@ F1 car hero image, project title, and professional branding.
 ---
 
 ### 🗺️ Page 5 — CIRCUIT INTELLIGENCE
-![Circuit Intelligence](screenshots/05_circuit_intelligence.png)
 
 | Visual | Description |
 |---|---|
