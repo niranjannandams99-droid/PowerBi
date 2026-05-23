@@ -119,6 +119,8 @@ F1 car hero image, project title, and professional branding.
 
 ### 🗺️ Page 5 — CIRCUIT INTELLIGENCE
 
+<img width="841" height="839" alt="05_circuit_intelligence" src="https://github.com/user-attachments/assets/0bdfa360-429c-47de-a5da-2fcb8ee8c724" />
+
 | Visual | Description |
 |---|---|
 | Country Slicer | Filter all visuals by host nation |
@@ -129,7 +131,7 @@ F1 car hero image, project title, and professional branding.
 
 > 💡 **Key Insight:** Autodromo Nazionale di Monza is the most-used circuit with **74 races held** — European nations dominate F1 hosting history.
 
-<img width="841" height="839" alt="05_circuit_intelligence" src="https://github.com/user-attachments/assets/0bdfa360-429c-47de-a5da-2fcb8ee8c724" />
+
 
 ---
 
