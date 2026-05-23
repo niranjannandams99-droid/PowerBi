@@ -93,7 +93,7 @@ F1 car hero image, project title, and professional branding.
 ### 👤 Page 3 — DRIVER ANALYTICS
 
 
-<img width="1027" height="850" alt="03_driver_analytics" src="https://github.com/user-attachments/assets/7b434aa7-dcf5-4ea3-b2cc-bdf1a7c1d191" />
+<img width="800" height="563" alt="03_driver_analytics" src="https://github.com/user-attachments/assets/7b434aa7-dcf5-4ea3-b2cc-bdf1a7c1d191" />
 
 
 | Visual | Description |
@@ -113,7 +113,7 @@ F1 car hero image, project title, and professional branding.
 ### 🏗️ Page 4 — CONSTRUCTOR DOMINANCE
 
 
-<img width="825" height="850" alt="04_constructor_dominance" src="https://github.com/user-attachments/assets/81b4c5f5-f0ef-46dc-aaef-ece1dfaaab35" />
+<img width="525" height="550" alt="04_constructor_dominance" src="https://github.com/user-attachments/assets/81b4c5f5-f0ef-46dc-aaef-ece1dfaaab35" />
 
 
 | Visual | Description |
@@ -132,7 +132,7 @@ F1 car hero image, project title, and professional branding.
 
 ### 🗺️ Page 5 — CIRCUIT INTELLIGENCE
 
-<img width="841" height="839" alt="05_circuit_intelligence" src="https://github.com/user-attachments/assets/0bdfa360-429c-47de-a5da-2fcb8ee8c724" />
+<img width="541" height="539" alt="05_circuit_intelligence" src="https://github.com/user-attachments/assets/0bdfa360-429c-47de-a5da-2fcb8ee8c724" />
 
 | Visual | Description |
 |---|---|
