@@ -46,6 +46,8 @@ together in one unified analytical tool.
 - Data Visualization
 - Business Intelligence
 
+---
+
 **This dashboard answers:**
 - Which drivers have the highest win-rate efficiency?
 - Which constructors delivered the most consistent finishing record?
