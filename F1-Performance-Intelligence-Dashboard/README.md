@@ -8,7 +8,6 @@
 ![Tables](https://img.shields.io/badge/Tables-14-C0392B?style=for-the-badge)
 ![Seasons](https://img.shields.io/badge/Seasons-1950--2024-1A1A1A?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-CC0_Public_Domain-27AE60?style=for-the-badge)
-![PGDA](https://img.shields.io/badge/PGDA-Batch_46-8E44AD?style=for-the-badge)
 
 ---
 
