@@ -73,7 +73,7 @@ F1 car hero image, project title, and professional branding.
 ### 📈 Page 2 — SEASON COMMAND CENTER
 
 
-<img width="836" height="846" alt="02_season_command_center" src="https://github.com/user-attachments/assets/a05894fb-7d21-4c2a-ad6d-16186441ce2c" />
+<img width="536" height="500" alt="02_season_command_center" src="https://github.com/user-attachments/assets/a05894fb-7d21-4c2a-ad6d-16186441ce2c" />
 
 
 | Visual | Description |
