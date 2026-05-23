@@ -60,7 +60,7 @@ together in one unified analytical tool.
 ## 🖥️ Dashboard Pages
 
 
-<img width="1278" height="726" alt="01_home" src="https://github.com/user-attachments/assets/c95304ba-3907-421c-bc80-185b72cb61be" />
+<img width="800" height="400" alt="01_home" src="https://github.com/user-attachments/assets/c95304ba-3907-421c-bc80-185b72cb61be" />
 
 
 ### 🏠 Page 1 — HOME
