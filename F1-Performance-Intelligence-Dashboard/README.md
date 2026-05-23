@@ -8,10 +8,6 @@
 ![License](https://img.shields.io/badge/License-CC0_Public_Domain-27AE60?style=for-the-badge)
 ![PGDA](https://img.shields.io/badge/PGDA-Batch_46-8E44AD?style=for-the-badge)
 
-> **Capstone Project 1 — PGDA Batch 46**  
-> **Track:** Dashboarding (Excel + Power BI)  
-> **Submitted by:** Niranjan | May 2026
-
 ---
 
 ## 📌 Project Overview
