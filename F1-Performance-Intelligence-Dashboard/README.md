@@ -297,9 +297,6 @@ F1-Performance-Intelligence-dashboard/
 ├── 📁 presentation/
 │   └── F1_Dashboard_Presentation.pptx
 │
-├── 📁 proposal/
-│   └── F1_Capstone_Project_Proposal.docx
-│
 └── 📁 dataset/
     └── dataset_source.txt
 ```
