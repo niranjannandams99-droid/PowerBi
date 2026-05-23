@@ -156,9 +156,9 @@ F1 car hero image, project title, and professional branding.
                                  │ raceId
            ┌─────────────────────┼──────────────────────┐
            │                     │                      │
-  ┌────────┴──────┐    ┌──────────┴─────────┐   ┌───────┴──────────┐
+  ┌────────┴──────┐    ┌──────────┴──────────┐   ┌───────┴──────────┐
   │  drivers.csv  │    │   results.csv       │   │ constructors.csv │
-  │   860+ rows   │────│  ⭐ FACT TABLE      │───│   210 rows       │
+  │   860+ rows   │────│   FACT TABLE        | ──│   210 rows       │
   └───────────────┘    │   26,000+ rows      │   └──────────────────┘
                        └──────────┬──────────┘
                ┌──────────────────┼──────────────────┐
@@ -273,7 +273,7 @@ Total_Circuits = DISTINCTCOUNT(circuits[circuitId])
 ## 📁 Repository Structure
 
 ```
-f1-powerbi-dashboard/
+F1-Performance-Intelligence-dashboard/
 │
 ├── 📊 F1_Dashboard.pbix
 ├── 📄 README.md
@@ -295,14 +295,6 @@ f1-powerbi-dashboard/
     └── dataset_source.txt
 ```
 
----
-
-## 👤 Author
-
-**Niranjan**  
-PGDA Batch 46 — Post Graduate Diploma in Data Analytics  
-Capstone Project 1 — Dashboarding Track (Excel + Power BI)  
-May 2026
 
 ---
 
@@ -315,4 +307,3 @@ May 2026
 ---
 
 > *"Races are won at the track. Championships are won at the factory."*  
-> — **Mercedes AMG Petronas F1 Team (2019)**
