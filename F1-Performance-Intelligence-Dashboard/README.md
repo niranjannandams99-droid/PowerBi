@@ -113,7 +113,7 @@ F1 car hero image, project title, and professional branding.
 ### 🏗️ Page 4 — CONSTRUCTOR DOMINANCE
 
 
-<img width="525" height="550" alt="04_constructor_dominance" src="https://github.com/user-attachments/assets/81b4c5f5-f0ef-46dc-aaef-ece1dfaaab35" />
+<img width="325" height="350" alt="04_constructor_dominance" src="https://github.com/user-attachments/assets/81b4c5f5-f0ef-46dc-aaef-ece1dfaaab35" />
 
 
 | Visual | Description |
