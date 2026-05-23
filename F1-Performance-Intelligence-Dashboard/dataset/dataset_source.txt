@@ -1,0 +1,9 @@
+Dataset : Formula 1 World Championship (1950–2024)
+Source  : https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
+License : CC0 Public Domain — free to use
+Version : Version 24 (21.99 MB)
+Files   : 14 CSV files, 120 columns
+Tables  : circuits, constructor_results, constructor_standings,
+          constructors, driver_standings, drivers, lap_times,
+          pit_stops, qualifying, races, results, seasons,
+          sprint_results, status
