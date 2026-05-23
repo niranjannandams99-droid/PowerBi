@@ -259,22 +259,11 @@ Total_Circuits = DISTINCTCOUNT(circuits[circuitId])
 
 ---
 
-## 🚀 How to Open
-
-1. Download [Power BI Desktop](https://powerbi.microsoft.com/desktop) — free
-2. Clone or download this repository
-3. Open `F1_Dashboard.pbix`
-4. Data is embedded — no extra setup needed
-5. Use slicers (Year / Driver / Constructor / Country) to explore
-
----
-
 ## 📁 Repository Structure
 
 ```
 F1-Performance-Intelligence-dashboard/
 │
-├── 📊 F1_Dashboard.pbix
 ├── 📄 README.md
 │
 ├── 📁 screenshots/
