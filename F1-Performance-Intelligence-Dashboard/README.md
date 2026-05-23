@@ -1,4 +1,4 @@
-<img width="735" height="490" alt="image" src="https://github.com/user-attachments/assets/7a06126c-04a5-4616-b000-f6dd7a1f1422" />
+<img width="800" height="490" alt="image" src="https://github.com/user-attachments/assets/7a06126c-04a5-4616-b000-f6dd7a1f1422" />
 
 # F1 World Championship Performance Intelligence Dashboard
 
