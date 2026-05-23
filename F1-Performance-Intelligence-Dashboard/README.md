@@ -35,6 +35,17 @@ way is difficult without proper analysis and visualization.
 Driver stats, team records, circuit data, and strategic insights are rarely visualized
 together in one unified analytical tool.
 
+## Skills Demonstrated
+
+- Power BI
+- Data Modeling
+- Star Schema Design
+- Power Query ETL
+- DAX Measures
+- Dashboard Development
+- Data Visualization
+- Business Intelligence
+
 **This dashboard answers:**
 - Which drivers have the highest win-rate efficiency?
 - Which constructors delivered the most consistent finishing record?
