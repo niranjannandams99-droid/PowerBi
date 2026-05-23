@@ -1,3 +1,5 @@
+<img width="735" height="490" alt="image" src="https://github.com/user-attachments/assets/7a06126c-04a5-4616-b000-f6dd7a1f1422" />
+
 # F1 World Championship Performance Intelligence Dashboard
 
 ## Project Overview
@@ -41,15 +43,5 @@ Performance Intelligence Dashboard for driver, constructor, and circuit analysis
 - Mercedes dominated the 2010s
 - Red Bull dominance emerging in the 2020s
 
-## Screenshots
 
-(insert screenshots)
 
-## Repository Structure
-
-(explain folders)
-
-## Author
-
-Niranjan Nandam
-PGDA 46
