@@ -60,7 +60,8 @@ together in one unified analytical tool.
 ## 🖥️ Dashboard Pages
 
 
-<img width="800" height="400" alt="01_home" src="https://github.com/user-attachments/assets/c95304ba-3907-421c-bc80-185b72cb61be" />
+<img width="1492" height="843" alt="Screenshot 2026-07-30 122315" src="https://github.com/user-attachments/assets/cf45b392-287c-4e67-a32d-d4d5dfc18e74" />
+
 
 
 ### 🏠 Page 1: HOME
@@ -73,7 +74,8 @@ F1 car hero image, project title, and professional branding.
 ### 📈 Page 2: SEASON COMMAND CENTER
 
 
-<img width="536" height="500" alt="02_season_command_center" src="https://github.com/user-attachments/assets/a05894fb-7d21-4c2a-ad6d-16186441ce2c" />
+<img width="815" height="845" alt="Screenshot 2026-07-30 020826" src="https://github.com/user-attachments/assets/5ed0dedc-1310-4af8-a23f-98e1bcd43a5a" />
+
 
 
 | Visual | Description |
@@ -93,7 +95,8 @@ F1 car hero image, project title, and professional branding.
 ### 👤 Page 3: DRIVER ANALYTICS
 
 
-<img width="500" height="563" alt="03_driver_analytics" src="https://github.com/user-attachments/assets/7b434aa7-dcf5-4ea3-b2cc-bdf1a7c1d191" />
+<img width="980" height="805" alt="Screenshot 2026-07-30 020935" src="https://github.com/user-attachments/assets/eec592e2-d5a6-47c6-9212-df8bd71ac10c" />
+
 
 
 | Visual | Description |
@@ -113,7 +116,8 @@ F1 car hero image, project title, and professional branding.
 ### 🏗️ Page 4 : CONSTRUCTOR DOMINANCE
 
 
-<img width="525" height="550" alt="04_constructor_dominance" src="https://github.com/user-attachments/assets/81b4c5f5-f0ef-46dc-aaef-ece1dfaaab35" />
+<img width="814" height="836" alt="Screenshot 2026-07-30 021111" src="https://github.com/user-attachments/assets/456ad9a5-b70e-4170-93af-757365529eb2" />
+
 
 
 | Visual | Description |
@@ -132,7 +136,8 @@ F1 car hero image, project title, and professional branding.
 
 ### 🗺️ Page 5 : CIRCUIT INTELLIGENCE
 
-<img width="541" height="539" alt="05_circuit_intelligence" src="https://github.com/user-attachments/assets/0bdfa360-429c-47de-a5da-2fcb8ee8c724" />
+<img width="812" height="844" alt="Screenshot 2026-07-30 021157" src="https://github.com/user-attachments/assets/dcd3b2b2-d7bd-4dab-bbf6-20c1514297d9" />
+
 
 | Visual | Description |
 |---|---|
