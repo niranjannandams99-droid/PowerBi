@@ -1,7 +1,7 @@
 <img width="800" height="490" alt="image" src="https://github.com/user-attachments/assets/7a06126c-04a5-4616-b000-f6dd7a1f1422" />
 
 
-# 🏎️ F1 World Championship — Performance Intelligence Dashboard
+# 🏎️ F1 World Championship | Performance Intelligence Dashboard
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
@@ -63,14 +63,14 @@ together in one unified analytical tool.
 <img width="800" height="400" alt="01_home" src="https://github.com/user-attachments/assets/c95304ba-3907-421c-bc80-185b72cb61be" />
 
 
-### 🏠 Page 1 — HOME
+### 🏠 Page 1: HOME
 Navigation hub with action buttons linking to all dashboard pages.
 F1 car hero image, project title, and professional branding.
 
 
 ---
 
-### 📈 Page 2 — SEASON COMMAND CENTER
+### 📈 Page 2: SEASON COMMAND CENTER
 
 
 <img width="536" height="500" alt="02_season_command_center" src="https://github.com/user-attachments/assets/a05894fb-7d21-4c2a-ad6d-16186441ce2c" />
@@ -90,7 +90,7 @@ F1 car hero image, project title, and professional branding.
 
 ---
 
-### 👤 Page 3 — DRIVER ANALYTICS
+### 👤 Page 3: DRIVER ANALYTICS
 
 
 <img width="500" height="563" alt="03_driver_analytics" src="https://github.com/user-attachments/assets/7b434aa7-dcf5-4ea3-b2cc-bdf1a7c1d191" />
@@ -98,7 +98,7 @@ F1 car hero image, project title, and professional branding.
 
 | Visual | Description |
 |---|---|
-| Driver Slicer | Dropdown — select any of 860+ drivers |
+| Driver Slicer | Dropdown -- select any of 860+ drivers |
 | 5 Dynamic KPI Cards | Updates per selected driver |
 | Top 10 Bar Chart | All-time race winners |
 | Career Line Chart | Win progression year by year |
@@ -110,7 +110,7 @@ F1 car hero image, project title, and professional branding.
 
 ---
 
-### 🏗️ Page 4 — CONSTRUCTOR DOMINANCE
+### 🏗️ Page 4 : CONSTRUCTOR DOMINANCE
 
 
 <img width="525" height="550" alt="04_constructor_dominance" src="https://github.com/user-attachments/assets/81b4c5f5-f0ef-46dc-aaef-ece1dfaaab35" />
@@ -120,17 +120,17 @@ F1 car hero image, project title, and professional branding.
 |---|---|
 | Constructor Slicer | Select any team |
 | All-Time Wins Bar | Ferrari 249 → McLaren 185 → Mercedes 129 → Red Bull 122 → Williams 114 |
-| Decade Line Chart | Era shifts — Ferrari 1950s → McLaren 1980s → Williams 1990s → Ferrari 2000s → Mercedes 2010s → Red Bull 2020s |
+| Decade Line Chart | Era shifts -- Ferrari 1950s → McLaren 1980s → Williams 1990s → Ferrari 2000s → Mercedes 2010s → Red Bull 2020s |
 | Wins vs DNFs | Reliability analysis per constructor |
 | DNF Rate Bar | Most unreliable constructors (entries > 200 filter) |
 
-> 💡 **Key Insight:** Ferrari leads all-time with 249 wins but **29.27% DNF rate**. Mercedes is the most reliable modern team at just **11.66% DNF rate** — explaining their 2010s dynasty.
+> 💡 **Key Insight:** Ferrari leads all-time with 249 wins but **29.27% DNF rate**. Mercedes is the most reliable modern team at just **11.66% DNF rate** -- explaining their 2010s dynasty.
 
 
 
 ---
 
-### 🗺️ Page 5 — CIRCUIT INTELLIGENCE
+### 🗺️ Page 5 : CIRCUIT INTELLIGENCE
 
 <img width="541" height="539" alt="05_circuit_intelligence" src="https://github.com/user-attachments/assets/0bdfa360-429c-47de-a5da-2fcb8ee8c724" />
 
@@ -142,7 +142,7 @@ F1 car hero image, project title, and professional branding.
 | Most Used Circuits | Monza 74 · Monaco 70 · Silverstone 59 · Spa 57 |
 | Host Country Donut | Italy · UK · Germany · USA · Monaco dominate |
 
-> 💡 **Key Insight:** Autodromo Nazionale di Monza is the most-used circuit with **74 races held** — European nations dominate F1 hosting history.
+> 💡 **Key Insight:** Autodromo Nazionale di Monza is the most-used circuit with **74 races held** | European nations dominate F1 hosting history.
 
 
 
@@ -153,10 +153,10 @@ F1 car hero image, project title, and professional branding.
 | Property | Details |
 |---|---|
 | **Name** | Formula 1 World Championship (1950–2024) |
-| **Source** | [Kaggle — rohanrao/formula-1-world-championship](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020) |
+| **Source** | [Kaggle : rohanrao/formula-1-world-championship](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020) |
 | **Compiled by** | Ergast Motor Racing Developer API — ergast.com/mrd |
 | **License** | CC0: Public Domain |
-| **Version** | Version 24 — 21.99 MB |
+| **Version** | Version 24 : 21.99 MB |
 | **Files** | 14 CSV files · 120 columns |
 
 ### 14 Tables
@@ -180,7 +180,7 @@ F1 car hero image, project title, and professional branding.
 
 ---
 
-## 🏗️ Data Model — Star Schema
+## 🏗️ Data Model | Star Schema
 
 ```
                         ┌──────────────────┐
@@ -211,11 +211,11 @@ All 14 relationships defined and validated in Power BI Model View.
 
 | Tool | Purpose |
 |---|---|
-| **Power BI Desktop** | Primary dashboard — 5 pages, star schema, DAX measures |
+| **Power BI Desktop** | Primary dashboard : 5 pages, star schema, DAX measures |
 | **Microsoft Excel** | Preliminary EDA, pivot summaries, data profiling |
-| **Power Query (M)** | ETL — null handling, type conversion, calculated columns |
+| **Power Query (M)** | ETL - null handling, type conversion, calculated columns |
 | **DAX** | 8 custom KPI measures |
-| **Kaggle** | Data source — 14 CSV downloads |
+| **Kaggle** | Data source : 14 CSV downloads |
 
 ---
 
@@ -321,7 +321,7 @@ F1-Performance-Intelligence-dashboard/
 ## 📜 License
 
 - **Dataset:** CC0 Public Domain
-  (Kaggle — Formula 1 World Championship 1950–2024 by rohanrao)
+  (Kaggle : Formula 1 World Championship 1950–2024 by rohanrao)
 - **Project:** Open for educational reference
 
 ---
