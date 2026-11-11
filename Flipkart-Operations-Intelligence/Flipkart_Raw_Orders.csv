@@ -1,0 +1,1501 @@
+﻿Order_ID,Order_Date,City,Category,Order_Value,Status,Delivery_Type,Customer_Segment,Warehouse,Promised_Days,Actual_Days,SLA_Breached
+FK100085,2026-07-01 00:00:00,Bengaluru,Home & Kitchen,316,Delivered,Standard,Premium,BLR-WH01,4,5,Yes
+FK101049,2026-07-01 00:00:00,Chennai,Beauty,3800,Delivered,Express,New,CHE-WH01,2,2,No
+FK100410,2026-07-01 00:00:00,Hyderabad,Beauty,1810,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100822,2026-07-01 00:00:00,Delhi,Home & Kitchen,2236,Delivered,Standard,New,DEL-WH01,4,4,No
+FK101183,2026-07-01 00:00:00,Ahmedabad,Home & Kitchen,3075,Delivered,Standard,Premium,AMD-WH01,4,4,No
+FK101479,2026-07-01 00:00:00,Ahmedabad,Beauty,2723,Delivered,Express,Regular,AMD-WH01,2,2,No
+FK100624,2026-07-01 00:00:00,Bengaluru,Fashion,927,Delivered,Express,Regular,BLR-WH01,2,2,No
+FK100735,2026-07-01 00:00:00,Ahmedabad,Electronics,3284,Delivered,Standard,New,AMD-WH01,4,5,Yes
+FK100862,2026-07-01 00:00:00,Ahmedabad,Home & Kitchen,1634,Delivered,Standard,Regular,AMD-WH01,4,7,Yes
+FK100542,2026-07-01 00:00:00,Kolkata,Fashion,423,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100221,2026-07-01 00:00:00,Hyderabad,Home & Kitchen,5708,Delivered,Standard,New,HYD-WH01,4,6,Yes
+FK100210,2026-07-01 00:00:00,Mumbai,Grocery,2742,Delivered,Standard,New,MUM-WH01,4,4,No
+FK100639,2026-07-01 00:00:00,Mumbai,Grocery,1909,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100972,2026-07-01 00:00:00,Kolkata,Home & Kitchen,1577,Delivered,Standard,New,KOL-WH01,4,4,No
+FK100175,2026-07-01 00:00:00,Pune,Grocery,1063,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100978,2026-07-01 00:00:00,Mumbai,Grocery,356,Delivered,Standard,New,MUM-WH01,4,4,No
+FK101094,2026-07-01 00:00:00,Chennai,Home & Kitchen,3094,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK100146,2026-07-01 00:00:00,Bengaluru,Home & Kitchen,4615,Returned,Standard,Regular,BLR-WH01,4,,N/A
+FK101042,2026-07-01 00:00:00,Mumbai,Electronics,1055,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100374,2026-07-01 00:00:00,Kolkata,Electronics,2451,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100379,2026-07-01 00:00:00,Kolkata,Fashion,1430,Delivered,Standard,New,KOL-WH01,4,5,Yes
+FK100111,2026-07-01 00:00:00,Delhi,Electronics,2048,Delivered,Standard,Premium,DEL-WH01,4,4,No
+FK100376,2026-07-01 00:00:00,Kolkata,Beauty,958,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100571,2026-07-01 00:00:00,Mumbai,Electronics,902,Delivered,Standard,New,MUM-WH01,4,4,No
+FK100718,2026-07-01 00:00:00,Chennai,Electronics,2072,Delivered,Standard,New,CHE-WH01,4,4,No
+FK101027,2026-07-01 00:00:00,Ahmedabad,Beauty,1261,Delivered,Standard,New,AMD-WH01,4,4,No
+FK100057,2026-07-02 00:00:00,Mumbai,Beauty,1644,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100173,2026-07-02 00:00:00,Mumbai,Electronics,717,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100220,2026-07-02 00:00:00,Delhi,Electronics,5657,Delivered,Standard,Regular,DEL-WH01,4,7,Yes
+FK101151,2026-07-02 00:00:00,Bengaluru,Electronics,1052,Returned,Standard,Regular,BLR-WH01,4,,N/A
+FK100841,2026-07-02 00:00:00,Kolkata,Beauty,3894,Returned,Standard,Regular,KOL-WH01,4,,N/A
+FK100172,2026-07-02 00:00:00,Chennai,Home & Kitchen,1747,Delivered,Express,Regular,CHE-WH01,2,2,No
+FK101099,2026-07-02 00:00:00,Kolkata,Electronics,2539,Delivered,Standard,New,KOL-WH01,4,5,Yes
+FK101464,2026-07-02 00:00:00,Delhi,Fashion,4811,Delivered,Express,New,DEL-WH01,2,2,No
+FK100047,2026-07-02 00:00:00,Hyderabad,Fashion,1945,Delivered,Express,Premium,HYD-WH01,2,3,Yes
+FK100438,2026-07-02 00:00:00,Hyderabad,Home & Kitchen,2053,Cancelled,Standard,New,HYD-WH01,4,,N/A
+FK100168,2026-07-02 00:00:00,Kolkata,Beauty,2665,Returned,Standard,New,KOL-WH01,4,,N/A
+FK100999,2026-07-02 00:00:00,Delhi,Fashion,1455,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100838,2026-07-02 00:00:00,Chennai,Electronics,1191,Delivered,Standard,Regular,CHE-WH01,4,5,Yes
+FK100742,2026-07-02 00:00:00,Chennai,Electronics,2868,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK101403,2026-07-02 00:00:00,Mumbai,Beauty,2932,Delivered,Standard,New,MUM-WH01,4,4,No
+FK100415,2026-07-02 00:00:00,Hyderabad,Beauty,659,Delivered,Standard,Regular,HYD-WH01,4,5,Yes
+FK100012,2026-07-02 00:00:00,Chennai,Grocery,920,Delivered,Express,Regular,CHE-WH01,2,2,No
+FK101093,2026-07-02 00:00:00,Delhi,Beauty,1986,Delivered,Standard,Regular,DEL-WH01,4,6,Yes
+FK100937,2026-07-02 00:00:00,Delhi,Beauty,1232,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100015,2026-07-02 00:00:00,Kolkata,Home & Kitchen,1151,Delivered,Standard,New,KOL-WH01,4,4,No
+FK100308,2026-07-02 00:00:00,Mumbai,Fashion,1412,Delivered,Standard,Premium,MUM-WH01,4,4,No
+FK100177,2026-07-02 00:00:00,Chennai,Beauty,936,Delivered,Standard,Regular,CHE-WH01,4,5,Yes
+FK100150,2026-07-03 00:00:00,Chennai,Fashion,3720,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK100110,2026-07-03 00:00:00,Chennai,Home & Kitchen,1861,Cancelled,Standard,New,CHE-WH01,4,,N/A
+FK100829,2026-07-03 00:00:00,Chennai,Beauty,2934,Delivered,Standard,New,CHE-WH01,4,6,Yes
+FK100169,2026-07-03 00:00:00,Delhi,Electronics,3302,Delivered,Standard,Regular,DEL-WH01,4,5,Yes
+FK100573,2026-07-03 00:00:00,Ahmedabad,Grocery,3836,Cancelled,Express,Premium,AMD-WH01,2,,N/A
+FK100630,2026-07-03 00:00:00,Delhi,Grocery,1327,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK101240,2026-07-03 00:00:00,Pune,Home & Kitchen,1411,Delivered,Express,Regular,PUN-WH01,2,4,Yes
+FK100009,2026-07-03 00:00:00,Ahmedabad,Fashion,1148,Cancelled,Standard,New,AMD-WH01,4,,N/A
+FK101276,2026-07-03 00:00:00,Kolkata,Fashion,1841,Delivered,Express,Regular,KOL-WH01,2,2,No
+FK100794,2026-07-03 00:00:00,Mumbai,Beauty,2164,Cancelled,Standard,Regular,MUM-WH01,4,,N/A
+FK101053,2026-07-03 00:00:00,Delhi,Home & Kitchen,9609,Delivered,Express,Premium,DEL-WH01,2,3,Yes
+FK101478,2026-07-03 00:00:00,Hyderabad,Electronics,2536,Delivered,Standard,Regular,HYD-WH01,4,5,Yes
+FK101331,2026-07-03 00:00:00,Ahmedabad,Grocery,2011,Cancelled,Express,Premium,AMD-WH01,2,,N/A
+FK100748,2026-07-03 00:00:00,Hyderabad,Home & Kitchen,2557,Delivered,Express,Premium,HYD-WH01,2,2,No
+FK101317,2026-07-03 00:00:00,Hyderabad,Fashion,1193,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100035,2026-07-03 00:00:00,Hyderabad,Grocery,2372,Delivered,Standard,Regular,HYD-WH01,4,5,Yes
+FK100197,2026-07-03 00:00:00,Bengaluru,Home & Kitchen,1333,Delivered,Express,New,BLR-WH01,2,2,No
+FK101190,2026-07-03 00:00:00,Ahmedabad,Grocery,1424,Delivered,Standard,Premium,AMD-WH01,4,5,Yes
+FK100230,2026-07-03 00:00:00,Hyderabad,Electronics,1982,Delivered,Standard,New,HYD-WH01,4,4,No
+FK100653,2026-07-03 00:00:00,Kolkata,Home & Kitchen,932,Delivered,Standard,Regular,KOL-WH01,4,6,Yes
+FK100543,2026-07-03 00:00:00,Chennai,Grocery,2361,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK100412,2026-07-04 00:00:00,Hyderabad,Home & Kitchen,1296,Delivered,Express,Premium,HYD-WH01,2,2,No
+FK100278,2026-07-04 00:00:00,Bengaluru,Electronics,2075,Delivered,Standard,New,BLR-WH01,4,4,No
+FK101308,2026-07-04 00:00:00,Chennai,Electronics,2226,Delivered,Standard,New,CHE-WH01,4,4,No
+FK100122,2026-07-04 00:00:00,Hyderabad,Fashion,1210,Delivered,Express,Regular,HYD-WH01,2,2,No
+FK100802,2026-07-04 00:00:00,Hyderabad,Grocery,1046,Cancelled,Standard,New,HYD-WH01,4,,N/A
+FK100680,2026-07-04 00:00:00,Pune,Electronics,1619,Delivered,Standard,New,PUN-WH01,4,6,Yes
+FK100787,2026-07-04 00:00:00,Chennai,Fashion,502,Delivered,Standard,New,CHE-WH01,4,5,Yes
+FK100700,2026-07-04 00:00:00,Chennai,Home & Kitchen,3899,Cancelled,Standard,Regular,CHE-WH01,4,,N/A
+FK100699,2026-07-04 00:00:00,Pune,Electronics,1416,Delivered,Express,Regular,PUN-WH01,2,2,No
+FK100643,2026-07-04 00:00:00,Mumbai,Fashion,1606,Delivered,Express,Regular,MUM-WH01,2,2,No
+FK101048,2026-07-04 00:00:00,Ahmedabad,Electronics,1288,Delivered,Standard,Regular,AMD-WH01,4,5,Yes
+FK101247,2026-07-04 00:00:00,Delhi,Electronics,1910,Delivered,Standard,New,DEL-WH01,4,4,No
+FK100878,2026-07-04 00:00:00,Ahmedabad,Beauty,1834,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100060,2026-07-04 00:00:00,Ahmedabad,Electronics,1148,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK101456,2026-07-04 00:00:00,Pune,Fashion,2774,Delivered,Express,Premium,PUN-WH01,2,2,No
+FK100056,2026-07-04 00:00:00,Bengaluru,Grocery,2670,Delivered,Express,Regular,BLR-WH01,2,2,No
+FK101120,2026-07-04 00:00:00,Pune,Home & Kitchen,2424,Delivered,Express,Regular,PUN-WH01,2,3,Yes
+FK100042,2026-07-04 00:00:00,Ahmedabad,Beauty,2283,Delivered,Standard,Regular,AMD-WH01,4,6,Yes
+FK100523,2026-07-04 00:00:00,Delhi,Grocery,538,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100112,2026-07-05 00:00:00,Chennai,Grocery,1257,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK101319,2026-07-05 00:00:00,Hyderabad,Home & Kitchen,1039,Delivered,Standard,Premium,HYD-WH01,4,4,No
+FK100514,2026-07-05 00:00:00,Ahmedabad,Grocery,2423,Delivered,Express,New,AMD-WH01,2,2,No
+FK101320,2026-07-05 00:00:00,Pune,Electronics,699,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100920,2026-07-05 00:00:00,Pune,Beauty,2222,Delivered,Express,Regular,PUN-WH01,2,5,Yes
+FK101103,2026-07-05 00:00:00,Ahmedabad,Grocery,1129,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK101349,2026-07-05 00:00:00,Hyderabad,Fashion,2168,Delivered,Standard,Premium,HYD-WH01,4,4,No
+FK100834,2026-07-05 00:00:00,Mumbai,Fashion,2270,Cancelled,Standard,New,MUM-WH01,4,,N/A
+FK101354,2026-07-05 00:00:00,Ahmedabad,Fashion,4265,Delivered,Standard,New,AMD-WH01,4,4,No
+FK100496,2026-07-05 00:00:00,Bengaluru,Grocery,4078,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100814,2026-07-05 00:00:00,Pune,Electronics,3497,Delivered,Express,New,PUN-WH01,2,3,Yes
+FK100875,2026-07-05 00:00:00,Pune,Beauty,1607,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100961,2026-07-05 00:00:00,Kolkata,Fashion,755,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100629,2026-07-05 00:00:00,Bengaluru,Electronics,4781,Delivered,Express,New,BLR-WH01,2,2,No
+FK100658,2026-07-05 00:00:00,Chennai,Electronics,1892,Delivered,Standard,Premium,CHE-WH01,4,4,No
+FK100611,2026-07-05 00:00:00,Delhi,Home & Kitchen,4817,Delivered,Express,Regular,DEL-WH01,2,2,No
+FK101391,2026-07-05 00:00:00,Kolkata,Beauty,1332,Delivered,Standard,Regular,KOL-WH01,4,5,Yes
+FK100093,2026-07-05 00:00:00,Hyderabad,Home & Kitchen,4060,Delivered,Standard,New,HYD-WH01,4,4,No
+FK100354,2026-07-05 00:00:00,Delhi,Electronics,3170,Delivered,Express,Regular,DEL-WH01,2,3,Yes
+FK100931,2026-07-05 00:00:00,Hyderabad,Beauty,10015,Cancelled,Standard,New,HYD-WH01,4,,N/A
+FK100719,2026-07-05 00:00:00,Pune,Grocery,3305,Returned,Standard,Regular,PUN-WH01,4,,N/A
+FK100678,2026-07-05 00:00:00,Delhi,Home & Kitchen,2876,Delivered,Express,Regular,DEL-WH01,2,2,No
+FK100712,2026-07-05 00:00:00,Bengaluru,Grocery,552,Cancelled,Standard,Premium,BLR-WH01,4,,N/A
+FK101273,2026-07-05 00:00:00,Kolkata,Beauty,6235,Returned,Standard,New,KOL-WH01,4,,N/A
+FK100551,2026-07-06 00:00:00,Mumbai,Beauty,2007,Returned,Standard,Premium,MUM-WH01,4,,N/A
+FK100138,2026-07-06 00:00:00,Mumbai,Grocery,4876,Delivered,Standard,New,MUM-WH01,4,4,No
+FK101448,2026-07-06 00:00:00,Delhi,Fashion,1644,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100899,2026-07-06 00:00:00,Pune,Electronics,1047,Delivered,Standard,Regular,PUN-WH01,4,5,Yes
+FK100773,2026-07-06 00:00:00,Kolkata,Electronics,6223,Delivered,Express,Regular,KOL-WH01,2,2,No
+FK101139,2026-07-06 00:00:00,Hyderabad,Home & Kitchen,2318,Delivered,Standard,Regular,HYD-WH01,4,6,Yes
+FK100831,2026-07-06 00:00:00,Pune,Electronics,1341,Cancelled,Standard,New,PUN-WH01,4,,N/A
+FK100688,2026-07-06 00:00:00,Chennai,Fashion,863,Cancelled,Standard,New,CHE-WH01,4,,N/A
+FK100603,2026-07-06 00:00:00,Mumbai,Fashion,2767,Delivered,Standard,Regular,MUM-WH01,4,5,Yes
+FK100286,2026-07-06 00:00:00,Ahmedabad,Electronics,1319,Delivered,Standard,Premium,AMD-WH01,4,5,Yes
+FK100627,2026-07-06 00:00:00,Ahmedabad,Electronics,1461,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK101474,2026-07-06 00:00:00,Delhi,Electronics,1535,Cancelled,Standard,Regular,DEL-WH01,4,,N/A
+FK100058,2026-07-06 00:00:00,Pune,Home & Kitchen,1230,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100949,2026-07-06 00:00:00,Kolkata,Electronics,2235,Delivered,Standard,New,KOL-WH01,4,4,No
+FK101318,2026-07-06 00:00:00,Hyderabad,Grocery,1013,Delivered,Standard,Regular,HYD-WH01,4,6,Yes
+FK100799,2026-07-06 00:00:00,Mumbai,Beauty,2685,Delivered,Standard,Premium,MUM-WH01,4,4,No
+FK100803,2026-07-06 00:00:00,Ahmedabad,Beauty,4545,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100356,2026-07-06 00:00:00,Bengaluru,Grocery,2348,Delivered,Standard,Premium,BLR-WH01,4,5,Yes
+FK101375,2026-07-06 00:00:00,Hyderabad,Grocery,1984,Cancelled,Standard,New,HYD-WH01,4,,N/A
+FK101083,2026-07-07 00:00:00,Ahmedabad,Beauty,2635,Delivered,Standard,Premium,AMD-WH01,4,4,No
+FK100901,2026-07-07 00:00:00,Delhi,Grocery,1906,Cancelled,Standard,Premium,DEL-WH01,4,,N/A
+FK101390,2026-07-07 00:00:00,Bengaluru,Grocery,8684,Cancelled,Standard,Regular,BLR-WH01,4,,N/A
+FK101085,2026-07-07 00:00:00,Pune,Fashion,1764,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK101000,2026-07-07 00:00:00,Pune,Home & Kitchen,936,Delivered,Standard,Premium,PUN-WH01,4,5,Yes
+FK100217,2026-07-07 00:00:00,Bengaluru,Fashion,3389,Cancelled,Standard,Regular,BLR-WH01,4,,N/A
+FK100444,2026-07-07 00:00:00,Pune,Electronics,2557,Delivered,Standard,New,PUN-WH01,4,4,No
+FK100747,2026-07-07 00:00:00,Mumbai,Home & Kitchen,1578,Delivered,Express,Regular,MUM-WH01,2,2,No
+FK101444,2026-07-07 00:00:00,Ahmedabad,Home & Kitchen,3352,Returned,Express,New,AMD-WH01,2,,N/A
+FK100096,2026-07-07 00:00:00,Hyderabad,Home & Kitchen,2253,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK101226,2026-07-07 00:00:00,Delhi,Grocery,2088,Delivered,Standard,New,DEL-WH01,4,4,No
+FK100255,2026-07-07 00:00:00,Hyderabad,Grocery,2540,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100322,2026-07-07 00:00:00,Delhi,Electronics,1400,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100037,2026-07-07 00:00:00,Ahmedabad,Electronics,2026,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK101224,2026-07-07 00:00:00,Hyderabad,Electronics,1523,Returned,Standard,Regular,HYD-WH01,4,,N/A
+FK100505,2026-07-07 00:00:00,Pune,Home & Kitchen,927,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK101061,2026-07-07 00:00:00,Ahmedabad,Fashion,2696,Cancelled,Express,Regular,AMD-WH01,2,,N/A
+FK100586,2026-07-08 00:00:00,Chennai,Home & Kitchen,1531,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK100584,2026-07-08 00:00:00,Bengaluru,Electronics,649,Delivered,Standard,New,BLR-WH01,4,4,No
+FK100736,2026-07-08 00:00:00,Hyderabad,Beauty,1099,Cancelled,Express,Regular,HYD-WH01,2,,N/A
+FK101050,2026-07-08 00:00:00,Bengaluru,Grocery,586,Delivered,Express,Regular,BLR-WH01,2,2,No
+FK100351,2026-07-08 00:00:00,Delhi,Grocery,811,Delivered,Standard,Regular,DEL-WH01,4,5,Yes
+FK100267,2026-07-08 00:00:00,Pune,Fashion,584,Cancelled,Standard,Regular,PUN-WH01,4,,N/A
+FK101071,2026-07-08 00:00:00,Bengaluru,Home & Kitchen,544,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK101498,2026-07-08 00:00:00,Mumbai,Grocery,1960,Delivered,Express,New,MUM-WH01,2,2,No
+FK100051,2026-07-08 00:00:00,Pune,Home & Kitchen,1089,Delivered,Express,Premium,PUN-WH01,2,2,No
+FK101206,2026-07-08 00:00:00,Delhi,Grocery,2218,Delivered,Standard,New,DEL-WH01,4,4,No
+FK100328,2026-07-08 00:00:00,Mumbai,Beauty,2816,Delivered,Standard,New,MUM-WH01,4,4,No
+FK100769,2026-07-08 00:00:00,Hyderabad,Grocery,903,Returned,Standard,Regular,HYD-WH01,4,,N/A
+FK101062,2026-07-08 00:00:00,Bengaluru,Beauty,5745,Delivered,Standard,New,BLR-WH01,4,4,No
+FK100440,2026-07-08 00:00:00,Mumbai,Fashion,699,Delivered,Express,Premium,MUM-WH01,2,2,No
+FK100698,2026-07-08 00:00:00,Mumbai,Electronics,3403,Cancelled,Express,Regular,MUM-WH01,2,,N/A
+FK100254,2026-07-08 00:00:00,Pune,Fashion,2460,Delivered,Express,Regular,PUN-WH01,2,4,Yes
+FK100930,2026-07-08 00:00:00,Pune,Fashion,1313,Cancelled,Express,New,PUN-WH01,2,,N/A
+FK100809,2026-07-08 00:00:00,Mumbai,Beauty,1771,Returned,Standard,Regular,MUM-WH01,4,,N/A
+FK100089,2026-07-08 00:00:00,Pune,Fashion,6759,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100518,2026-07-08 00:00:00,Delhi,Fashion,1486,Delivered,Express,New,DEL-WH01,2,2,No
+FK100086,2026-07-08 00:00:00,Bengaluru,Home & Kitchen,2140,Delivered,Standard,Premium,BLR-WH01,4,4,No
+FK100311,2026-07-09 00:00:00,Mumbai,Beauty,4354,Delivered,Express,Regular,MUM-WH01,2,2,No
+FK100115,2026-07-09 00:00:00,Bengaluru,Home & Kitchen,1493,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK101324,2026-07-09 00:00:00,Pune,Beauty,1028,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK101227,2026-07-09 00:00:00,Pune,Fashion,743,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100045,2026-07-09 00:00:00,Pune,Beauty,921,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100372,2026-07-09 00:00:00,Bengaluru,Beauty,1044,Delivered,Standard,New,BLR-WH01,4,4,No
+FK100965,2026-07-09 00:00:00,Bengaluru,Home & Kitchen,4493,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK101341,2026-07-09 00:00:00,Kolkata,Grocery,2350,Delivered,Express,Regular,KOL-WH01,2,2,No
+FK100501,2026-07-09 00:00:00,Chennai,Electronics,2449,Cancelled,Standard,Regular,CHE-WH01,4,,N/A
+FK100227,2026-07-09 00:00:00,Mumbai,Electronics,1581,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100858,2026-07-09 00:00:00,Pune,Home & Kitchen,994,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK101346,2026-07-09 00:00:00,Ahmedabad,Fashion,693,Delivered,Standard,Regular,AMD-WH01,4,5,Yes
+FK100084,2026-07-09 00:00:00,Hyderabad,Beauty,2028,Delivered,Express,New,HYD-WH01,2,2,No
+FK101114,2026-07-09 00:00:00,Delhi,Electronics,2952,Delivered,Standard,Premium,DEL-WH01,4,4,No
+FK100154,2026-07-09 00:00:00,Kolkata,Electronics,3316,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100477,2026-07-09 00:00:00,Pune,Home & Kitchen,882,Delivered,Express,Premium,PUN-WH01,2,2,No
+FK101106,2026-07-09 00:00:00,Chennai,Home & Kitchen,1922,Delivered,Standard,Regular,CHE-WH01,4,7,Yes
+FK100510,2026-07-09 00:00:00,Chennai,Fashion,6992,Returned,Express,Regular,CHE-WH01,2,,N/A
+FK100793,2026-07-09 00:00:00,Ahmedabad,Fashion,1415,Delivered,Standard,New,AMD-WH01,4,5,Yes
+FK100846,2026-07-09 00:00:00,Hyderabad,Electronics,1785,Cancelled,Standard,Regular,HYD-WH01,4,,N/A
+FK100988,2026-07-09 00:00:00,Delhi,Beauty,2028,Delivered,Standard,Regular,DEL-WH01,4,5,Yes
+FK101432,2026-07-10 00:00:00,Ahmedabad,Fashion,4186,Delivered,Standard,Premium,AMD-WH01,4,5,Yes
+FK101218,2026-07-10 00:00:00,Kolkata,Beauty,3028,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100836,2026-07-10 00:00:00,Kolkata,Electronics,1547,Delivered,Standard,Regular,KOL-WH01,4,5,Yes
+FK101055,2026-07-10 00:00:00,Hyderabad,Grocery,729,Cancelled,Standard,New,HYD-WH01,4,,N/A
+FK100765,2026-07-10 00:00:00,Kolkata,Home & Kitchen,2054,Returned,Standard,Regular,KOL-WH01,4,,N/A
+FK100403,2026-07-10 00:00:00,Kolkata,Beauty,1225,Delivered,Express,Regular,KOL-WH01,2,2,No
+FK100452,2026-07-10 00:00:00,Bengaluru,Fashion,1075,Delivered,Express,New,BLR-WH01,2,2,No
+FK100681,2026-07-10 00:00:00,Bengaluru,Fashion,1070,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100407,2026-07-10 00:00:00,Bengaluru,Fashion,1833,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100608,2026-07-10 00:00:00,Bengaluru,Fashion,574,Delivered,Express,New,BLR-WH01,2,3,Yes
+FK101397,2026-07-10 00:00:00,Mumbai,Grocery,2316,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100919,2026-07-10 00:00:00,Kolkata,Home & Kitchen,3951,Returned,Standard,Regular,KOL-WH01,4,,N/A
+FK101144,2026-07-10 00:00:00,Mumbai,Home & Kitchen,700,Delivered,Express,Regular,MUM-WH01,2,2,No
+FK100833,2026-07-10 00:00:00,Hyderabad,Grocery,3567,Delivered,Standard,New,HYD-WH01,4,4,No
+FK101270,2026-07-10 00:00:00,Kolkata,Fashion,1346,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK101337,2026-07-11 00:00:00,Chennai,Beauty,1657,Cancelled,Standard,Regular,CHE-WH01,4,,N/A
+FK100869,2026-07-11 00:00:00,Chennai,Beauty,417,Returned,Standard,Regular,CHE-WH01,4,,N/A
+FK100827,2026-07-11 00:00:00,Bengaluru,Grocery,1808,Delivered,Express,Regular,BLR-WH01,2,2,No
+FK101160,2026-07-11 00:00:00,Pune,Fashion,1126,Returned,Standard,Regular,PUN-WH01,4,,N/A
+FK100088,2026-07-11 00:00:00,Delhi,Grocery,1100,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK101098,2026-07-11 00:00:00,Bengaluru,Home & Kitchen,1111,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK101446,2026-07-11 00:00:00,Bengaluru,Electronics,3137,Delivered,Express,New,BLR-WH01,2,3,Yes
+FK101350,2026-07-11 00:00:00,Delhi,Fashion,3166,Delivered,Express,New,DEL-WH01,2,3,Yes
+FK101302,2026-07-11 00:00:00,Hyderabad,Beauty,909,Delivered,Express,New,HYD-WH01,2,2,No
+FK101162,2026-07-11 00:00:00,Bengaluru,Electronics,1346,Delivered,Standard,Premium,BLR-WH01,4,4,No
+FK100192,2026-07-11 00:00:00,Kolkata,Home & Kitchen,1888,Delivered,Standard,New,KOL-WH01,4,5,Yes
+FK100946,2026-07-11 00:00:00,Delhi,Grocery,3056,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100970,2026-07-11 00:00:00,Bengaluru,Electronics,2106,Returned,Standard,New,BLR-WH01,4,,N/A
+FK100211,2026-07-11 00:00:00,Mumbai,Grocery,828,Delivered,Standard,Regular,MUM-WH01,4,5,Yes
+FK100616,2026-07-11 00:00:00,Kolkata,Fashion,1328,Returned,Standard,New,KOL-WH01,4,,N/A
+FK100954,2026-07-12 00:00:00,Chennai,Grocery,2076,Delivered,Standard,New,CHE-WH01,4,4,No
+FK101429,2026-07-12 00:00:00,Pune,Electronics,1261,Cancelled,Standard,Regular,PUN-WH01,4,,N/A
+FK101204,2026-07-12 00:00:00,Pune,Grocery,2311,Delivered,Standard,Regular,PUN-WH01,4,5,Yes
+FK100436,2026-07-12 00:00:00,Delhi,Electronics,826,Delivered,Express,Regular,DEL-WH01,2,4,Yes
+FK100655,2026-07-12 00:00:00,Delhi,Home & Kitchen,1545,Delivered,Express,Regular,DEL-WH01,2,3,Yes
+FK100418,2026-07-12 00:00:00,Ahmedabad,Grocery,1012,Cancelled,Standard,Premium,AMD-WH01,4,,N/A
+FK101211,2026-07-12 00:00:00,Bengaluru,Electronics,2287,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100166,2026-07-12 00:00:00,Ahmedabad,Fashion,1375,Cancelled,Standard,Regular,AMD-WH01,4,,N/A
+FK101193,2026-07-12 00:00:00,Bengaluru,Electronics,1439,Cancelled,Standard,Regular,BLR-WH01,4,,N/A
+FK100223,2026-07-12 00:00:00,Mumbai,Grocery,750,Delivered,Express,New,MUM-WH01,2,2,No
+FK101141,2026-07-12 00:00:00,Kolkata,Beauty,2553,Returned,Standard,Regular,KOL-WH01,4,,N/A
+FK100483,2026-07-12 00:00:00,Bengaluru,Beauty,2099,Delivered,Standard,New,BLR-WH01,4,4,No
+FK100473,2026-07-12 00:00:00,Delhi,Beauty,596,Delivered,Express,New,DEL-WH01,2,2,No
+FK100577,2026-07-12 00:00:00,Pune,Fashion,1415,Delivered,Standard,New,PUN-WH01,4,5,Yes
+FK100462,2026-07-12 00:00:00,Pune,Fashion,1820,Delivered,Standard,New,PUN-WH01,4,4,No
+FK101405,2026-07-12 00:00:00,Chennai,Electronics,1647,Delivered,Express,Regular,CHE-WH01,2,4,Yes
+FK100373,2026-07-12 00:00:00,Kolkata,Home & Kitchen,2347,Delivered,Standard,New,KOL-WH01,4,6,Yes
+FK101101,2026-07-12 00:00:00,Ahmedabad,Electronics,658,Cancelled,Standard,Regular,AMD-WH01,4,,N/A
+FK100720,2026-07-12 00:00:00,Bengaluru,Grocery,2573,Returned,Standard,Regular,BLR-WH01,4,,N/A
+FK101292,2026-07-12 00:00:00,Bengaluru,Fashion,764,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK101489,2026-07-12 00:00:00,Chennai,Home & Kitchen,1424,Cancelled,Standard,Premium,CHE-WH01,4,,N/A
+FK100820,2026-07-12 00:00:00,Hyderabad,Electronics,1395,Delivered,Standard,Premium,HYD-WH01,4,6,Yes
+FK100099,2026-07-12 00:00:00,Hyderabad,Home & Kitchen,1548,Delivered,Express,Regular,HYD-WH01,2,2,No
+FK100426,2026-07-12 00:00:00,Pune,Grocery,1353,Cancelled,Standard,Regular,PUN-WH01,4,,N/A
+FK100839,2026-07-13 00:00:00,Pune,Beauty,1038,Delivered,Standard,Regular,PUN-WH01,4,5,Yes
+FK100320,2026-07-13 00:00:00,Delhi,Electronics,1779,Delivered,Express,New,DEL-WH01,2,4,Yes
+FK100362,2026-07-13 00:00:00,Delhi,Fashion,1367,Delivered,Standard,Regular,DEL-WH01,4,6,Yes
+FK101259,2026-07-13 00:00:00,Kolkata,Grocery,1992,Delivered,Standard,Regular,KOL-WH01,4,5,Yes
+FK101258,2026-07-13 00:00:00,Chennai,Fashion,2812,Delivered,Standard,New,CHE-WH01,4,4,No
+FK101028,2026-07-13 00:00:00,Mumbai,Fashion,5113,Returned,Standard,Premium,MUM-WH01,4,,N/A
+FK101249,2026-07-13 00:00:00,Hyderabad,Fashion,3238,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100923,2026-07-13 00:00:00,Delhi,Electronics,3684,Cancelled,Standard,Regular,DEL-WH01,4,,N/A
+FK100955,2026-07-13 00:00:00,Delhi,Electronics,4051,Delivered,Express,Premium,DEL-WH01,2,2,No
+FK101457,2026-07-13 00:00:00,Pune,Grocery,540,Delivered,Standard,New,PUN-WH01,4,4,No
+FK100435,2026-07-13 00:00:00,Ahmedabad,Home & Kitchen,1145,Delivered,Express,Regular,AMD-WH01,2,3,Yes
+FK100600,2026-07-13 00:00:00,Hyderabad,Fashion,3855,Delivered,Express,New,HYD-WH01,2,4,Yes
+FK100464,2026-07-13 00:00:00,Pune,Electronics,1419,Delivered,Standard,New,PUN-WH01,4,4,No
+FK101333,2026-07-13 00:00:00,Kolkata,Grocery,1566,Delivered,Standard,New,KOL-WH01,4,4,No
+FK101408,2026-07-13 00:00:00,Mumbai,Fashion,1692,Cancelled,Express,Regular,MUM-WH01,2,,N/A
+FK100536,2026-07-13 00:00:00,Hyderabad,Home & Kitchen,1734,Cancelled,Standard,Regular,HYD-WH01,4,,N/A
+FK100469,2026-07-13 00:00:00,Delhi,Electronics,2612,Returned,Express,Regular,DEL-WH01,2,,N/A
+FK100762,2026-07-13 00:00:00,Delhi,Grocery,6427,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100128,2026-07-13 00:00:00,Pune,Electronics,7127,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100507,2026-07-13 00:00:00,Hyderabad,Electronics,1992,Delivered,Standard,New,HYD-WH01,4,7,Yes
+FK101382,2026-07-13 00:00:00,Hyderabad,Home & Kitchen,1755,Delivered,Express,Premium,HYD-WH01,2,3,Yes
+FK100250,2026-07-14 00:00:00,Kolkata,Electronics,2305,Delivered,Standard,New,KOL-WH01,4,4,No
+FK100568,2026-07-14 00:00:00,Chennai,Beauty,4433,Delivered,Express,Regular,CHE-WH01,2,2,No
+FK100823,2026-07-14 00:00:00,Hyderabad,Fashion,5574,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK101278,2026-07-14 00:00:00,Kolkata,Home & Kitchen,4807,Delivered,Standard,New,KOL-WH01,4,4,No
+FK101235,2026-07-14 00:00:00,Kolkata,Electronics,2079,Delivered,Express,Regular,KOL-WH01,2,3,Yes
+FK100044,2026-07-14 00:00:00,Hyderabad,Grocery,2560,Delivered,Standard,Premium,HYD-WH01,4,4,No
+FK100068,2026-07-14 00:00:00,Bengaluru,Fashion,3590,Returned,Express,Regular,BLR-WH01,2,,N/A
+FK101225,2026-07-14 00:00:00,Delhi,Electronics,1738,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK101080,2026-07-14 00:00:00,Chennai,Fashion,1737,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK100495,2026-07-14 00:00:00,Ahmedabad,Fashion,3146,Cancelled,Standard,Premium,AMD-WH01,4,,N/A
+FK100113,2026-07-14 00:00:00,Chennai,Home & Kitchen,1594,Delivered,Standard,New,CHE-WH01,4,4,No
+FK100663,2026-07-14 00:00:00,Delhi,Electronics,2733,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK101336,2026-07-14 00:00:00,Ahmedabad,Grocery,1700,Returned,Standard,Premium,AMD-WH01,4,,N/A
+FK100740,2026-07-14 00:00:00,Delhi,Beauty,768,Delivered,Standard,Regular,DEL-WH01,4,6,Yes
+FK100744,2026-07-14 00:00:00,Pune,Electronics,2234,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100870,2026-07-14 00:00:00,Hyderabad,Electronics,841,Delivered,Standard,Premium,HYD-WH01,4,4,No
+FK100884,2026-07-14 00:00:00,Pune,Electronics,3374,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100330,2026-07-14 00:00:00,Mumbai,Home & Kitchen,3053,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK101113,2026-07-14 00:00:00,Bengaluru,Grocery,6230,Delivered,Express,New,BLR-WH01,2,4,Yes
+FK101436,2026-07-14 00:00:00,Pune,Electronics,5186,Delivered,Express,New,PUN-WH01,2,2,No
+FK100080,2026-07-15 00:00:00,Ahmedabad,Grocery,1071,Delivered,Standard,New,AMD-WH01,4,4,No
+FK100002,2026-07-15 00:00:00,Mumbai,Home & Kitchen,1813,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100332,2026-07-15 00:00:00,Kolkata,Fashion,1976,Delivered,Express,Regular,KOL-WH01,2,2,No
+FK101459,2026-07-15 00:00:00,Pune,Grocery,1247,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK101246,2026-07-15 00:00:00,Delhi,Beauty,1502,Returned,Standard,Regular,DEL-WH01,4,,N/A
+FK101491,2026-07-15 00:00:00,Ahmedabad,Home & Kitchen,9093,Delivered,Standard,Premium,AMD-WH01,4,5,Yes
+FK100569,2026-07-15 00:00:00,Delhi,Beauty,1336,Delivered,Express,Premium,DEL-WH01,2,2,No
+FK100348,2026-07-15 00:00:00,Kolkata,Fashion,800,Delivered,Standard,Regular,KOL-WH01,4,5,Yes
+FK101289,2026-07-15 00:00:00,Mumbai,Beauty,906,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK101212,2026-07-15 00:00:00,Ahmedabad,Electronics,2685,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100906,2026-07-15 00:00:00,Hyderabad,Fashion,3287,Delivered,Standard,New,HYD-WH01,4,4,No
+FK101482,2026-07-15 00:00:00,Pune,Fashion,3204,Delivered,Standard,New,PUN-WH01,4,4,No
+FK100928,2026-07-15 00:00:00,Delhi,Fashion,1066,Delivered,Express,New,DEL-WH01,2,2,No
+FK100027,2026-07-15 00:00:00,Ahmedabad,Grocery,859,Delivered,Standard,Regular,AMD-WH01,4,5,Yes
+FK100116,2026-07-15 00:00:00,Pune,Electronics,4337,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100983,2026-07-15 00:00:00,Delhi,Fashion,1127,Delivered,Standard,Regular,DEL-WH01,4,5,Yes
+FK100890,2026-07-15 00:00:00,Pune,Fashion,2520,Delivered,Standard,New,PUN-WH01,4,4,No
+FK100752,2026-07-15 00:00:00,Hyderabad,Home & Kitchen,1467,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100070,2026-07-15 00:00:00,Ahmedabad,Electronics,778,Delivered,Standard,Premium,AMD-WH01,4,6,Yes
+FK100124,2026-07-15 00:00:00,Ahmedabad,Home & Kitchen,1504,Delivered,Standard,New,AMD-WH01,4,4,No
+FK100848,2026-07-15 00:00:00,Kolkata,Electronics,896,Delivered,Standard,New,KOL-WH01,4,5,Yes
+FK100488,2026-07-16 00:00:00,Delhi,Home & Kitchen,629,Delivered,Standard,Premium,DEL-WH01,4,4,No
+FK101038,2026-07-16 00:00:00,Kolkata,Grocery,3706,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100380,2026-07-16 00:00:00,Mumbai,Home & Kitchen,2566,Returned,Standard,New,MUM-WH01,4,,N/A
+FK101268,2026-07-16 00:00:00,Ahmedabad,Electronics,3056,Delivered,Standard,New,AMD-WH01,4,4,No
+FK100413,2026-07-16 00:00:00,Pune,Beauty,3943,Delivered,Standard,New,PUN-WH01,4,4,No
+FK100193,2026-07-16 00:00:00,Kolkata,Electronics,810,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100361,2026-07-16 00:00:00,Mumbai,Fashion,2410,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100329,2026-07-16 00:00:00,Ahmedabad,Home & Kitchen,1381,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100218,2026-07-16 00:00:00,Mumbai,Fashion,2241,Delivered,Standard,New,MUM-WH01,4,6,Yes
+FK100574,2026-07-16 00:00:00,Ahmedabad,Beauty,4173,Cancelled,Express,Premium,AMD-WH01,2,,N/A
+FK100697,2026-07-16 00:00:00,Ahmedabad,Home & Kitchen,2529,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100579,2026-07-16 00:00:00,Hyderabad,Grocery,829,Cancelled,Standard,New,HYD-WH01,4,,N/A
+FK101251,2026-07-16 00:00:00,Delhi,Home & Kitchen,1805,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK101076,2026-07-16 00:00:00,Mumbai,Electronics,1002,Delivered,Express,Premium,MUM-WH01,2,2,No
+FK100398,2026-07-16 00:00:00,Ahmedabad,Electronics,821,Delivered,Express,New,AMD-WH01,2,4,Yes
+FK100389,2026-07-16 00:00:00,Hyderabad,Electronics,3099,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100481,2026-07-16 00:00:00,Delhi,Home & Kitchen,1050,Delivered,Express,Regular,DEL-WH01,2,2,No
+FK101219,2026-07-16 00:00:00,Kolkata,Electronics,3456,Cancelled,Standard,Regular,KOL-WH01,4,,N/A
+FK100282,2026-07-17 00:00:00,Delhi,Beauty,1898,Delivered,Standard,New,DEL-WH01,4,4,No
+FK100595,2026-07-17 00:00:00,Kolkata,Fashion,1489,Cancelled,Standard,Regular,KOL-WH01,4,,N/A
+FK101431,2026-07-17 00:00:00,Mumbai,Grocery,1116,Returned,Express,New,MUM-WH01,2,,N/A
+FK100365,2026-07-17 00:00:00,Chennai,Electronics,1889,Delivered,Express,New,CHE-WH01,2,2,No
+FK101411,2026-07-17 00:00:00,Bengaluru,Home & Kitchen,2847,Delivered,Standard,New,BLR-WH01,4,4,No
+FK101496,2026-07-17 00:00:00,Pune,Home & Kitchen,684,Delivered,Standard,New,PUN-WH01,4,6,Yes
+FK100504,2026-07-17 00:00:00,Pune,Beauty,999,Delivered,Express,Regular,PUN-WH01,2,2,No
+FK101330,2026-07-17 00:00:00,Chennai,Electronics,4211,Returned,Express,New,CHE-WH01,2,,N/A
+FK101221,2026-07-17 00:00:00,Mumbai,Electronics,930,Returned,Standard,Regular,MUM-WH01,4,,N/A
+FK100257,2026-07-17 00:00:00,Delhi,Beauty,3135,Delivered,Standard,Regular,DEL-WH01,4,6,Yes
+FK101002,2026-07-17 00:00:00,Hyderabad,Electronics,1932,Delivered,Standard,Regular,HYD-WH01,4,6,Yes
+FK100685,2026-07-17 00:00:00,Kolkata,Grocery,5009,Delivered,Standard,New,KOL-WH01,4,5,Yes
+FK101182,2026-07-17 00:00:00,Ahmedabad,Home & Kitchen,2993,Delivered,Express,Premium,AMD-WH01,2,2,No
+FK100892,2026-07-17 00:00:00,Pune,Home & Kitchen,1271,Delivered,Standard,Regular,PUN-WH01,4,6,Yes
+FK100467,2026-07-17 00:00:00,Hyderabad,Fashion,3173,Delivered,Standard,Regular,HYD-WH01,4,5,Yes
+FK100309,2026-07-17 00:00:00,Ahmedabad,Grocery,520,Returned,Express,New,AMD-WH01,2,,N/A
+FK100761,2026-07-17 00:00:00,Delhi,Grocery,5190,Cancelled,Express,Premium,DEL-WH01,2,,N/A
+FK100683,2026-07-17 00:00:00,Ahmedabad,Fashion,5452,Delivered,Express,Regular,AMD-WH01,2,2,No
+FK100660,2026-07-17 00:00:00,Hyderabad,Beauty,1518,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100845,2026-07-17 00:00:00,Mumbai,Electronics,6510,Cancelled,Express,Regular,MUM-WH01,2,,N/A
+FK101234,2026-07-17 00:00:00,Kolkata,Fashion,1837,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100637,2026-07-17 00:00:00,Chennai,Home & Kitchen,1229,Delivered,Standard,New,CHE-WH01,4,5,Yes
+FK101428,2026-07-17 00:00:00,Bengaluru,Fashion,1249,Delivered,Express,Regular,BLR-WH01,2,2,No
+FK101199,2026-07-17 00:00:00,Hyderabad,Beauty,1918,Delivered,Standard,Regular,HYD-WH01,4,5,Yes
+FK101132,2026-07-17 00:00:00,Delhi,Grocery,2042,Delivered,Standard,New,DEL-WH01,4,4,No
+FK100520,2026-07-17 00:00:00,Hyderabad,Electronics,1553,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100758,2026-07-17 00:00:00,Mumbai,Grocery,1027,Delivered,Standard,Regular,MUM-WH01,4,6,Yes
+FK100187,2026-07-17 00:00:00,Chennai,Home & Kitchen,1341,Delivered,Express,Regular,CHE-WH01,2,2,No
+FK101146,2026-07-17 00:00:00,Kolkata,Fashion,569,Delivered,Standard,Premium,KOL-WH01,4,5,Yes
+FK101041,2026-07-18 00:00:00,Pune,Fashion,2343,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK101232,2026-07-18 00:00:00,Ahmedabad,Electronics,3573,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100565,2026-07-18 00:00:00,Delhi,Electronics,2350,Cancelled,Standard,New,DEL-WH01,4,,N/A
+FK101127,2026-07-18 00:00:00,Chennai,Grocery,3025,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK100614,2026-07-18 00:00:00,Chennai,Beauty,840,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK100499,2026-07-18 00:00:00,Pune,Home & Kitchen,1570,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100750,2026-07-18 00:00:00,Bengaluru,Grocery,1782,Returned,Standard,New,BLR-WH01,4,,N/A
+FK100767,2026-07-18 00:00:00,Kolkata,Electronics,2720,Delivered,Standard,New,KOL-WH01,4,4,No
+FK100880,2026-07-18 00:00:00,Bengaluru,Electronics,1158,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK101490,2026-07-18 00:00:00,Bengaluru,Grocery,1144,Returned,Standard,Regular,BLR-WH01,4,,N/A
+FK100041,2026-07-18 00:00:00,Bengaluru,Grocery,883,Delivered,Standard,New,BLR-WH01,4,4,No
+FK101281,2026-07-18 00:00:00,Delhi,Grocery,2125,Delivered,Express,Regular,DEL-WH01,2,2,No
+FK100241,2026-07-18 00:00:00,Delhi,Home & Kitchen,1810,Cancelled,Standard,Regular,DEL-WH01,4,,N/A
+FK101356,2026-07-18 00:00:00,Delhi,Home & Kitchen,894,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100296,2026-07-18 00:00:00,Chennai,Home & Kitchen,1338,Cancelled,Standard,Regular,CHE-WH01,4,,N/A
+FK101260,2026-07-18 00:00:00,Ahmedabad,Electronics,1499,Delivered,Express,Premium,AMD-WH01,2,2,No
+FK100063,2026-07-18 00:00:00,Chennai,Beauty,464,Delivered,Standard,Regular,CHE-WH01,4,5,Yes
+FK100203,2026-07-19 00:00:00,Ahmedabad,Electronics,2298,Delivered,Express,Regular,AMD-WH01,2,2,No
+FK101194,2026-07-19 00:00:00,Bengaluru,Fashion,3578,Delivered,Express,New,BLR-WH01,2,3,Yes
+FK100201,2026-07-19 00:00:00,Hyderabad,Home & Kitchen,3846,Cancelled,Express,Regular,HYD-WH01,2,,N/A
+FK100228,2026-07-19 00:00:00,Pune,Home & Kitchen,2603,Delivered,Standard,Regular,PUN-WH01,4,5,Yes
+FK100408,2026-07-19 00:00:00,Kolkata,Home & Kitchen,3218,Delivered,Express,Regular,KOL-WH01,2,2,No
+FK100818,2026-07-19 00:00:00,Hyderabad,Home & Kitchen,3798,Delivered,Standard,Regular,HYD-WH01,4,5,Yes
+FK100562,2026-07-19 00:00:00,Delhi,Beauty,1200,Delivered,Standard,Regular,DEL-WH01,4,5,Yes
+FK101376,2026-07-19 00:00:00,Kolkata,Electronics,1242,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100471,2026-07-19 00:00:00,Kolkata,Grocery,2733,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100527,2026-07-19 00:00:00,Kolkata,Home & Kitchen,443,Returned,Standard,New,KOL-WH01,4,,N/A
+FK101475,2026-07-19 00:00:00,Mumbai,Electronics,2218,Delivered,Standard,Regular,MUM-WH01,4,6,Yes
+FK100364,2026-07-19 00:00:00,Ahmedabad,Grocery,1597,Returned,Standard,New,AMD-WH01,4,,N/A
+FK100367,2026-07-19 00:00:00,Pune,Beauty,1440,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100532,2026-07-19 00:00:00,Ahmedabad,Fashion,1195,Delivered,Standard,Premium,AMD-WH01,4,7,Yes
+FK101088,2026-07-19 00:00:00,Kolkata,Grocery,2039,Delivered,Standard,New,KOL-WH01,4,4,No
+FK100277,2026-07-19 00:00:00,Bengaluru,Home & Kitchen,1623,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100475,2026-07-19 00:00:00,Bengaluru,Electronics,1517,Delivered,Standard,Premium,BLR-WH01,4,4,No
+FK100710,2026-07-19 00:00:00,Ahmedabad,Beauty,2091,Delivered,Standard,New,AMD-WH01,4,4,No
+FK100176,2026-07-19 00:00:00,Hyderabad,Grocery,1217,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK101040,2026-07-19 00:00:00,Hyderabad,Electronics,1815,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK101089,2026-07-19 00:00:00,Bengaluru,Electronics,4083,Delivered,Standard,Regular,BLR-WH01,4,5,Yes
+FK101311,2026-07-20 00:00:00,Ahmedabad,Fashion,1072,Delivered,Standard,New,AMD-WH01,4,5,Yes
+FK101425,2026-07-20 00:00:00,Pune,Home & Kitchen,1456,Delivered,Standard,Premium,PUN-WH01,4,4,No
+FK100538,2026-07-20 00:00:00,Chennai,Fashion,776,Delivered,Standard,New,CHE-WH01,4,4,No
+FK100231,2026-07-20 00:00:00,Chennai,Fashion,3741,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK101325,2026-07-20 00:00:00,Bengaluru,Home & Kitchen,1296,Delivered,Standard,Regular,BLR-WH01,4,5,Yes
+FK101102,2026-07-20 00:00:00,Delhi,Grocery,6068,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK101097,2026-07-20 00:00:00,Mumbai,Grocery,1201,Cancelled,Standard,Regular,MUM-WH01,4,,N/A
+FK100204,2026-07-20 00:00:00,Mumbai,Beauty,2220,Delivered,Standard,New,MUM-WH01,4,5,Yes
+FK100563,2026-07-20 00:00:00,Mumbai,Fashion,437,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100253,2026-07-20 00:00:00,Pune,Fashion,3358,Delivered,Standard,Premium,PUN-WH01,4,4,No
+FK100819,2026-07-20 00:00:00,Delhi,Electronics,1080,Delivered,Standard,Regular,DEL-WH01,4,5,Yes
+FK100198,2026-07-20 00:00:00,Pune,Home & Kitchen,2749,Returned,Standard,Regular,PUN-WH01,4,,N/A
+FK100945,2026-07-20 00:00:00,Hyderabad,Home & Kitchen,1553,Returned,Express,Premium,HYD-WH01,2,,N/A
+FK101174,2026-07-20 00:00:00,Ahmedabad,Beauty,1818,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK101022,2026-07-20 00:00:00,Delhi,Grocery,2663,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100326,2026-07-20 00:00:00,Bengaluru,Grocery,5254,Delivered,Standard,Regular,BLR-WH01,4,6,Yes
+FK101207,2026-07-21 00:00:00,Mumbai,Electronics,2459,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100251,2026-07-21 00:00:00,Hyderabad,Fashion,1396,Delivered,Standard,New,HYD-WH01,4,4,No
+FK100984,2026-07-21 00:00:00,Mumbai,Electronics,1819,Cancelled,Standard,Regular,MUM-WH01,4,,N/A
+FK100005,2026-07-21 00:00:00,Delhi,Beauty,2130,Delivered,Standard,New,DEL-WH01,4,4,No
+FK100625,2026-07-21 00:00:00,Kolkata,Home & Kitchen,419,Cancelled,Standard,New,KOL-WH01,4,,N/A
+FK100018,2026-07-21 00:00:00,Pune,Home & Kitchen,875,Returned,Standard,Regular,PUN-WH01,4,,N/A
+FK100270,2026-07-21 00:00:00,Bengaluru,Fashion,1641,Returned,Standard,New,BLR-WH01,4,,N/A
+FK100450,2026-07-21 00:00:00,Ahmedabad,Grocery,787,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100711,2026-07-21 00:00:00,Delhi,Beauty,1507,Delivered,Express,New,DEL-WH01,2,2,No
+FK100038,2026-07-21 00:00:00,Chennai,Beauty,2012,Delivered,Express,Regular,CHE-WH01,2,2,No
+FK101159,2026-07-21 00:00:00,Mumbai,Home & Kitchen,1781,Delivered,Express,Regular,MUM-WH01,2,2,No
+FK100716,2026-07-21 00:00:00,Ahmedabad,Fashion,1086,Delivered,Express,New,AMD-WH01,2,3,Yes
+FK100559,2026-07-21 00:00:00,Chennai,Electronics,2032,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK100974,2026-07-21 00:00:00,Mumbai,Electronics,1266,Delivered,Standard,New,MUM-WH01,4,4,No
+FK101471,2026-07-21 00:00:00,Delhi,Electronics,1460,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100784,2026-07-21 00:00:00,Delhi,Fashion,5584,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK101434,2026-07-22 00:00:00,Chennai,Electronics,2483,Delivered,Express,Premium,CHE-WH01,2,4,Yes
+FK100783,2026-07-22 00:00:00,Pune,Electronics,3977,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK101430,2026-07-22 00:00:00,Mumbai,Fashion,6380,Delivered,Standard,Premium,MUM-WH01,4,4,No
+FK101423,2026-07-22 00:00:00,Bengaluru,Beauty,3011,Delivered,Standard,Premium,BLR-WH01,4,4,No
+FK100262,2026-07-22 00:00:00,Pune,Electronics,1476,Delivered,Standard,New,PUN-WH01,4,4,No
+FK101169,2026-07-22 00:00:00,Hyderabad,Electronics,2243,Delivered,Standard,Premium,HYD-WH01,4,4,No
+FK101016,2026-07-22 00:00:00,Bengaluru,Home & Kitchen,10090,Cancelled,Standard,New,BLR-WH01,4,,N/A
+FK101466,2026-07-22 00:00:00,Hyderabad,Electronics,1708,Cancelled,Standard,Regular,HYD-WH01,4,,N/A
+FK100010,2026-07-22 00:00:00,Mumbai,Home & Kitchen,1313,Delivered,Standard,Premium,MUM-WH01,4,5,Yes
+FK100341,2026-07-22 00:00:00,Bengaluru,Fashion,1514,Delivered,Standard,Premium,BLR-WH01,4,6,Yes
+FK100022,2026-07-22 00:00:00,Mumbai,Grocery,2556,Delivered,Standard,Premium,MUM-WH01,4,4,No
+FK100865,2026-07-22 00:00:00,Pune,Beauty,4005,Delivered,Express,Regular,PUN-WH01,2,2,No
+FK100715,2026-07-22 00:00:00,Bengaluru,Fashion,548,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100385,2026-07-22 00:00:00,Pune,Beauty,1649,Delivered,Standard,Premium,PUN-WH01,4,7,Yes
+FK101119,2026-07-22 00:00:00,Kolkata,Beauty,1510,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100459,2026-07-23 00:00:00,Hyderabad,Beauty,1744,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100662,2026-07-23 00:00:00,Kolkata,Electronics,2768,Cancelled,Express,New,KOL-WH01,2,,N/A
+FK101222,2026-07-23 00:00:00,Bengaluru,Fashion,1485,Cancelled,Standard,Regular,BLR-WH01,4,,N/A
+FK100971,2026-07-23 00:00:00,Delhi,Home & Kitchen,820,Delivered,Standard,New,DEL-WH01,4,4,No
+FK100123,2026-07-23 00:00:00,Mumbai,Fashion,5682,Returned,Express,Regular,MUM-WH01,2,,N/A
+FK100305,2026-07-23 00:00:00,Bengaluru,Electronics,1413,Delivered,Standard,New,BLR-WH01,4,4,No
+FK100888,2026-07-23 00:00:00,Pune,Home & Kitchen,1089,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100632,2026-07-23 00:00:00,Ahmedabad,Electronics,1562,Returned,Standard,New,AMD-WH01,4,,N/A
+FK100402,2026-07-23 00:00:00,Delhi,Fashion,1426,Delivered,Standard,New,DEL-WH01,4,4,No
+FK100465,2026-07-23 00:00:00,Chennai,Electronics,3090,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK100214,2026-07-23 00:00:00,Bengaluru,Electronics,2723,Delivered,Express,New,BLR-WH01,2,2,No
+FK100371,2026-07-23 00:00:00,Delhi,Fashion,1950,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK101395,2026-07-23 00:00:00,Ahmedabad,Fashion,4281,Delivered,Standard,New,AMD-WH01,4,4,No
+FK100487,2026-07-23 00:00:00,Kolkata,Home & Kitchen,3003,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100835,2026-07-23 00:00:00,Hyderabad,Home & Kitchen,1492,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100749,2026-07-23 00:00:00,Pune,Home & Kitchen,1472,Delivered,Standard,New,PUN-WH01,4,4,No
+FK100951,2026-07-23 00:00:00,Kolkata,Fashion,3797,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100694,2026-07-23 00:00:00,Bengaluru,Beauty,715,Delivered,Standard,Regular,BLR-WH01,4,5,Yes
+FK100103,2026-07-23 00:00:00,Kolkata,Grocery,1705,Cancelled,Standard,New,KOL-WH01,4,,N/A
+FK101087,2026-07-23 00:00:00,Bengaluru,Fashion,3323,Delivered,Express,Premium,BLR-WH01,2,2,No
+FK101168,2026-07-24 00:00:00,Hyderabad,Beauty,2381,Delivered,Standard,Premium,HYD-WH01,4,4,No
+FK100798,2026-07-24 00:00:00,Delhi,Fashion,1487,Delivered,Express,Regular,DEL-WH01,2,2,No
+FK101237,2026-07-24 00:00:00,Ahmedabad,Electronics,659,Delivered,Standard,New,AMD-WH01,4,4,No
+FK100791,2026-07-24 00:00:00,Mumbai,Home & Kitchen,4904,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100319,2026-07-24 00:00:00,Chennai,Beauty,1043,Delivered,Express,New,CHE-WH01,2,2,No
+FK100008,2026-07-24 00:00:00,Delhi,Home & Kitchen,933,Delivered,Standard,New,DEL-WH01,4,4,No
+FK100159,2026-07-24 00:00:00,Chennai,Beauty,3143,Returned,Express,Regular,CHE-WH01,2,,N/A
+FK100075,2026-07-24 00:00:00,Mumbai,Grocery,2130,Delivered,Standard,New,MUM-WH01,4,6,Yes
+FK101488,2026-07-24 00:00:00,Hyderabad,Fashion,2050,Delivered,Standard,New,HYD-WH01,4,4,No
+FK100849,2026-07-24 00:00:00,Bengaluru,Home & Kitchen,3114,Delivered,Standard,Premium,BLR-WH01,4,4,No
+FK100417,2026-07-24 00:00:00,Hyderabad,Home & Kitchen,2126,Returned,Express,Regular,HYD-WH01,2,,N/A
+FK100235,2026-07-24 00:00:00,Delhi,Beauty,1732,Delivered,Standard,Regular,DEL-WH01,4,7,Yes
+FK100232,2026-07-24 00:00:00,Chennai,Home & Kitchen,2584,Delivered,Standard,Regular,CHE-WH01,4,5,Yes
+FK100414,2026-07-24 00:00:00,Hyderabad,Electronics,1568,Delivered,Standard,Regular,HYD-WH01,4,5,Yes
+FK100189,2026-07-24 00:00:00,Delhi,Fashion,1456,Delivered,Standard,Regular,DEL-WH01,4,5,Yes
+FK100288,2026-07-24 00:00:00,Ahmedabad,Home & Kitchen,2209,Delivered,Express,Regular,AMD-WH01,2,2,No
+FK101007,2026-07-24 00:00:00,Pune,Home & Kitchen,1943,Returned,Standard,Regular,PUN-WH01,4,,N/A
+FK100582,2026-07-24 00:00:00,Mumbai,Fashion,3504,Delivered,Standard,New,MUM-WH01,4,4,No
+FK100302,2026-07-24 00:00:00,Hyderabad,Beauty,1240,Returned,Express,Premium,HYD-WH01,2,,N/A
+FK100454,2026-07-24 00:00:00,Delhi,Electronics,802,Delivered,Standard,Premium,DEL-WH01,4,5,Yes
+FK100458,2026-07-24 00:00:00,Mumbai,Fashion,2195,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK101109,2026-07-24 00:00:00,Chennai,Fashion,4311,Delivered,Standard,Regular,CHE-WH01,4,5,Yes
+FK100547,2026-07-25 00:00:00,Delhi,Grocery,1777,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK101134,2026-07-25 00:00:00,Pune,Beauty,1147,Delivered,Express,New,PUN-WH01,2,3,Yes
+FK100891,2026-07-25 00:00:00,Ahmedabad,Electronics,8857,Returned,Standard,Regular,AMD-WH01,4,,N/A
+FK101117,2026-07-25 00:00:00,Ahmedabad,Beauty,2758,Cancelled,Standard,Regular,AMD-WH01,4,,N/A
+FK100606,2026-07-25 00:00:00,Kolkata,Electronics,320,Delivered,Standard,Regular,KOL-WH01,4,5,Yes
+FK101487,2026-07-25 00:00:00,Kolkata,Fashion,603,Cancelled,Express,Premium,KOL-WH01,2,,N/A
+FK101248,2026-07-25 00:00:00,Hyderabad,Electronics,5289,Delivered,Standard,Regular,HYD-WH01,4,5,Yes
+FK100996,2026-07-25 00:00:00,Delhi,Beauty,1954,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100760,2026-07-25 00:00:00,Mumbai,Grocery,1901,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK101348,2026-07-25 00:00:00,Chennai,Home & Kitchen,1458,Delivered,Standard,Premium,CHE-WH01,4,5,Yes
+FK100763,2026-07-25 00:00:00,Delhi,Fashion,1094,Delivered,Express,Premium,DEL-WH01,2,3,Yes
+FK101210,2026-07-25 00:00:00,Pune,Grocery,4512,Delivered,Standard,New,PUN-WH01,4,4,No
+FK100240,2026-07-25 00:00:00,Ahmedabad,Home & Kitchen,1629,Delivered,Standard,Premium,AMD-WH01,4,4,No
+FK101187,2026-07-25 00:00:00,Hyderabad,Electronics,3133,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100297,2026-07-25 00:00:00,Pune,Fashion,1214,Delivered,Express,Regular,PUN-WH01,2,3,Yes
+FK101284,2026-07-25 00:00:00,Hyderabad,Home & Kitchen,1254,Returned,Express,Regular,HYD-WH01,2,,N/A
+FK101305,2026-07-25 00:00:00,Pune,Electronics,1408,Returned,Standard,Premium,PUN-WH01,4,,N/A
+FK101343,2026-07-25 00:00:00,Mumbai,Home & Kitchen,4250,Delivered,Express,Premium,MUM-WH01,2,2,No
+FK100484,2026-07-25 00:00:00,Mumbai,Electronics,5504,Delivered,Standard,Regular,MUM-WH01,4,6,Yes
+FK100702,2026-07-25 00:00:00,Hyderabad,Grocery,1150,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100318,2026-07-25 00:00:00,Bengaluru,Beauty,3005,Delivered,Standard,Regular,BLR-WH01,4,5,Yes
+FK101272,2026-07-25 00:00:00,Chennai,Electronics,3680,Delivered,Standard,Regular,CHE-WH01,4,5,Yes
+FK100337,2026-07-25 00:00:00,Mumbai,Fashion,208,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK101008,2026-07-25 00:00:00,Kolkata,Home & Kitchen,2514,Delivered,Express,Regular,KOL-WH01,2,2,No
+FK101147,2026-07-26 00:00:00,Ahmedabad,Home & Kitchen,4183,Delivered,Express,Regular,AMD-WH01,2,2,No
+FK100076,2026-07-26 00:00:00,Mumbai,Beauty,996,Delivered,Standard,New,MUM-WH01,4,5,Yes
+FK101017,2026-07-26 00:00:00,Delhi,Fashion,1009,Cancelled,Express,New,DEL-WH01,2,,N/A
+FK100743,2026-07-26 00:00:00,Pune,Electronics,3631,Cancelled,Standard,Regular,PUN-WH01,4,,N/A
+FK100388,2026-07-26 00:00:00,Ahmedabad,Fashion,1525,Delivered,Standard,New,AMD-WH01,4,5,Yes
+FK101215,2026-07-26 00:00:00,Hyderabad,Electronics,1896,Delivered,Express,New,HYD-WH01,2,3,Yes
+FK100992,2026-07-26 00:00:00,Mumbai,Grocery,2664,Delivered,Express,Regular,MUM-WH01,2,2,No
+FK100733,2026-07-26 00:00:00,Ahmedabad,Electronics,591,Delivered,Express,New,AMD-WH01,2,2,No
+FK101121,2026-07-26 00:00:00,Mumbai,Beauty,1329,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100727,2026-07-26 00:00:00,Mumbai,Home & Kitchen,1347,Cancelled,Standard,New,MUM-WH01,4,,N/A
+FK100316,2026-07-26 00:00:00,Mumbai,Home & Kitchen,1829,Cancelled,Express,New,MUM-WH01,2,,N/A
+FK101223,2026-07-26 00:00:00,Kolkata,Home & Kitchen,1836,Delivered,Standard,New,KOL-WH01,4,4,No
+FK101214,2026-07-26 00:00:00,Chennai,Home & Kitchen,989,Delivered,Standard,New,CHE-WH01,4,4,No
+FK100876,2026-07-26 00:00:00,Mumbai,Grocery,1311,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100810,2026-07-26 00:00:00,Pune,Beauty,2162,Cancelled,Standard,New,PUN-WH01,4,,N/A
+FK101453,2026-07-26 00:00:00,Chennai,Fashion,2460,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK100441,2026-07-26 00:00:00,Hyderabad,Electronics,844,Delivered,Express,Premium,HYD-WH01,2,4,Yes
+FK100775,2026-07-26 00:00:00,Mumbai,Electronics,1944,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK101177,2026-07-26 00:00:00,Delhi,Beauty,3441,Delivered,Express,New,DEL-WH01,2,2,No
+FK101157,2026-07-26 00:00:00,Mumbai,Beauty,678,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100650,2026-07-26 00:00:00,Mumbai,Beauty,1723,Delivered,Standard,New,MUM-WH01,4,4,No
+FK100617,2026-07-26 00:00:00,Pune,Fashion,1896,Delivered,Standard,Premium,PUN-WH01,4,5,Yes
+FK100816,2026-07-26 00:00:00,Bengaluru,Fashion,626,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100941,2026-07-26 00:00:00,Bengaluru,Home & Kitchen,795,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK101136,2026-07-27 00:00:00,Ahmedabad,Grocery,3588,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK101468,2026-07-27 00:00:00,Pune,Fashion,1422,Delivered,Express,Regular,PUN-WH01,2,2,No
+FK101410,2026-07-27 00:00:00,Kolkata,Grocery,275,Delivered,Standard,New,KOL-WH01,4,4,No
+FK100725,2026-07-27 00:00:00,Mumbai,Grocery,2647,Delivered,Standard,New,MUM-WH01,4,4,No
+FK100147,2026-07-27 00:00:00,Mumbai,Electronics,3010,Delivered,Standard,Regular,MUM-WH01,4,5,Yes
+FK100620,2026-07-27 00:00:00,Pune,Fashion,3667,Cancelled,Standard,New,PUN-WH01,4,,N/A
+FK101387,2026-07-27 00:00:00,Mumbai,Fashion,3471,Delivered,Standard,Regular,MUM-WH01,4,5,Yes
+FK100943,2026-07-27 00:00:00,Pune,Electronics,1970,Delivered,Standard,Regular,PUN-WH01,4,5,Yes
+FK100705,2026-07-27 00:00:00,Ahmedabad,Home & Kitchen,1415,Returned,Express,New,AMD-WH01,2,,N/A
+FK101492,2026-07-27 00:00:00,Bengaluru,Grocery,4081,Delivered,Express,Regular,BLR-WH01,2,3,Yes
+FK100307,2026-07-27 00:00:00,Delhi,Fashion,3206,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100938,2026-07-27 00:00:00,Chennai,Home & Kitchen,3130,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK100593,2026-07-27 00:00:00,Kolkata,Home & Kitchen,5204,Delivered,Express,Regular,KOL-WH01,2,2,No
+FK100909,2026-07-27 00:00:00,Kolkata,Beauty,1960,Delivered,Standard,Regular,KOL-WH01,4,6,Yes
+FK100269,2026-07-27 00:00:00,Kolkata,Grocery,1070,Delivered,Standard,New,KOL-WH01,4,5,Yes
+FK101499,2026-07-27 00:00:00,Mumbai,Fashion,790,Cancelled,Standard,Regular,MUM-WH01,4,,N/A
+FK100114,2026-07-27 00:00:00,Pune,Fashion,1175,Delivered,Standard,Regular,PUN-WH01,4,6,Yes
+FK100512,2026-07-27 00:00:00,Hyderabad,Grocery,2640,Cancelled,Standard,Regular,HYD-WH01,4,,N/A
+FK100153,2026-07-27 00:00:00,Mumbai,Fashion,951,Delivered,Express,Regular,MUM-WH01,2,2,No
+FK100914,2026-07-27 00:00:00,Ahmedabad,Home & Kitchen,1358,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100268,2026-07-27 00:00:00,Ahmedabad,Fashion,3727,Delivered,Express,Regular,AMD-WH01,2,2,No
+FK100479,2026-07-28 00:00:00,Kolkata,Fashion,1304,Delivered,Express,Regular,KOL-WH01,2,2,No
+FK101018,2026-07-28 00:00:00,Delhi,Beauty,771,Delivered,Express,Premium,DEL-WH01,2,2,No
+FK100741,2026-07-28 00:00:00,Hyderabad,Fashion,1069,Delivered,Standard,Regular,HYD-WH01,4,5,Yes
+FK100272,2026-07-28 00:00:00,Hyderabad,Home & Kitchen,2143,Delivered,Standard,Regular,HYD-WH01,4,6,Yes
+FK100583,2026-07-28 00:00:00,Hyderabad,Grocery,1825,Cancelled,Standard,Regular,HYD-WH01,4,,N/A
+FK101420,2026-07-28 00:00:00,Chennai,Fashion,1260,Returned,Standard,Regular,CHE-WH01,4,,N/A
+FK101362,2026-07-28 00:00:00,Bengaluru,Home & Kitchen,929,Delivered,Standard,New,BLR-WH01,4,4,No
+FK100132,2026-07-28 00:00:00,Chennai,Electronics,2367,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK100754,2026-07-28 00:00:00,Pune,Beauty,1514,Delivered,Standard,New,PUN-WH01,4,5,Yes
+FK100140,2026-07-28 00:00:00,Hyderabad,Beauty,2550,Delivered,Express,New,HYD-WH01,2,2,No
+FK100590,2026-07-28 00:00:00,Hyderabad,Home & Kitchen,1255,Delivered,Standard,New,HYD-WH01,4,4,No
+FK100095,2026-07-28 00:00:00,Kolkata,Home & Kitchen,2287,Delivered,Standard,Premium,KOL-WH01,4,4,No
+FK100139,2026-07-28 00:00:00,Pune,Fashion,1132,Cancelled,Standard,New,PUN-WH01,4,,N/A
+FK101051,2026-07-29 00:00:00,Delhi,Home & Kitchen,840,Delivered,Express,Regular,DEL-WH01,2,2,No
+FK101014,2026-07-29 00:00:00,Kolkata,Grocery,3555,Delivered,Standard,Premium,KOL-WH01,4,4,No
+FK101091,2026-07-29 00:00:00,Kolkata,Beauty,4980,Delivered,Express,New,KOL-WH01,2,2,No
+FK100967,2026-07-29 00:00:00,Mumbai,Fashion,663,Delivered,Express,Regular,MUM-WH01,2,2,No
+FK100679,2026-07-29 00:00:00,Bengaluru,Grocery,1617,Delivered,Standard,Regular,BLR-WH01,4,5,Yes
+FK100929,2026-07-29 00:00:00,Chennai,Home & Kitchen,1693,Delivered,Standard,Regular,CHE-WH01,4,5,Yes
+FK100599,2026-07-29 00:00:00,Delhi,Home & Kitchen,1555,Cancelled,Standard,Regular,DEL-WH01,4,,N/A
+FK100932,2026-07-29 00:00:00,Mumbai,Electronics,2555,Delivered,Standard,Regular,MUM-WH01,4,5,Yes
+FK101034,2026-07-29 00:00:00,Kolkata,Beauty,1425,Delivered,Standard,Regular,KOL-WH01,4,7,Yes
+FK100911,2026-07-29 00:00:00,Delhi,Electronics,1583,Delivered,Standard,Regular,DEL-WH01,4,6,Yes
+FK100907,2026-07-29 00:00:00,Mumbai,Electronics,2039,Cancelled,Standard,Regular,MUM-WH01,4,,N/A
+FK100448,2026-07-29 00:00:00,Bengaluru,Fashion,3551,Delivered,Express,Regular,BLR-WH01,2,2,No
+FK101123,2026-07-29 00:00:00,Mumbai,Fashion,1808,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100515,2026-07-29 00:00:00,Hyderabad,Home & Kitchen,1367,Delivered,Standard,Regular,HYD-WH01,4,5,Yes
+FK100079,2026-07-29 00:00:00,Ahmedabad,Electronics,2397,Returned,Standard,Regular,AMD-WH01,4,,N/A
+FK101158,2026-07-29 00:00:00,Pune,Grocery,852,Delivered,Express,Premium,PUN-WH01,2,2,No
+FK101264,2026-07-29 00:00:00,Chennai,Fashion,919,Delivered,Standard,New,CHE-WH01,4,4,No
+FK101340,2026-07-29 00:00:00,Mumbai,Beauty,1657,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK101460,2026-07-29 00:00:00,Bengaluru,Fashion,2054,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100126,2026-07-29 00:00:00,Hyderabad,Home & Kitchen,3392,Delivered,Standard,Regular,HYD-WH01,4,5,Yes
+FK101455,2026-07-29 00:00:00,Pune,Electronics,4852,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK101461,2026-07-29 00:00:00,Chennai,Home & Kitchen,3481,Delivered,Express,Premium,CHE-WH01,2,2,No
+FK100434,2026-07-29 00:00:00,Delhi,Home & Kitchen,1978,Delivered,Express,New,DEL-WH01,2,2,No
+FK100392,2026-07-29 00:00:00,Kolkata,Electronics,1123,Delivered,Express,Premium,KOL-WH01,2,2,No
+FK101439,2026-07-29 00:00:00,Mumbai,Grocery,1676,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK101445,2026-07-29 00:00:00,Delhi,Electronics,935,Delivered,Standard,New,DEL-WH01,4,4,No
+FK101400,2026-07-30 00:00:00,Pune,Home & Kitchen,4823,Delivered,Express,New,PUN-WH01,2,2,No
+FK100610,2026-07-30 00:00:00,Ahmedabad,Beauty,1710,Delivered,Express,New,AMD-WH01,2,2,No
+FK100872,2026-07-30 00:00:00,Hyderabad,Grocery,957,Delivered,Standard,New,HYD-WH01,4,6,Yes
+FK100671,2026-07-30 00:00:00,Kolkata,Grocery,515,Returned,Standard,Regular,KOL-WH01,4,,N/A
+FK101033,2026-07-30 00:00:00,Chennai,Fashion,2006,Delivered,Standard,Regular,CHE-WH01,4,6,Yes
+FK100363,2026-07-30 00:00:00,Hyderabad,Home & Kitchen,2315,Cancelled,Standard,New,HYD-WH01,4,,N/A
+FK101271,2026-07-30 00:00:00,Pune,Beauty,1245,Delivered,Standard,Regular,PUN-WH01,4,5,Yes
+FK100676,2026-07-30 00:00:00,Pune,Grocery,836,Delivered,Express,Premium,PUN-WH01,2,2,No
+FK101257,2026-07-30 00:00:00,Kolkata,Home & Kitchen,2468,Delivered,Standard,New,KOL-WH01,4,4,No
+FK101037,2026-07-30 00:00:00,Ahmedabad,Beauty,430,Delivered,Standard,New,AMD-WH01,4,5,Yes
+FK100466,2026-07-30 00:00:00,Pune,Home & Kitchen,3073,Delivered,Standard,Premium,PUN-WH01,4,5,Yes
+FK100142,2026-07-30 00:00:00,Hyderabad,Fashion,1675,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK101416,2026-07-30 00:00:00,Mumbai,Grocery,3617,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK101279,2026-07-30 00:00:00,Bengaluru,Fashion,1796,Delivered,Standard,Premium,BLR-WH01,4,4,No
+FK101111,2026-07-30 00:00:00,Chennai,Electronics,1686,Delivered,Express,Regular,CHE-WH01,2,2,No
+FK100284,2026-07-30 00:00:00,Kolkata,Home & Kitchen,1672,Delivered,Standard,New,KOL-WH01,4,4,No
+FK100271,2026-07-30 00:00:00,Mumbai,Electronics,3313,Returned,Express,Regular,MUM-WH01,2,,N/A
+FK100013,2026-07-30 00:00:00,Mumbai,Electronics,1975,Delivered,Standard,Regular,MUM-WH01,4,5,Yes
+FK100263,2026-07-30 00:00:00,Pune,Electronics,617,Delivered,Express,New,PUN-WH01,2,3,Yes
+FK101138,2026-07-31 00:00:00,Ahmedabad,Grocery,2371,Delivered,Express,Regular,AMD-WH01,2,2,No
+FK101394,2026-07-31 00:00:00,Pune,Beauty,2663,Delivered,Standard,Regular,PUN-WH01,4,6,Yes
+FK101236,2026-07-31 00:00:00,Mumbai,Beauty,1255,Cancelled,Express,New,MUM-WH01,2,,N/A
+FK100215,2026-07-31 00:00:00,Chennai,Beauty,3628,Delivered,Standard,Premium,CHE-WH01,4,7,Yes
+FK100964,2026-07-31 00:00:00,Mumbai,Beauty,6361,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100795,2026-07-31 00:00:00,Bengaluru,Fashion,778,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK101402,2026-07-31 00:00:00,Kolkata,Electronics,611,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100924,2026-07-31 00:00:00,Mumbai,Fashion,2397,Cancelled,Express,Regular,MUM-WH01,2,,N/A
+FK100526,2026-07-31 00:00:00,Delhi,Electronics,2396,Cancelled,Standard,Regular,DEL-WH01,4,,N/A
+FK100570,2026-07-31 00:00:00,Kolkata,Electronics,1499,Cancelled,Standard,Premium,KOL-WH01,4,,N/A
+FK101074,2026-08-01 00:00:00,Hyderabad,Grocery,1559,Delivered,Standard,Regular,HYD-WH01,4,6,Yes
+FK101217,2026-08-01 00:00:00,Pune,Beauty,735,Delivered,Standard,New,PUN-WH01,4,5,Yes
+FK100416,2026-08-01 00:00:00,Bengaluru,Grocery,1486,Returned,Standard,Premium,BLR-WH01,4,,N/A
+FK101449,2026-08-01 00:00:00,Hyderabad,Grocery,2949,Delivered,Standard,New,HYD-WH01,4,4,No
+FK101054,2026-08-01 00:00:00,Pune,Home & Kitchen,748,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100182,2026-08-01 00:00:00,Bengaluru,Electronics,2564,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100555,2026-08-01 00:00:00,Mumbai,Fashion,1656,Delivered,Standard,Regular,MUM-WH01,4,5,Yes
+FK100226,2026-08-01 00:00:00,Hyderabad,Home & Kitchen,2005,Cancelled,Express,Regular,HYD-WH01,2,,N/A
+FK100180,2026-08-01 00:00:00,Ahmedabad,Home & Kitchen,2702,Delivered,Express,New,AMD-WH01,2,3,Yes
+FK101032,2026-08-01 00:00:00,Mumbai,Fashion,2172,Delivered,Standard,Regular,MUM-WH01,4,6,Yes
+FK100646,2026-08-01 00:00:00,Hyderabad,Fashion,3474,Delivered,Standard,New,HYD-WH01,4,4,No
+FK101463,2026-08-01 00:00:00,Chennai,Beauty,620,Cancelled,Standard,Regular,CHE-WH01,4,,N/A
+FK101059,2026-08-01 00:00:00,Bengaluru,Home & Kitchen,630,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100129,2026-08-01 00:00:00,Mumbai,Home & Kitchen,2153,Delivered,Express,Regular,MUM-WH01,2,2,No
+FK101261,2026-08-01 00:00:00,Mumbai,Grocery,1672,Delivered,Standard,Regular,MUM-WH01,4,6,Yes
+FK100706,2026-08-01 00:00:00,Kolkata,Fashion,1581,Returned,Standard,New,KOL-WH01,4,,N/A
+FK100334,2026-08-01 00:00:00,Mumbai,Home & Kitchen,1307,Delivered,Standard,New,MUM-WH01,4,4,No
+FK100885,2026-08-01 00:00:00,Bengaluru,Fashion,5061,Delivered,Standard,New,BLR-WH01,4,5,Yes
+FK101398,2026-08-01 00:00:00,Pune,Electronics,1655,Delivered,Standard,New,PUN-WH01,4,4,No
+FK101332,2026-08-01 00:00:00,Chennai,Beauty,831,Delivered,Standard,New,CHE-WH01,4,6,Yes
+FK100293,2026-08-01 00:00:00,Kolkata,Electronics,587,Returned,Standard,Regular,KOL-WH01,4,,N/A
+FK100161,2026-08-01 00:00:00,Chennai,Beauty,741,Delivered,Standard,Regular,CHE-WH01,4,5,Yes
+FK100303,2026-08-01 00:00:00,Mumbai,Electronics,4403,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100781,2026-08-02 00:00:00,Chennai,Fashion,2763,Delivered,Standard,New,CHE-WH01,4,4,No
+FK100429,2026-08-02 00:00:00,Bengaluru,Electronics,2930,Delivered,Standard,Regular,BLR-WH01,4,7,Yes
+FK100422,2026-08-02 00:00:00,Mumbai,Beauty,1317,Delivered,Standard,Premium,MUM-WH01,4,4,No
+FK101374,2026-08-02 00:00:00,Ahmedabad,Fashion,3811,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100421,2026-08-02 00:00:00,Bengaluru,Fashion,3999,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100294,2026-08-02 00:00:00,Chennai,Fashion,1556,Delivered,Standard,Premium,CHE-WH01,4,5,Yes
+FK100258,2026-08-02 00:00:00,Delhi,Fashion,2502,Delivered,Standard,Regular,DEL-WH01,4,5,Yes
+FK100234,2026-08-02 00:00:00,Pune,Electronics,5107,Delivered,Express,Regular,PUN-WH01,2,2,No
+FK100207,2026-08-02 00:00:00,Mumbai,Grocery,3982,Delivered,Standard,Regular,MUM-WH01,4,6,Yes
+FK100249,2026-08-02 00:00:00,Pune,Fashion,826,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK101012,2026-08-02 00:00:00,Hyderabad,Home & Kitchen,1251,Cancelled,Standard,Regular,HYD-WH01,4,,N/A
+FK100247,2026-08-02 00:00:00,Mumbai,Beauty,2351,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100092,2026-08-02 00:00:00,Mumbai,Beauty,3118,Returned,Standard,Regular,MUM-WH01,4,,N/A
+FK100101,2026-08-02 00:00:00,Hyderabad,Beauty,2246,Delivered,Express,Regular,HYD-WH01,2,2,No
+FK100830,2026-08-02 00:00:00,Mumbai,Home & Kitchen,4608,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100310,2026-08-02 00:00:00,Chennai,Beauty,1640,Delivered,Express,Premium,CHE-WH01,2,2,No
+FK101250,2026-08-02 00:00:00,Delhi,Grocery,610,Returned,Standard,Regular,DEL-WH01,4,,N/A
+FK100401,2026-08-02 00:00:00,Pune,Fashion,3872,Returned,Standard,Regular,PUN-WH01,4,,N/A
+FK100019,2026-08-02 00:00:00,Kolkata,Fashion,1929,Returned,Standard,New,KOL-WH01,4,,N/A
+FK100549,2026-08-02 00:00:00,Kolkata,Grocery,858,Delivered,Express,New,KOL-WH01,2,2,No
+FK100597,2026-08-02 00:00:00,Bengaluru,Grocery,1996,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100908,2026-08-02 00:00:00,Bengaluru,Grocery,4465,Delivered,Standard,New,BLR-WH01,4,5,Yes
+FK101086,2026-08-02 00:00:00,Ahmedabad,Electronics,1868,Delivered,Express,Regular,AMD-WH01,2,2,No
+FK100916,2026-08-02 00:00:00,Ahmedabad,Home & Kitchen,857,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK101447,2026-08-02 00:00:00,Mumbai,Beauty,922,Delivered,Express,Regular,MUM-WH01,2,2,No
+FK101172,2026-08-02 00:00:00,Mumbai,Electronics,4021,Delivered,Standard,New,MUM-WH01,4,7,Yes
+FK100623,2026-08-02 00:00:00,Hyderabad,Beauty,1136,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100612,2026-08-02 00:00:00,Hyderabad,Beauty,1153,Delivered,Standard,Regular,HYD-WH01,4,5,Yes
+FK100377,2026-08-03 00:00:00,Chennai,Electronics,1160,Delivered,Standard,New,CHE-WH01,4,4,No
+FK101001,2026-08-03 00:00:00,Kolkata,Electronics,1082,Delivered,Express,New,KOL-WH01,2,3,Yes
+FK100065,2026-08-03 00:00:00,Bengaluru,Grocery,4325,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100722,2026-08-03 00:00:00,Mumbai,Home & Kitchen,2191,Cancelled,Express,New,MUM-WH01,2,,N/A
+FK100859,2026-08-03 00:00:00,Pune,Home & Kitchen,485,Delivered,Standard,Premium,PUN-WH01,4,4,No
+FK100687,2026-08-03 00:00:00,Hyderabad,Electronics,2544,Returned,Standard,Regular,HYD-WH01,4,,N/A
+FK101256,2026-08-03 00:00:00,Kolkata,Fashion,1386,Delivered,Standard,Premium,KOL-WH01,4,5,Yes
+FK101057,2026-08-03 00:00:00,Hyderabad,Beauty,3956,Cancelled,Standard,Regular,HYD-WH01,4,,N/A
+FK100100,2026-08-03 00:00:00,Pune,Fashion,4581,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK101131,2026-08-03 00:00:00,Hyderabad,Home & Kitchen,2601,Cancelled,Standard,New,HYD-WH01,4,,N/A
+FK100443,2026-08-03 00:00:00,Ahmedabad,Beauty,2243,Returned,Standard,Regular,AMD-WH01,4,,N/A
+FK100651,2026-08-03 00:00:00,Hyderabad,Fashion,586,Delivered,Standard,New,HYD-WH01,4,5,Yes
+FK100768,2026-08-03 00:00:00,Ahmedabad,Electronics,1547,Delivered,Express,New,AMD-WH01,2,5,Yes
+FK100647,2026-08-03 00:00:00,Bengaluru,Grocery,1925,Delivered,Standard,New,BLR-WH01,4,4,No
+FK100405,2026-08-03 00:00:00,Kolkata,Electronics,8661,Delivered,Standard,Premium,KOL-WH01,4,4,No
+FK101483,2026-08-03 00:00:00,Hyderabad,Beauty,2651,Returned,Standard,Regular,HYD-WH01,4,,N/A
+FK101072,2026-08-03 00:00:00,Hyderabad,Electronics,1954,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100244,2026-08-04 00:00:00,Chennai,Electronics,3643,Returned,Express,Regular,CHE-WH01,2,,N/A
+FK100497,2026-08-04 00:00:00,Chennai,Fashion,6255,Delivered,Standard,Premium,CHE-WH01,4,4,No
+FK100851,2026-08-04 00:00:00,Pune,Beauty,2263,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100439,2026-08-04 00:00:00,Pune,Grocery,2841,Delivered,Standard,New,PUN-WH01,4,4,No
+FK100873,2026-08-04 00:00:00,Chennai,Beauty,1707,Delivered,Standard,Regular,CHE-WH01,4,5,Yes
+FK100090,2026-08-04 00:00:00,Bengaluru,Fashion,3371,Delivered,Standard,Premium,BLR-WH01,4,4,No
+FK100602,2026-08-04 00:00:00,Mumbai,Electronics,1574,Delivered,Express,Regular,MUM-WH01,2,2,No
+FK101189,2026-08-04 00:00:00,Bengaluru,Beauty,2591,Cancelled,Standard,New,BLR-WH01,4,,N/A
+FK100053,2026-08-04 00:00:00,Chennai,Beauty,1937,Delivered,Standard,Premium,CHE-WH01,4,4,No
+FK100994,2026-08-04 00:00:00,Pune,Beauty,3083,Delivered,Express,New,PUN-WH01,2,2,No
+FK100420,2026-08-04 00:00:00,Ahmedabad,Electronics,1268,Delivered,Express,New,AMD-WH01,2,2,No
+FK100091,2026-08-04 00:00:00,Delhi,Electronics,887,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100279,2026-08-04 00:00:00,Mumbai,Home & Kitchen,1010,Delivered,Standard,Regular,MUM-WH01,4,5,Yes
+FK101073,2026-08-04 00:00:00,Hyderabad,Fashion,1806,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100107,2026-08-04 00:00:00,Mumbai,Grocery,1511,Delivered,Express,New,MUM-WH01,2,2,No
+FK101327,2026-08-04 00:00:00,Delhi,Grocery,4628,Cancelled,Standard,Regular,DEL-WH01,4,,N/A
+FK101485,2026-08-04 00:00:00,Pune,Beauty,2245,Cancelled,Standard,New,PUN-WH01,4,,N/A
+FK100861,2026-08-04 00:00:00,Chennai,Beauty,1418,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK101414,2026-08-04 00:00:00,Hyderabad,Grocery,2342,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100797,2026-08-05 00:00:00,Pune,Home & Kitchen,1837,Delivered,Standard,New,PUN-WH01,4,5,Yes
+FK100975,2026-08-05 00:00:00,Delhi,Grocery,1274,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100734,2026-08-05 00:00:00,Pune,Electronics,5931,Delivered,Standard,Premium,PUN-WH01,4,4,No
+FK100585,2026-08-05 00:00:00,Pune,Beauty,2275,Delivered,Standard,Premium,PUN-WH01,4,5,Yes
+FK100524,2026-08-05 00:00:00,Hyderabad,Home & Kitchen,3528,Delivered,Standard,Premium,HYD-WH01,4,4,No
+FK100561,2026-08-05 00:00:00,Pune,Beauty,1571,Delivered,Standard,New,PUN-WH01,4,4,No
+FK100238,2026-08-05 00:00:00,Delhi,Beauty,3871,Returned,Standard,Regular,DEL-WH01,4,,N/A
+FK101156,2026-08-05 00:00:00,Bengaluru,Grocery,1153,Delivered,Standard,Regular,BLR-WH01,4,5,Yes
+FK100910,2026-08-05 00:00:00,Mumbai,Beauty,1081,Delivered,Standard,New,MUM-WH01,4,5,Yes
+FK100324,2026-08-05 00:00:00,Delhi,Fashion,400,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK101441,2026-08-05 00:00:00,Kolkata,Beauty,1018,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100449,2026-08-05 00:00:00,Bengaluru,Beauty,891,Delivered,Standard,New,BLR-WH01,4,4,No
+FK100451,2026-08-05 00:00:00,Delhi,Grocery,1685,Delivered,Standard,Premium,DEL-WH01,4,5,Yes
+FK100457,2026-08-05 00:00:00,Chennai,Home & Kitchen,887,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK100940,2026-08-05 00:00:00,Hyderabad,Grocery,902,Returned,Standard,Regular,HYD-WH01,4,,N/A
+FK100127,2026-08-05 00:00:00,Mumbai,Home & Kitchen,1578,Delivered,Standard,New,MUM-WH01,4,5,Yes
+FK101173,2026-08-05 00:00:00,Chennai,Home & Kitchen,7658,Cancelled,Express,Regular,CHE-WH01,2,,N/A
+FK100054,2026-08-05 00:00:00,Delhi,Electronics,670,Cancelled,Standard,New,DEL-WH01,4,,N/A
+FK100200,2026-08-05 00:00:00,Kolkata,Beauty,1962,Delivered,Standard,New,KOL-WH01,4,5,Yes
+FK101163,2026-08-05 00:00:00,Bengaluru,Electronics,3441,Returned,Standard,New,BLR-WH01,4,,N/A
+FK100939,2026-08-05 00:00:00,Hyderabad,Home & Kitchen,1614,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK101090,2026-08-05 00:00:00,Mumbai,Grocery,2332,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK101078,2026-08-06 00:00:00,Delhi,Beauty,1431,Delivered,Express,Premium,DEL-WH01,2,2,No
+FK101241,2026-08-06 00:00:00,Pune,Beauty,2519,Delivered,Standard,New,PUN-WH01,4,5,Yes
+FK101358,2026-08-06 00:00:00,Pune,Grocery,3898,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100225,2026-08-06 00:00:00,Kolkata,Fashion,2857,Delivered,Standard,Regular,KOL-WH01,4,5,Yes
+FK100516,2026-08-06 00:00:00,Pune,Fashion,1644,Delivered,Express,Regular,PUN-WH01,2,2,No
+FK101133,2026-08-06 00:00:00,Delhi,Beauty,3473,Delivered,Standard,New,DEL-WH01,4,5,Yes
+FK101283,2026-08-06 00:00:00,Ahmedabad,Home & Kitchen,2181,Delivered,Express,Premium,AMD-WH01,2,2,No
+FK100105,2026-08-06 00:00:00,Hyderabad,Grocery,1604,Cancelled,Express,Premium,HYD-WH01,2,,N/A
+FK100461,2026-08-06 00:00:00,Pune,Beauty,619,Delivered,Express,Premium,PUN-WH01,2,2,No
+FK101104,2026-08-06 00:00:00,Bengaluru,Beauty,2059,Delivered,Standard,Regular,BLR-WH01,4,5,Yes
+FK100634,2026-08-06 00:00:00,Ahmedabad,Fashion,2262,Delivered,Express,New,AMD-WH01,2,3,Yes
+FK101422,2026-08-06 00:00:00,Chennai,Fashion,2621,Cancelled,Standard,Regular,CHE-WH01,4,,N/A
+FK101124,2026-08-06 00:00:00,Kolkata,Beauty,3820,Delivered,Standard,Premium,KOL-WH01,4,4,No
+FK100874,2026-08-06 00:00:00,Hyderabad,Home & Kitchen,2253,Returned,Standard,Regular,HYD-WH01,4,,N/A
+FK101294,2026-08-06 00:00:00,Ahmedabad,Grocery,613,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100287,2026-08-06 00:00:00,Mumbai,Electronics,2260,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100826,2026-08-06 00:00:00,Bengaluru,Beauty,3080,Cancelled,Standard,Regular,BLR-WH01,4,,N/A
+FK100962,2026-08-06 00:00:00,Ahmedabad,Fashion,2511,Delivered,Standard,Regular,AMD-WH01,4,5,Yes
+FK100156,2026-08-06 00:00:00,Delhi,Fashion,939,Delivered,Express,Regular,DEL-WH01,2,2,No
+FK100675,2026-08-07 00:00:00,Bengaluru,Grocery,2130,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100188,2026-08-07 00:00:00,Chennai,Electronics,1732,Delivered,Standard,New,CHE-WH01,4,4,No
+FK101045,2026-08-07 00:00:00,Ahmedabad,Grocery,4400,Delivered,Express,Premium,AMD-WH01,2,3,Yes
+FK101130,2026-08-07 00:00:00,Chennai,Beauty,602,Delivered,Express,New,CHE-WH01,2,2,No
+FK100669,2026-08-07 00:00:00,Chennai,Beauty,1795,Returned,Standard,Regular,CHE-WH01,4,,N/A
+FK100850,2026-08-07 00:00:00,Hyderabad,Beauty,2112,Delivered,Express,Premium,HYD-WH01,2,2,No
+FK101352,2026-08-07 00:00:00,Delhi,Grocery,880,Returned,Standard,Regular,DEL-WH01,4,,N/A
+FK100667,2026-08-07 00:00:00,Delhi,Fashion,2808,Cancelled,Express,Regular,DEL-WH01,2,,N/A
+FK100014,2026-08-07 00:00:00,Pune,Beauty,2013,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100887,2026-08-07 00:00:00,Kolkata,Home & Kitchen,6603,Cancelled,Standard,Premium,KOL-WH01,4,,N/A
+FK101105,2026-08-07 00:00:00,Kolkata,Home & Kitchen,687,Delivered,Standard,Regular,KOL-WH01,4,5,Yes
+FK100264,2026-08-07 00:00:00,Mumbai,Grocery,2566,Delivered,Express,New,MUM-WH01,2,3,Yes
+FK101388,2026-08-07 00:00:00,Mumbai,Grocery,1957,Delivered,Express,Regular,MUM-WH01,2,3,Yes
+FK100517,2026-08-07 00:00:00,Mumbai,Fashion,1967,Delivered,Express,Regular,MUM-WH01,2,2,No
+FK100239,2026-08-07 00:00:00,Hyderabad,Beauty,2599,Delivered,Standard,Premium,HYD-WH01,4,4,No
+FK100751,2026-08-07 00:00:00,Chennai,Grocery,1603,Cancelled,Standard,Regular,CHE-WH01,4,,N/A
+FK100550,2026-08-07 00:00:00,Bengaluru,Beauty,1476,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK101481,2026-08-07 00:00:00,Mumbai,Grocery,2361,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100922,2026-08-07 00:00:00,Hyderabad,Fashion,1053,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100948,2026-08-07 00:00:00,Ahmedabad,Home & Kitchen,705,Delivered,Standard,New,AMD-WH01,4,4,No
+FK100825,2026-08-07 00:00:00,Bengaluru,Home & Kitchen,3545,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100912,2026-08-07 00:00:00,Mumbai,Electronics,3049,Delivered,Express,Regular,MUM-WH01,2,3,Yes
+FK100998,2026-08-07 00:00:00,Pune,Beauty,1969,Delivered,Standard,New,PUN-WH01,4,4,No
+FK101458,2026-08-08 00:00:00,Delhi,Grocery,3171,Delivered,Express,Regular,DEL-WH01,2,2,No
+FK101406,2026-08-08 00:00:00,Ahmedabad,Electronics,3016,Delivered,Express,Regular,AMD-WH01,2,2,No
+FK100883,2026-08-08 00:00:00,Delhi,Fashion,1574,Delivered,Standard,Regular,DEL-WH01,4,5,Yes
+FK100167,2026-08-08 00:00:00,Delhi,Fashion,3716,Delivered,Express,New,DEL-WH01,2,2,No
+FK100040,2026-08-08 00:00:00,Delhi,Beauty,5085,Cancelled,Express,New,DEL-WH01,2,,N/A
+FK101401,2026-08-08 00:00:00,Delhi,Electronics,1547,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100896,2026-08-08 00:00:00,Chennai,Electronics,1429,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK101245,2026-08-08 00:00:00,Mumbai,Home & Kitchen,616,Delivered,Express,Regular,MUM-WH01,2,2,No
+FK101262,2026-08-08 00:00:00,Delhi,Beauty,2926,Delivered,Standard,Regular,DEL-WH01,4,7,Yes
+FK100756,2026-08-08 00:00:00,Ahmedabad,Beauty,431,Returned,Standard,New,AMD-WH01,4,,N/A
+FK101231,2026-08-08 00:00:00,Pune,Electronics,1826,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100400,2026-08-08 00:00:00,Ahmedabad,Fashion,727,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100649,2026-08-08 00:00:00,Chennai,Fashion,2262,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK101188,2026-08-08 00:00:00,Kolkata,Beauty,3821,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100314,2026-08-08 00:00:00,Ahmedabad,Beauty,906,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100209,2026-08-08 00:00:00,Pune,Fashion,557,Returned,Standard,Premium,PUN-WH01,4,,N/A
+FK100490,2026-08-08 00:00:00,Mumbai,Fashion,1549,Delivered,Standard,Regular,MUM-WH01,4,5,Yes
+FK101298,2026-08-08 00:00:00,Hyderabad,Electronics,3279,Delivered,Standard,Regular,HYD-WH01,4,5,Yes
+FK100494,2026-08-08 00:00:00,Bengaluru,Electronics,2878,Delivered,Standard,New,BLR-WH01,4,5,Yes
+FK100530,2026-08-08 00:00:00,Kolkata,Grocery,1291,Cancelled,Standard,Regular,KOL-WH01,4,,N/A
+FK100533,2026-08-08 00:00:00,Kolkata,Fashion,1730,Delivered,Standard,New,KOL-WH01,4,4,No
+FK101165,2026-08-08 00:00:00,Kolkata,Home & Kitchen,1415,Delivered,Express,Regular,KOL-WH01,2,2,No
+FK100541,2026-08-08 00:00:00,Delhi,Grocery,1080,Delivered,Standard,New,DEL-WH01,4,4,No
+FK101115,2026-08-09 00:00:00,Mumbai,Electronics,2470,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100359,2026-08-09 00:00:00,Mumbai,Home & Kitchen,1002,Returned,Standard,Premium,MUM-WH01,4,,N/A
+FK101243,2026-08-09 00:00:00,Bengaluru,Electronics,947,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100840,2026-08-09 00:00:00,Chennai,Grocery,1911,Delivered,Express,New,CHE-WH01,2,2,No
+FK101039,2026-08-09 00:00:00,Delhi,Home & Kitchen,2003,Returned,Standard,Regular,DEL-WH01,4,,N/A
+FK100881,2026-08-09 00:00:00,Hyderabad,Home & Kitchen,989,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100430,2026-08-09 00:00:00,Chennai,Home & Kitchen,1947,Delivered,Standard,Regular,CHE-WH01,4,6,Yes
+FK100073,2026-08-09 00:00:00,Pune,Grocery,2583,Delivered,Express,Regular,PUN-WH01,2,3,Yes
+FK100508,2026-08-09 00:00:00,Pune,Electronics,1163,Delivered,Express,Premium,PUN-WH01,2,3,Yes
+FK101181,2026-08-09 00:00:00,Ahmedabad,Fashion,3952,Delivered,Express,New,AMD-WH01,2,3,Yes
+FK101161,2026-08-09 00:00:00,Bengaluru,Grocery,1495,Delivered,Standard,Regular,BLR-WH01,4,7,Yes
+FK101140,2026-08-09 00:00:00,Pune,Beauty,1060,Delivered,Standard,New,PUN-WH01,4,4,No
+FK100863,2026-08-09 00:00:00,Kolkata,Electronics,2975,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK101365,2026-08-09 00:00:00,Bengaluru,Home & Kitchen,953,Delivered,Express,Regular,BLR-WH01,2,2,No
+FK101372,2026-08-09 00:00:00,Ahmedabad,Grocery,3043,Delivered,Standard,Regular,AMD-WH01,4,5,Yes
+FK100968,2026-08-09 00:00:00,Kolkata,Fashion,1970,Cancelled,Express,Regular,KOL-WH01,2,,N/A
+FK100208,2026-08-09 00:00:00,Mumbai,Electronics,1226,Delivered,Standard,Premium,MUM-WH01,4,4,No
+FK101371,2026-08-09 00:00:00,Chennai,Beauty,1461,Delivered,Standard,New,CHE-WH01,4,5,Yes
+FK101347,2026-08-09 00:00:00,Pune,Electronics,1412,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100796,2026-08-09 00:00:00,Bengaluru,Electronics,1105,Delivered,Standard,Premium,BLR-WH01,4,4,No
+FK100770,2026-08-09 00:00:00,Pune,Beauty,1508,Cancelled,Standard,Premium,PUN-WH01,4,,N/A
+FK101377,2026-08-09 00:00:00,Mumbai,Electronics,1221,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100982,2026-08-09 00:00:00,Kolkata,Electronics,2045,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK101316,2026-08-10 00:00:00,Pune,Beauty,1891,Returned,Standard,Premium,PUN-WH01,4,,N/A
+FK100246,2026-08-10 00:00:00,Ahmedabad,Home & Kitchen,3178,Delivered,Express,New,AMD-WH01,2,2,No
+FK100969,2026-08-10 00:00:00,Ahmedabad,Electronics,1230,Cancelled,Express,Regular,AMD-WH01,2,,N/A
+FK100094,2026-08-10 00:00:00,Pune,Grocery,1970,Delivered,Express,Regular,PUN-WH01,2,4,Yes
+FK100591,2026-08-10 00:00:00,Kolkata,Fashion,6591,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100993,2026-08-10 00:00:00,Pune,Grocery,1317,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK101129,2026-08-10 00:00:00,Chennai,Fashion,1070,Delivered,Standard,Premium,CHE-WH01,4,4,No
+FK100078,2026-08-10 00:00:00,Hyderabad,Grocery,1082,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK101381,2026-08-10 00:00:00,Ahmedabad,Fashion,907,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100772,2026-08-10 00:00:00,Bengaluru,Grocery,3547,Delivered,Standard,Regular,BLR-WH01,4,5,Yes
+FK100492,2026-08-11 00:00:00,Bengaluru,Home & Kitchen,939,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK101345,2026-08-11 00:00:00,Hyderabad,Electronics,3937,Delivered,Standard,New,HYD-WH01,4,4,No
+FK101385,2026-08-11 00:00:00,Chennai,Home & Kitchen,2782,Delivered,Express,Premium,CHE-WH01,2,2,No
+FK100771,2026-08-11 00:00:00,Pune,Grocery,945,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100509,2026-08-11 00:00:00,Bengaluru,Home & Kitchen,2381,Delivered,Standard,New,BLR-WH01,4,4,No
+FK100216,2026-08-11 00:00:00,Ahmedabad,Home & Kitchen,6721,Delivered,Express,Regular,AMD-WH01,2,2,No
+FK100117,2026-08-11 00:00:00,Bengaluru,Fashion,897,Delivered,Standard,Regular,BLR-WH01,4,5,Yes
+FK101186,2026-08-11 00:00:00,Chennai,Home & Kitchen,1131,Delivered,Express,Regular,CHE-WH01,2,2,No
+FK100879,2026-08-11 00:00:00,Hyderabad,Grocery,472,Returned,Standard,New,HYD-WH01,4,,N/A
+FK101252,2026-08-11 00:00:00,Kolkata,Home & Kitchen,1833,Cancelled,Express,Premium,KOL-WH01,2,,N/A
+FK101255,2026-08-11 00:00:00,Hyderabad,Fashion,723,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100346,2026-08-11 00:00:00,Delhi,Home & Kitchen,2262,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100904,2026-08-11 00:00:00,Ahmedabad,Beauty,2134,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100315,2026-08-11 00:00:00,Pune,Fashion,848,Returned,Standard,Regular,PUN-WH01,4,,N/A
+FK100713,2026-08-11 00:00:00,Mumbai,Beauty,770,Delivered,Standard,Premium,MUM-WH01,4,4,No
+FK100134,2026-08-11 00:00:00,Kolkata,Grocery,2713,Cancelled,Standard,New,KOL-WH01,4,,N/A
+FK101396,2026-08-11 00:00:00,Delhi,Home & Kitchen,1183,Delivered,Standard,New,DEL-WH01,4,4,No
+FK100025,2026-08-11 00:00:00,Bengaluru,Beauty,1171,Delivered,Standard,Regular,BLR-WH01,4,5,Yes
+FK101128,2026-08-11 00:00:00,Mumbai,Fashion,3013,Delivered,Express,New,MUM-WH01,2,4,Yes
+FK100125,2026-08-12 00:00:00,Ahmedabad,Grocery,4180,Delivered,Express,Regular,AMD-WH01,2,2,No
+FK100958,2026-08-12 00:00:00,Pune,Grocery,5627,Delivered,Standard,Premium,PUN-WH01,4,4,No
+FK101296,2026-08-12 00:00:00,Ahmedabad,Home & Kitchen,1486,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100432,2026-08-12 00:00:00,Ahmedabad,Beauty,1623,Delivered,Standard,Premium,AMD-WH01,4,4,No
+FK101003,2026-08-12 00:00:00,Pune,Fashion,877,Delivered,Standard,New,PUN-WH01,4,4,No
+FK100942,2026-08-12 00:00:00,Hyderabad,Grocery,4886,Delivered,Standard,New,HYD-WH01,4,4,No
+FK100425,2026-08-12 00:00:00,Bengaluru,Grocery,2233,Cancelled,Standard,Regular,BLR-WH01,4,,N/A
+FK100312,2026-08-12 00:00:00,Bengaluru,Beauty,2172,Delivered,Standard,New,BLR-WH01,4,5,Yes
+FK101185,2026-08-12 00:00:00,Hyderabad,Fashion,2348,Returned,Standard,Premium,HYD-WH01,4,,N/A
+FK101242,2026-08-12 00:00:00,Chennai,Fashion,1319,Delivered,Express,Premium,CHE-WH01,2,3,Yes
+FK100692,2026-08-12 00:00:00,Kolkata,Beauty,2688,Delivered,Standard,Regular,KOL-WH01,4,5,Yes
+FK101108,2026-08-13 00:00:00,Delhi,Fashion,655,Delivered,Standard,Regular,DEL-WH01,4,6,Yes
+FK100050,2026-08-13 00:00:00,Kolkata,Beauty,2383,Cancelled,Standard,Regular,KOL-WH01,4,,N/A
+FK100064,2026-08-13 00:00:00,Ahmedabad,Beauty,4529,Delivered,Standard,New,AMD-WH01,4,5,Yes
+FK100553,2026-08-13 00:00:00,Chennai,Home & Kitchen,5543,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK100433,2026-08-13 00:00:00,Pune,Fashion,4900,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK101191,2026-08-13 00:00:00,Hyderabad,Grocery,1584,Delivered,Express,Regular,HYD-WH01,2,2,No
+FK100813,2026-08-13 00:00:00,Delhi,Beauty,1255,Delivered,Express,New,DEL-WH01,2,2,No
+FK100141,2026-08-13 00:00:00,Pune,Fashion,1994,Returned,Standard,Premium,PUN-WH01,4,,N/A
+FK100106,2026-08-13 00:00:00,Kolkata,Electronics,1148,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100837,2026-08-13 00:00:00,Pune,Home & Kitchen,9514,Delivered,Standard,New,PUN-WH01,4,5,Yes
+FK100158,2026-08-13 00:00:00,Delhi,Beauty,1157,Delivered,Standard,New,DEL-WH01,4,5,Yes
+FK100283,2026-08-13 00:00:00,Delhi,Beauty,3925,Delivered,Express,Regular,DEL-WH01,2,3,Yes
+FK100179,2026-08-13 00:00:00,Delhi,Beauty,671,Delivered,Standard,New,DEL-WH01,4,4,No
+FK101195,2026-08-13 00:00:00,Ahmedabad,Fashion,2254,Delivered,Standard,New,AMD-WH01,4,4,No
+FK100759,2026-08-13 00:00:00,Hyderabad,Home & Kitchen,2085,Delivered,Standard,New,HYD-WH01,4,5,Yes
+FK101036,2026-08-14 00:00:00,Mumbai,Grocery,902,Delivered,Express,Regular,MUM-WH01,2,2,No
+FK100641,2026-08-14 00:00:00,Ahmedabad,Fashion,1432,Delivered,Express,Regular,AMD-WH01,2,2,No
+FK101366,2026-08-14 00:00:00,Kolkata,Home & Kitchen,4506,Delivered,Standard,New,KOL-WH01,4,5,Yes
+FK100812,2026-08-14 00:00:00,Hyderabad,Beauty,1918,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100135,2026-08-14 00:00:00,Chennai,Home & Kitchen,859,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK101277,2026-08-14 00:00:00,Mumbai,Fashion,1575,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100325,2026-08-14 00:00:00,Bengaluru,Electronics,2571,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100535,2026-08-14 00:00:00,Pune,Beauty,4032,Returned,Standard,New,PUN-WH01,4,,N/A
+FK100724,2026-08-14 00:00:00,Bengaluru,Grocery,1129,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK101383,2026-08-14 00:00:00,Pune,Grocery,2459,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK101145,2026-08-14 00:00:00,Bengaluru,Electronics,1157,Delivered,Standard,New,BLR-WH01,4,4,No
+FK100522,2026-08-14 00:00:00,Mumbai,Beauty,2764,Returned,Standard,Regular,MUM-WH01,4,,N/A
+FK101392,2026-08-14 00:00:00,Pune,Fashion,1368,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100936,2026-08-14 00:00:00,Chennai,Home & Kitchen,1713,Delivered,Express,Regular,CHE-WH01,2,2,No
+FK101239,2026-08-14 00:00:00,Ahmedabad,Home & Kitchen,4490,Delivered,Standard,Premium,AMD-WH01,4,4,No
+FK100081,2026-08-14 00:00:00,Hyderabad,Grocery,1330,Delivered,Standard,Regular,HYD-WH01,4,5,Yes
+FK100554,2026-08-14 00:00:00,Kolkata,Beauty,2501,Delivered,Express,Regular,KOL-WH01,2,2,No
+FK100556,2026-08-14 00:00:00,Delhi,Home & Kitchen,1142,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK101301,2026-08-15 00:00:00,Bengaluru,Fashion,910,Cancelled,Standard,Regular,BLR-WH01,4,,N/A
+FK101495,2026-08-15 00:00:00,Bengaluru,Beauty,4664,Cancelled,Express,Regular,BLR-WH01,2,,N/A
+FK101454,2026-08-15 00:00:00,Bengaluru,Grocery,1132,Delivered,Standard,Regular,BLR-WH01,4,6,Yes
+FK101409,2026-08-15 00:00:00,Pune,Electronics,1243,Returned,Standard,Regular,PUN-WH01,4,,N/A
+FK100953,2026-08-15 00:00:00,Bengaluru,Home & Kitchen,4126,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100973,2026-08-15 00:00:00,Mumbai,Electronics,1292,Delivered,Express,New,MUM-WH01,2,2,No
+FK101149,2026-08-15 00:00:00,Ahmedabad,Fashion,1305,Delivered,Express,New,AMD-WH01,2,2,No
+FK101075,2026-08-15 00:00:00,Ahmedabad,Fashion,3450,Returned,Express,Premium,AMD-WH01,2,,N/A
+FK101263,2026-08-15 00:00:00,Pune,Home & Kitchen,1848,Delivered,Standard,New,PUN-WH01,4,4,No
+FK101500,2026-08-15 00:00:00,Mumbai,Grocery,2314,Returned,Standard,Regular,MUM-WH01,4,,N/A
+FK100506,2026-08-15 00:00:00,Hyderabad,Beauty,1697,Delivered,Standard,Regular,HYD-WH01,4,5,Yes
+FK100437,2026-08-15 00:00:00,Bengaluru,Electronics,2511,Delivered,Standard,Premium,BLR-WH01,4,4,No
+FK100601,2026-08-15 00:00:00,Ahmedabad,Beauty,2910,Delivered,Standard,New,AMD-WH01,4,4,No
+FK100285,2026-08-15 00:00:00,Bengaluru,Electronics,1606,Delivered,Standard,Premium,BLR-WH01,4,4,No
+FK100301,2026-08-15 00:00:00,Delhi,Electronics,1411,Delivered,Standard,Regular,DEL-WH01,4,5,Yes
+FK100289,2026-08-15 00:00:00,Mumbai,Electronics,1173,Delivered,Standard,Regular,MUM-WH01,4,5,Yes
+FK100721,2026-08-15 00:00:00,Kolkata,Home & Kitchen,4700,Delivered,Standard,Premium,KOL-WH01,4,6,Yes
+FK100558,2026-08-16 00:00:00,Pune,Home & Kitchen,1003,Delivered,Standard,Regular,PUN-WH01,4,7,Yes
+FK100661,2026-08-16 00:00:00,Bengaluru,Electronics,1231,Delivered,Standard,New,BLR-WH01,4,4,No
+FK100952,2026-08-16 00:00:00,Chennai,Grocery,1257,Delivered,Express,Regular,CHE-WH01,2,2,No
+FK100052,2026-08-16 00:00:00,Ahmedabad,Electronics,1499,Delivered,Express,Regular,AMD-WH01,2,2,No
+FK100925,2026-08-16 00:00:00,Kolkata,Electronics,1142,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK101322,2026-08-16 00:00:00,Bengaluru,Home & Kitchen,423,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK101043,2026-08-16 00:00:00,Hyderabad,Fashion,943,Delivered,Standard,New,HYD-WH01,4,4,No
+FK100357,2026-08-16 00:00:00,Chennai,Electronics,781,Cancelled,Standard,Premium,CHE-WH01,4,,N/A
+FK100933,2026-08-16 00:00:00,Kolkata,Beauty,2041,Returned,Standard,Regular,KOL-WH01,4,,N/A
+FK100738,2026-08-16 00:00:00,Pune,Beauty,921,Delivered,Standard,New,PUN-WH01,4,4,No
+FK100985,2026-08-16 00:00:00,Kolkata,Grocery,1963,Delivered,Standard,New,KOL-WH01,4,4,No
+FK100394,2026-08-16 00:00:00,Hyderabad,Electronics,3224,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK101472,2026-08-16 00:00:00,Delhi,Beauty,2284,Delivered,Standard,Regular,DEL-WH01,4,5,Yes
+FK100821,2026-08-16 00:00:00,Bengaluru,Beauty,996,Delivered,Express,Regular,BLR-WH01,2,3,Yes
+FK100566,2026-08-16 00:00:00,Mumbai,Beauty,2387,Delivered,Express,Regular,MUM-WH01,2,2,No
+FK100109,2026-08-16 00:00:00,Ahmedabad,Fashion,2496,Delivered,Express,Regular,AMD-WH01,2,2,No
+FK100304,2026-08-16 00:00:00,Pune,Beauty,863,Delivered,Standard,Regular,PUN-WH01,4,5,Yes
+FK101216,2026-08-16 00:00:00,Ahmedabad,Fashion,2042,Cancelled,Express,Regular,AMD-WH01,2,,N/A
+FK101465,2026-08-16 00:00:00,Chennai,Grocery,3854,Cancelled,Standard,Regular,CHE-WH01,4,,N/A
+FK101095,2026-08-16 00:00:00,Delhi,Beauty,1246,Returned,Standard,Regular,DEL-WH01,4,,N/A
+FK100030,2026-08-16 00:00:00,Kolkata,Grocery,1819,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100728,2026-08-16 00:00:00,Delhi,Grocery,3234,Delivered,Standard,New,DEL-WH01,4,4,No
+FK101438,2026-08-16 00:00:00,Pune,Grocery,987,Delivered,Standard,New,PUN-WH01,4,4,No
+FK100605,2026-08-16 00:00:00,Pune,Grocery,8330,Delivered,Standard,New,PUN-WH01,4,4,No
+FK101203,2026-08-16 00:00:00,Mumbai,Grocery,2313,Delivered,Standard,Premium,MUM-WH01,4,4,No
+FK101360,2026-08-17 00:00:00,Mumbai,Fashion,1452,Delivered,Standard,Regular,MUM-WH01,4,5,Yes
+FK100378,2026-08-17 00:00:00,Hyderabad,Electronics,1165,Delivered,Express,Regular,HYD-WH01,2,2,No
+FK101082,2026-08-17 00:00:00,Hyderabad,Home & Kitchen,7175,Cancelled,Standard,Regular,HYD-WH01,4,,N/A
+FK101355,2026-08-17 00:00:00,Kolkata,Grocery,2194,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK101228,2026-08-17 00:00:00,Delhi,Electronics,801,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100259,2026-08-17 00:00:00,Pune,Fashion,956,Delivered,Standard,New,PUN-WH01,4,4,No
+FK100229,2026-08-17 00:00:00,Kolkata,Home & Kitchen,695,Delivered,Express,New,KOL-WH01,2,2,No
+FK101380,2026-08-17 00:00:00,Pune,Home & Kitchen,1523,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100276,2026-08-17 00:00:00,Chennai,Fashion,1448,Delivered,Express,Premium,CHE-WH01,2,2,No
+FK101285,2026-08-17 00:00:00,Hyderabad,Home & Kitchen,718,Delivered,Standard,New,HYD-WH01,4,6,Yes
+FK100313,2026-08-17 00:00:00,Bengaluru,Home & Kitchen,2108,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100399,2026-08-17 00:00:00,Delhi,Beauty,6377,Delivered,Express,New,DEL-WH01,2,2,No
+FK100069,2026-08-17 00:00:00,Pune,Electronics,1809,Cancelled,Express,Regular,PUN-WH01,2,,N/A
+FK100102,2026-08-17 00:00:00,Hyderabad,Electronics,1490,Delivered,Standard,Premium,HYD-WH01,4,4,No
+FK100252,2026-08-17 00:00:00,Mumbai,Fashion,5902,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100731,2026-08-17 00:00:00,Ahmedabad,Beauty,5193,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100222,2026-08-17 00:00:00,Ahmedabad,Beauty,1313,Returned,Express,Regular,AMD-WH01,2,,N/A
+FK100344,2026-08-18 00:00:00,Mumbai,Home & Kitchen,504,Delivered,Standard,Premium,MUM-WH01,4,5,Yes
+FK101019,2026-08-18 00:00:00,Hyderabad,Electronics,2507,Delivered,Standard,Premium,HYD-WH01,4,6,Yes
+FK101025,2026-08-18 00:00:00,Delhi,Home & Kitchen,1226,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100472,2026-08-18 00:00:00,Chennai,Beauty,875,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK101021,2026-08-18 00:00:00,Delhi,Fashion,1310,Delivered,Express,Regular,DEL-WH01,2,2,No
+FK100456,2026-08-18 00:00:00,Bengaluru,Fashion,854,Delivered,Standard,New,BLR-WH01,4,4,No
+FK100621,2026-08-18 00:00:00,Mumbai,Beauty,2412,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100723,2026-08-18 00:00:00,Delhi,Grocery,2783,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK101013,2026-08-18 00:00:00,Ahmedabad,Fashion,2707,Delivered,Standard,Premium,AMD-WH01,4,4,No
+FK101035,2026-08-18 00:00:00,Delhi,Grocery,1537,Delivered,Standard,Regular,DEL-WH01,4,6,Yes
+FK101275,2026-08-18 00:00:00,Pune,Beauty,3789,Delivered,Express,Regular,PUN-WH01,2,3,Yes
+FK100615,2026-08-18 00:00:00,Delhi,Home & Kitchen,4339,Cancelled,Standard,New,DEL-WH01,4,,N/A
+FK100023,2026-08-18 00:00:00,Mumbai,Fashion,3575,Delivered,Standard,New,MUM-WH01,4,4,No
+FK101290,2026-08-18 00:00:00,Delhi,Fashion,1082,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100281,2026-08-18 00:00:00,Chennai,Home & Kitchen,2181,Returned,Express,Regular,CHE-WH01,2,,N/A
+FK101197,2026-08-18 00:00:00,Pune,Fashion,754,Cancelled,Standard,Regular,PUN-WH01,4,,N/A
+FK100567,2026-08-18 00:00:00,Pune,Home & Kitchen,655,Delivered,Standard,Premium,PUN-WH01,4,4,No
+FK100852,2026-08-18 00:00:00,Hyderabad,Beauty,4172,Delivered,Standard,New,HYD-WH01,4,4,No
+FK101323,2026-08-18 00:00:00,Pune,Fashion,2483,Delivered,Express,Regular,PUN-WH01,2,4,Yes
+FK100832,2026-08-19 00:00:00,Kolkata,Fashion,584,Delivered,Standard,Premium,KOL-WH01,4,7,Yes
+FK100317,2026-08-19 00:00:00,Mumbai,Electronics,715,Delivered,Standard,New,MUM-WH01,4,4,No
+FK100707,2026-08-19 00:00:00,Delhi,Fashion,2680,Delivered,Express,New,DEL-WH01,2,2,No
+FK100856,2026-08-19 00:00:00,Ahmedabad,Grocery,7381,Returned,Standard,New,AMD-WH01,4,,N/A
+FK101328,2026-08-19 00:00:00,Bengaluru,Grocery,1827,Delivered,Express,Regular,BLR-WH01,2,2,No
+FK100419,2026-08-19 00:00:00,Kolkata,Beauty,1065,Delivered,Standard,Premium,KOL-WH01,4,4,No
+FK101435,2026-08-19 00:00:00,Kolkata,Fashion,2193,Delivered,Express,Premium,KOL-WH01,2,3,Yes
+FK100589,2026-08-19 00:00:00,Mumbai,Fashion,4684,Delivered,Standard,New,MUM-WH01,4,4,No
+FK100213,2026-08-19 00:00:00,Hyderabad,Electronics,4306,Delivered,Standard,Premium,HYD-WH01,4,4,No
+FK100654,2026-08-19 00:00:00,Hyderabad,Fashion,3319,Delivered,Standard,Premium,HYD-WH01,4,5,Yes
+FK101060,2026-08-19 00:00:00,Bengaluru,Grocery,2397,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100670,2026-08-19 00:00:00,Mumbai,Beauty,1179,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100511,2026-08-19 00:00:00,Delhi,Beauty,582,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100055,2026-08-19 00:00:00,Bengaluru,Electronics,719,Delivered,Standard,New,BLR-WH01,4,4,No
+FK100157,2026-08-20 00:00:00,Bengaluru,Electronics,1105,Delivered,Standard,New,BLR-WH01,4,5,Yes
+FK100336,2026-08-20 00:00:00,Delhi,Beauty,1722,Cancelled,Express,Regular,DEL-WH01,2,,N/A
+FK101192,2026-08-20 00:00:00,Kolkata,Beauty,5850,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK101046,2026-08-20 00:00:00,Mumbai,Beauty,846,Delivered,Standard,New,MUM-WH01,4,5,Yes
+FK100640,2026-08-20 00:00:00,Hyderabad,Home & Kitchen,1290,Cancelled,Express,New,HYD-WH01,2,,N/A
+FK100672,2026-08-20 00:00:00,Ahmedabad,Beauty,1166,Delivered,Standard,Premium,AMD-WH01,4,6,Yes
+FK100811,2026-08-20 00:00:00,Mumbai,Fashion,3622,Cancelled,Standard,Regular,MUM-WH01,4,,N/A
+FK100886,2026-08-20 00:00:00,Mumbai,Electronics,874,Delivered,Standard,New,MUM-WH01,4,4,No
+FK100709,2026-08-20 00:00:00,Mumbai,Home & Kitchen,3584,Delivered,Express,New,MUM-WH01,2,2,No
+FK101005,2026-08-20 00:00:00,Delhi,Grocery,325,Delivered,Standard,Regular,DEL-WH01,4,5,Yes
+FK100902,2026-08-20 00:00:00,Delhi,Home & Kitchen,1161,Returned,Standard,Regular,DEL-WH01,4,,N/A
+FK100036,2026-08-20 00:00:00,Ahmedabad,Home & Kitchen,3136,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100895,2026-08-20 00:00:00,Mumbai,Grocery,1052,Delivered,Standard,Premium,MUM-WH01,4,4,No
+FK100424,2026-08-20 00:00:00,Ahmedabad,Home & Kitchen,1212,Delivered,Express,Regular,AMD-WH01,2,3,Yes
+FK101154,2026-08-20 00:00:00,Hyderabad,Beauty,1899,Delivered,Standard,Regular,HYD-WH01,4,6,Yes
+FK101070,2026-08-20 00:00:00,Delhi,Grocery,693,Returned,Express,Regular,DEL-WH01,2,,N/A
+FK100032,2026-08-20 00:00:00,Pune,Home & Kitchen,450,Returned,Standard,Premium,PUN-WH01,4,,N/A
+FK100966,2026-08-20 00:00:00,Mumbai,Home & Kitchen,2592,Delivered,Standard,Regular,MUM-WH01,4,5,Yes
+FK100265,2026-08-20 00:00:00,Delhi,Electronics,1995,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100804,2026-08-20 00:00:00,Kolkata,Electronics,644,Delivered,Standard,Premium,KOL-WH01,4,4,No
+FK101450,2026-08-20 00:00:00,Hyderabad,Fashion,836,Delivered,Standard,Regular,HYD-WH01,4,5,Yes
+FK100677,2026-08-20 00:00:00,Delhi,Beauty,2685,Delivered,Express,Regular,DEL-WH01,2,2,No
+FK100666,2026-08-20 00:00:00,Ahmedabad,Fashion,1216,Delivered,Standard,New,AMD-WH01,4,4,No
+FK101029,2026-08-20 00:00:00,Bengaluru,Beauty,3947,Delivered,Standard,Regular,BLR-WH01,4,5,Yes
+FK100390,2026-08-20 00:00:00,Hyderabad,Electronics,1776,Delivered,Standard,New,HYD-WH01,4,4,No
+FK100119,2026-08-20 00:00:00,Kolkata,Fashion,800,Delivered,Standard,New,KOL-WH01,4,4,No
+FK100897,2026-08-20 00:00:00,Chennai,Home & Kitchen,874,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK100674,2026-08-21 00:00:00,Hyderabad,Fashion,387,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100121,2026-08-21 00:00:00,Bengaluru,Beauty,1601,Delivered,Express,Regular,BLR-WH01,2,2,No
+FK101442,2026-08-21 00:00:00,Bengaluru,Electronics,336,Delivered,Standard,Premium,BLR-WH01,4,4,No
+FK100480,2026-08-21 00:00:00,Bengaluru,Grocery,1313,Delivered,Express,New,BLR-WH01,2,4,Yes
+FK100485,2026-08-21 00:00:00,Hyderabad,Beauty,1736,Delivered,Express,Regular,HYD-WH01,2,3,Yes
+FK100001,2026-08-21 00:00:00,Hyderabad,Electronics,1154,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100737,2026-08-21 00:00:00,Chennai,Beauty,2904,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK100774,2026-08-21 00:00:00,Ahmedabad,Grocery,2120,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100926,2026-08-21 00:00:00,Pune,Electronics,3243,Returned,Standard,Regular,PUN-WH01,4,,N/A
+FK100206,2026-08-21 00:00:00,Mumbai,Home & Kitchen,1303,Delivered,Express,Premium,MUM-WH01,2,2,No
+FK100165,2026-08-21 00:00:00,Delhi,Grocery,3833,Delivered,Standard,New,DEL-WH01,4,4,No
+FK101307,2026-08-21 00:00:00,Chennai,Beauty,1013,Delivered,Standard,Premium,CHE-WH01,4,4,No
+FK100345,2026-08-21 00:00:00,Hyderabad,Home & Kitchen,1314,Returned,Standard,Regular,HYD-WH01,4,,N/A
+FK100990,2026-08-21 00:00:00,Kolkata,Beauty,1891,Delivered,Standard,Regular,KOL-WH01,4,6,Yes
+FK100406,2026-08-21 00:00:00,Hyderabad,Home & Kitchen,2088,Delivered,Express,New,HYD-WH01,2,2,No
+FK101010,2026-08-21 00:00:00,Hyderabad,Home & Kitchen,3779,Delivered,Standard,New,HYD-WH01,4,4,No
+FK100162,2026-08-21 00:00:00,Kolkata,Grocery,1845,Returned,Standard,Regular,KOL-WH01,4,,N/A
+FK100360,2026-08-21 00:00:00,Hyderabad,Grocery,1136,Returned,Standard,Regular,HYD-WH01,4,,N/A
+FK101287,2026-08-22 00:00:00,Ahmedabad,Fashion,1285,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100178,2026-08-22 00:00:00,Pune,Fashion,2852,Delivered,Express,Premium,PUN-WH01,2,3,Yes
+FK100290,2026-08-22 00:00:00,Delhi,Fashion,1611,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK101155,2026-08-22 00:00:00,Chennai,Home & Kitchen,4324,Cancelled,Standard,Premium,CHE-WH01,4,,N/A
+FK100782,2026-08-22 00:00:00,Ahmedabad,Electronics,863,Delivered,Standard,Premium,AMD-WH01,4,4,No
+FK100352,2026-08-22 00:00:00,Delhi,Fashion,2778,Delivered,Standard,Regular,DEL-WH01,4,5,Yes
+FK100689,2026-08-22 00:00:00,Hyderabad,Electronics,2541,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100491,2026-08-22 00:00:00,Delhi,Fashion,1958,Delivered,Standard,Regular,DEL-WH01,4,5,Yes
+FK101142,2026-08-22 00:00:00,Ahmedabad,Electronics,5191,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK101384,2026-08-22 00:00:00,Hyderabad,Beauty,1574,Returned,Express,Regular,HYD-WH01,2,,N/A
+FK100011,2026-08-22 00:00:00,Hyderabad,Grocery,2573,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100894,2026-08-22 00:00:00,Delhi,Home & Kitchen,4764,Delivered,Standard,New,DEL-WH01,4,4,No
+FK101399,2026-08-22 00:00:00,Hyderabad,Beauty,2702,Delivered,Standard,New,HYD-WH01,4,4,No
+FK100631,2026-08-22 00:00:00,Hyderabad,Home & Kitchen,1047,Delivered,Express,New,HYD-WH01,2,2,No
+FK100046,2026-08-22 00:00:00,Ahmedabad,Electronics,2932,Delivered,Standard,New,AMD-WH01,4,4,No
+FK100987,2026-08-22 00:00:00,Ahmedabad,Grocery,3494,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100633,2026-08-22 00:00:00,Ahmedabad,Fashion,866,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100074,2026-08-22 00:00:00,Pune,Electronics,7650,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK101497,2026-08-22 00:00:00,Pune,Grocery,1901,Delivered,Express,Regular,PUN-WH01,2,3,Yes
+FK100486,2026-08-22 00:00:00,Kolkata,Grocery,543,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK101107,2026-08-22 00:00:00,Bengaluru,Grocery,1133,Returned,Standard,Regular,BLR-WH01,4,,N/A
+FK100572,2026-08-23 00:00:00,Chennai,Beauty,566,Delivered,Standard,New,CHE-WH01,4,4,No
+FK100652,2026-08-23 00:00:00,Bengaluru,Grocery,2257,Delivered,Express,Regular,BLR-WH01,2,2,No
+FK101321,2026-08-23 00:00:00,Mumbai,Beauty,3315,Delivered,Standard,New,MUM-WH01,4,4,No
+FK100233,2026-08-23 00:00:00,Hyderabad,Grocery,2835,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK101313,2026-08-23 00:00:00,Bengaluru,Grocery,1585,Returned,Standard,Regular,BLR-WH01,4,,N/A
+FK101068,2026-08-23 00:00:00,Mumbai,Beauty,1215,Returned,Standard,Premium,MUM-WH01,4,,N/A
+FK100266,2026-08-23 00:00:00,Kolkata,Fashion,2973,Cancelled,Standard,Regular,KOL-WH01,4,,N/A
+FK100243,2026-08-23 00:00:00,Bengaluru,Electronics,3727,Delivered,Express,Premium,BLR-WH01,2,3,Yes
+FK100174,2026-08-23 00:00:00,Hyderabad,Home & Kitchen,3708,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK101079,2026-08-23 00:00:00,Mumbai,Electronics,1013,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100657,2026-08-23 00:00:00,Bengaluru,Fashion,1200,Delivered,Express,Regular,BLR-WH01,2,2,No
+FK101006,2026-08-23 00:00:00,Pune,Fashion,1465,Cancelled,Express,Premium,PUN-WH01,2,,N/A
+FK100349,2026-08-23 00:00:00,Chennai,Home & Kitchen,1439,Delivered,Express,New,CHE-WH01,2,2,No
+FK100298,2026-08-23 00:00:00,Pune,Home & Kitchen,3582,Cancelled,Express,Regular,PUN-WH01,2,,N/A
+FK101166,2026-08-23 00:00:00,Pune,Beauty,2882,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100529,2026-08-23 00:00:00,Mumbai,Beauty,3827,Delivered,Standard,Regular,MUM-WH01,4,5,Yes
+FK101152,2026-08-23 00:00:00,Hyderabad,Fashion,1194,Delivered,Express,Premium,HYD-WH01,2,3,Yes
+FK100059,2026-08-23 00:00:00,Bengaluru,Grocery,1120,Delivered,Standard,Premium,BLR-WH01,4,5,Yes
+FK100976,2026-08-23 00:00:00,Mumbai,Grocery,1655,Delivered,Express,New,MUM-WH01,2,3,Yes
+FK100980,2026-08-23 00:00:00,Kolkata,Home & Kitchen,1451,Cancelled,Standard,Regular,KOL-WH01,4,,N/A
+FK100061,2026-08-23 00:00:00,Chennai,Electronics,1945,Delivered,Express,New,CHE-WH01,2,2,No
+FK100369,2026-08-24 00:00:00,Bengaluru,Electronics,1279,Delivered,Express,Premium,BLR-WH01,2,4,Yes
+FK101081,2026-08-24 00:00:00,Kolkata,Home & Kitchen,3147,Returned,Standard,Premium,KOL-WH01,4,,N/A
+FK101058,2026-08-24 00:00:00,Delhi,Grocery,1205,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100033,2026-08-24 00:00:00,Delhi,Beauty,727,Delivered,Standard,New,DEL-WH01,4,4,No
+FK100463,2026-08-24 00:00:00,Mumbai,Grocery,6969,Delivered,Standard,Regular,MUM-WH01,4,5,Yes
+FK100626,2026-08-24 00:00:00,Hyderabad,Beauty,4105,Delivered,Standard,New,HYD-WH01,4,4,No
+FK101202,2026-08-24 00:00:00,Pune,Fashion,8035,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100981,2026-08-24 00:00:00,Hyderabad,Home & Kitchen,1590,Delivered,Express,Regular,HYD-WH01,2,2,No
+FK100184,2026-08-24 00:00:00,Chennai,Grocery,2962,Delivered,Standard,Regular,CHE-WH01,4,5,Yes
+FK101167,2026-08-24 00:00:00,Kolkata,Beauty,1252,Delivered,Express,Regular,KOL-WH01,2,2,No
+FK100915,2026-08-24 00:00:00,Ahmedabad,Electronics,1565,Delivered,Standard,Premium,AMD-WH01,4,4,No
+FK100695,2026-08-24 00:00:00,Chennai,Beauty,2966,Delivered,Express,New,CHE-WH01,2,2,No
+FK100358,2026-08-24 00:00:00,Pune,Beauty,2184,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK101254,2026-08-24 00:00:00,Chennai,Electronics,2705,Delivered,Express,Premium,CHE-WH01,2,2,No
+FK100792,2026-08-24 00:00:00,Ahmedabad,Grocery,1180,Delivered,Standard,Premium,AMD-WH01,4,4,No
+FK101244,2026-08-24 00:00:00,Pune,Electronics,5930,Cancelled,Standard,Regular,PUN-WH01,4,,N/A
+FK101052,2026-08-24 00:00:00,Mumbai,Beauty,2146,Delivered,Standard,Regular,MUM-WH01,4,5,Yes
+FK100548,2026-08-25 00:00:00,Mumbai,Beauty,1295,Delivered,Standard,Premium,MUM-WH01,4,4,No
+FK101171,2026-08-25 00:00:00,Mumbai,Beauty,865,Delivered,Standard,Regular,MUM-WH01,4,5,Yes
+FK101338,2026-08-25 00:00:00,Delhi,Home & Kitchen,2363,Delivered,Standard,New,DEL-WH01,4,4,No
+FK100186,2026-08-25 00:00:00,Hyderabad,Home & Kitchen,4594,Delivered,Express,Regular,HYD-WH01,2,2,No
+FK101269,2026-08-25 00:00:00,Chennai,Electronics,1687,Delivered,Standard,Regular,CHE-WH01,4,5,Yes
+FK100609,2026-08-25 00:00:00,Mumbai,Beauty,1561,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100170,2026-08-25 00:00:00,Kolkata,Fashion,885,Delivered,Standard,New,KOL-WH01,4,4,No
+FK101299,2026-08-25 00:00:00,Hyderabad,Home & Kitchen,1131,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK101370,2026-08-25 00:00:00,Pune,Grocery,1645,Cancelled,Standard,Regular,PUN-WH01,4,,N/A
+FK100701,2026-08-25 00:00:00,Mumbai,Fashion,2473,Returned,Standard,New,MUM-WH01,4,,N/A
+FK100778,2026-08-25 00:00:00,Mumbai,Electronics,3845,Cancelled,Standard,New,MUM-WH01,4,,N/A
+FK101030,2026-08-25 00:00:00,Chennai,Grocery,2173,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK100927,2026-08-25 00:00:00,Ahmedabad,Beauty,2601,Cancelled,Standard,New,AMD-WH01,4,,N/A
+FK101470,2026-08-25 00:00:00,Chennai,Electronics,1646,Cancelled,Standard,New,CHE-WH01,4,,N/A
+FK100739,2026-08-25 00:00:00,Mumbai,Fashion,2703,Delivered,Standard,Premium,MUM-WH01,4,4,No
+FK100682,2026-08-25 00:00:00,Hyderabad,Electronics,754,Delivered,Express,Premium,HYD-WH01,2,2,No
+FK100746,2026-08-25 00:00:00,Kolkata,Grocery,457,Returned,Express,New,KOL-WH01,2,,N/A
+FK100729,2026-08-25 00:00:00,Mumbai,Fashion,3249,Delivered,Express,New,MUM-WH01,2,2,No
+FK100659,2026-08-26 00:00:00,Mumbai,Home & Kitchen,3971,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100991,2026-08-26 00:00:00,Chennai,Beauty,7097,Delivered,Standard,Premium,CHE-WH01,4,4,No
+FK100913,2026-08-26 00:00:00,Mumbai,Grocery,1096,Delivered,Express,Regular,MUM-WH01,2,2,No
+FK101064,2026-08-26 00:00:00,Bengaluru,Electronics,3097,Delivered,Standard,New,BLR-WH01,4,4,No
+FK101476,2026-08-26 00:00:00,Bengaluru,Home & Kitchen,5972,Returned,Standard,Regular,BLR-WH01,4,,N/A
+FK101315,2026-08-26 00:00:00,Mumbai,Fashion,5016,Delivered,Standard,New,MUM-WH01,4,4,No
+FK101267,2026-08-26 00:00:00,Bengaluru,Electronics,4657,Cancelled,Standard,Regular,BLR-WH01,4,,N/A
+FK100757,2026-08-26 00:00:00,Pune,Fashion,1268,Delivered,Standard,Regular,PUN-WH01,4,5,Yes
+FK100575,2026-08-26 00:00:00,Hyderabad,Beauty,1624,Delivered,Standard,New,HYD-WH01,4,4,No
+FK100323,2026-08-26 00:00:00,Mumbai,Home & Kitchen,836,Returned,Standard,Regular,MUM-WH01,4,,N/A
+FK100212,2026-08-26 00:00:00,Ahmedabad,Fashion,2835,Cancelled,Standard,Regular,AMD-WH01,4,,N/A
+FK100977,2026-08-26 00:00:00,Mumbai,Electronics,2178,Delivered,Standard,Regular,MUM-WH01,4,5,Yes
+FK100391,2026-08-26 00:00:00,Mumbai,Beauty,1180,Delivered,Standard,Premium,MUM-WH01,4,4,No
+FK100564,2026-08-26 00:00:00,Ahmedabad,Home & Kitchen,3803,Cancelled,Standard,Regular,AMD-WH01,4,,N/A
+FK100806,2026-08-26 00:00:00,Bengaluru,Fashion,1228,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100137,2026-08-26 00:00:00,Ahmedabad,Home & Kitchen,3635,Cancelled,Standard,New,AMD-WH01,4,,N/A
+FK100489,2026-08-26 00:00:00,Chennai,Grocery,824,Delivered,Standard,New,CHE-WH01,4,7,Yes
+FK101201,2026-08-26 00:00:00,Hyderabad,Electronics,1034,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK101137,2026-08-26 00:00:00,Ahmedabad,Home & Kitchen,1699,Delivered,Standard,New,AMD-WH01,4,4,No
+FK101452,2026-08-27 00:00:00,Delhi,Grocery,3983,Returned,Standard,Regular,DEL-WH01,4,,N/A
+FK100338,2026-08-27 00:00:00,Hyderabad,Home & Kitchen,696,Delivered,Express,Regular,HYD-WH01,2,2,No
+FK100537,2026-08-27 00:00:00,Mumbai,Grocery,1260,Delivered,Express,New,MUM-WH01,2,5,Yes
+FK100409,2026-08-27 00:00:00,Kolkata,Beauty,1184,Delivered,Standard,New,KOL-WH01,4,4,No
+FK100446,2026-08-27 00:00:00,Bengaluru,Grocery,956,Delivered,Standard,New,BLR-WH01,4,4,No
+FK100503,2026-08-27 00:00:00,Ahmedabad,Home & Kitchen,2029,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100493,2026-08-27 00:00:00,Bengaluru,Home & Kitchen,1510,Delivered,Express,Regular,BLR-WH01,2,2,No
+FK101480,2026-08-27 00:00:00,Delhi,Electronics,534,Delivered,Express,Premium,DEL-WH01,2,4,Yes
+FK100021,2026-08-27 00:00:00,Pune,Grocery,448,Delivered,Standard,New,PUN-WH01,4,4,No
+FK100552,2026-08-27 00:00:00,Chennai,Grocery,1872,Delivered,Standard,Regular,CHE-WH01,4,5,Yes
+FK100299,2026-08-27 00:00:00,Ahmedabad,Home & Kitchen,935,Returned,Standard,Regular,AMD-WH01,4,,N/A
+FK100587,2026-08-27 00:00:00,Kolkata,Beauty,4406,Delivered,Express,Regular,KOL-WH01,2,2,No
+FK100368,2026-08-27 00:00:00,Hyderabad,Beauty,946,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100164,2026-08-27 00:00:00,Mumbai,Home & Kitchen,1324,Cancelled,Express,New,MUM-WH01,2,,N/A
+FK101393,2026-08-27 00:00:00,Chennai,Fashion,1541,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK101368,2026-08-27 00:00:00,Mumbai,Home & Kitchen,2558,Delivered,Express,New,MUM-WH01,2,2,No
+FK100375,2026-08-27 00:00:00,Ahmedabad,Beauty,2535,Delivered,Express,Regular,AMD-WH01,2,2,No
+FK101122,2026-08-27 00:00:00,Chennai,Fashion,1425,Delivered,Standard,Premium,CHE-WH01,4,4,No
+FK100343,2026-08-27 00:00:00,Delhi,Home & Kitchen,1284,Delivered,Express,Regular,DEL-WH01,2,2,No
+FK100342,2026-08-27 00:00:00,Kolkata,Home & Kitchen,3588,Delivered,Express,New,KOL-WH01,2,2,No
+FK100195,2026-08-28 00:00:00,Kolkata,Grocery,2796,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100199,2026-08-28 00:00:00,Delhi,Grocery,1142,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK101196,2026-08-28 00:00:00,Chennai,Electronics,1455,Cancelled,Standard,Regular,CHE-WH01,4,,N/A
+FK100779,2026-08-28 00:00:00,Ahmedabad,Beauty,1677,Delivered,Standard,Premium,AMD-WH01,4,4,No
+FK101293,2026-08-28 00:00:00,Mumbai,Fashion,1178,Delivered,Standard,New,MUM-WH01,4,6,Yes
+FK101164,2026-08-28 00:00:00,Hyderabad,Beauty,1235,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK101378,2026-08-28 00:00:00,Mumbai,Electronics,736,Returned,Standard,Premium,MUM-WH01,4,,N/A
+FK100470,2026-08-28 00:00:00,Bengaluru,Beauty,2848,Cancelled,Standard,Regular,BLR-WH01,4,,N/A
+FK100131,2026-08-28 00:00:00,Kolkata,Beauty,4482,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK101379,2026-08-28 00:00:00,Ahmedabad,Fashion,1276,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100619,2026-08-28 00:00:00,Delhi,Grocery,4161,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100261,2026-08-28 00:00:00,Bengaluru,Home & Kitchen,883,Cancelled,Standard,New,BLR-WH01,4,,N/A
+FK100171,2026-08-28 00:00:00,Ahmedabad,Electronics,1927,Delivered,Express,Regular,AMD-WH01,2,2,No
+FK101473,2026-08-28 00:00:00,Ahmedabad,Fashion,824,Delivered,Express,New,AMD-WH01,2,4,Yes
+FK100160,2026-08-28 00:00:00,Hyderabad,Beauty,1633,Delivered,Standard,Premium,HYD-WH01,4,5,Yes
+FK101066,2026-08-28 00:00:00,Bengaluru,Fashion,8839,Delivered,Standard,New,BLR-WH01,4,5,Yes
+FK101230,2026-08-28 00:00:00,Ahmedabad,Beauty,3336,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK101233,2026-08-28 00:00:00,Pune,Grocery,863,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK101112,2026-08-28 00:00:00,Ahmedabad,Beauty,3462,Delivered,Express,New,AMD-WH01,2,2,No
+FK101213,2026-08-28 00:00:00,Delhi,Home & Kitchen,1566,Delivered,Express,Regular,DEL-WH01,2,2,No
+FK100745,2026-08-28 00:00:00,Hyderabad,Grocery,1501,Cancelled,Standard,Regular,HYD-WH01,4,,N/A
+FK100777,2026-08-28 00:00:00,Ahmedabad,Home & Kitchen,3899,Delivered,Express,Regular,AMD-WH01,2,2,No
+FK101004,2026-08-28 00:00:00,Chennai,Beauty,5714,Delivered,Express,Regular,CHE-WH01,2,4,Yes
+FK101309,2026-08-28 00:00:00,Hyderabad,Home & Kitchen,2478,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK101351,2026-08-28 00:00:00,Pune,Grocery,803,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100024,2026-08-28 00:00:00,Mumbai,Electronics,1335,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100957,2026-08-29 00:00:00,Mumbai,Electronics,672,Delivered,Standard,Premium,MUM-WH01,4,4,No
+FK100350,2026-08-29 00:00:00,Pune,Grocery,10353,Cancelled,Express,Premium,PUN-WH01,2,,N/A
+FK101092,2026-08-29 00:00:00,Ahmedabad,Home & Kitchen,1359,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100321,2026-08-29 00:00:00,Kolkata,Beauty,531,Delivered,Standard,Regular,KOL-WH01,4,5,Yes
+FK101238,2026-08-29 00:00:00,Chennai,Beauty,5624,Cancelled,Standard,Regular,CHE-WH01,4,,N/A
+FK100043,2026-08-29 00:00:00,Delhi,Fashion,951,Delivered,Standard,Regular,DEL-WH01,4,5,Yes
+FK100048,2026-08-29 00:00:00,Pune,Fashion,5620,Delivered,Standard,Premium,PUN-WH01,4,4,No
+FK100871,2026-08-29 00:00:00,Chennai,Electronics,2083,Delivered,Express,New,CHE-WH01,2,2,No
+FK100026,2026-08-29 00:00:00,Pune,Home & Kitchen,3476,Returned,Standard,Regular,PUN-WH01,4,,N/A
+FK101494,2026-08-29 00:00:00,Pune,Fashion,2265,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK101389,2026-08-29 00:00:00,Chennai,Electronics,4937,Returned,Express,New,CHE-WH01,2,,N/A
+FK100588,2026-08-29 00:00:00,Kolkata,Home & Kitchen,4579,Delivered,Standard,Regular,KOL-WH01,4,7,Yes
+FK100866,2026-08-29 00:00:00,Bengaluru,Home & Kitchen,842,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100219,2026-08-29 00:00:00,Hyderabad,Fashion,5229,Cancelled,Standard,New,HYD-WH01,4,,N/A
+FK100017,2026-08-29 00:00:00,Pune,Beauty,939,Delivered,Express,Regular,PUN-WH01,2,2,No
+FK100291,2026-08-29 00:00:00,Kolkata,Beauty,1178,Delivered,Express,Regular,KOL-WH01,2,5,Yes
+FK101412,2026-08-29 00:00:00,Kolkata,Electronics,1534,Cancelled,Express,Premium,KOL-WH01,2,,N/A
+FK100855,2026-08-29 00:00:00,Pune,Home & Kitchen,1290,Delivered,Express,Regular,PUN-WH01,2,2,No
+FK101421,2026-08-29 00:00:00,Kolkata,Home & Kitchen,2006,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100077,2026-08-29 00:00:00,Bengaluru,Beauty,1454,Delivered,Express,Regular,BLR-WH01,2,2,No
+FK101359,2026-08-29 00:00:00,Pune,Fashion,1509,Cancelled,Standard,Regular,PUN-WH01,4,,N/A
+FK100353,2026-08-29 00:00:00,Chennai,Electronics,463,Delivered,Express,Regular,CHE-WH01,2,2,No
+FK100528,2026-08-30 00:00:00,Mumbai,Electronics,1460,Returned,Standard,Regular,MUM-WH01,4,,N/A
+FK100423,2026-08-30 00:00:00,Chennai,Electronics,4578,Delivered,Standard,New,CHE-WH01,4,4,No
+FK101326,2026-08-30 00:00:00,Hyderabad,Beauty,1009,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100557,2026-08-30 00:00:00,Delhi,Grocery,2150,Delivered,Express,Regular,DEL-WH01,2,2,No
+FK100245,2026-08-30 00:00:00,Hyderabad,Fashion,771,Delivered,Express,New,HYD-WH01,2,2,No
+FK101484,2026-08-30 00:00:00,Mumbai,Grocery,1712,Delivered,Express,Premium,MUM-WH01,2,2,No
+FK100275,2026-08-30 00:00:00,Bengaluru,Electronics,2389,Returned,Express,Regular,BLR-WH01,2,,N/A
+FK101024,2026-08-30 00:00:00,Hyderabad,Home & Kitchen,598,Delivered,Express,New,HYD-WH01,2,3,Yes
+FK101198,2026-08-30 00:00:00,Mumbai,Home & Kitchen,2075,Cancelled,Standard,Regular,MUM-WH01,4,,N/A
+FK100732,2026-08-30 00:00:00,Delhi,Beauty,3282,Delivered,Standard,Premium,DEL-WH01,4,6,Yes
+FK100540,2026-08-30 00:00:00,Delhi,Fashion,2441,Cancelled,Standard,Premium,DEL-WH01,4,,N/A
+FK101295,2026-08-30 00:00:00,Chennai,Home & Kitchen,3288,Delivered,Standard,Premium,CHE-WH01,4,5,Yes
+FK100474,2026-08-30 00:00:00,Chennai,Electronics,659,Cancelled,Standard,Premium,CHE-WH01,4,,N/A
+FK100004,2026-08-30 00:00:00,Chennai,Home & Kitchen,1789,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK100714,2026-08-30 00:00:00,Chennai,Beauty,5701,Delivered,Standard,New,CHE-WH01,4,4,No
+FK100381,2026-08-30 00:00:00,Pune,Home & Kitchen,2192,Delivered,Standard,New,PUN-WH01,4,4,No
+FK101184,2026-08-30 00:00:00,Mumbai,Home & Kitchen,1370,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100708,2026-08-30 00:00:00,Pune,Fashion,3733,Delivered,Express,Regular,PUN-WH01,2,2,No
+FK101329,2026-08-31 00:00:00,Mumbai,Electronics,3022,Delivered,Standard,New,MUM-WH01,4,4,No
+FK100163,2026-08-31 00:00:00,Pune,Home & Kitchen,2089,Delivered,Express,New,PUN-WH01,2,2,No
+FK100644,2026-08-31 00:00:00,Mumbai,Fashion,1845,Delivered,Standard,Regular,MUM-WH01,4,5,Yes
+FK100877,2026-08-31 00:00:00,Hyderabad,Beauty,802,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100395,2026-08-31 00:00:00,Delhi,Beauty,5086,Cancelled,Express,New,DEL-WH01,2,,N/A
+FK100104,2026-08-31 00:00:00,Hyderabad,Home & Kitchen,3516,Delivered,Express,Regular,HYD-WH01,2,3,Yes
+FK100031,2026-08-31 00:00:00,Pune,Fashion,3613,Delivered,Express,Regular,PUN-WH01,2,2,No
+FK100340,2026-08-31 00:00:00,Hyderabad,Beauty,3545,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100067,2026-08-31 00:00:00,Mumbai,Grocery,3662,Returned,Standard,Regular,MUM-WH01,4,,N/A
+FK100370,2026-08-31 00:00:00,Hyderabad,Fashion,3932,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100072,2026-08-31 00:00:00,Ahmedabad,Grocery,1546,Delivered,Standard,Regular,AMD-WH01,4,7,Yes
+FK101367,2026-08-31 00:00:00,Kolkata,Fashion,1317,Returned,Standard,Regular,KOL-WH01,4,,N/A
+FK100854,2026-08-31 00:00:00,Chennai,Electronics,4394,Cancelled,Standard,Regular,CHE-WH01,4,,N/A
+FK100028,2026-08-31 00:00:00,Bengaluru,Electronics,745,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100148,2026-08-31 00:00:00,Hyderabad,Beauty,2213,Delivered,Express,Premium,HYD-WH01,2,4,Yes
+FK101175,2026-08-31 00:00:00,Hyderabad,Electronics,916,Delivered,Express,Premium,HYD-WH01,2,2,No
+FK100136,2026-08-31 00:00:00,Mumbai,Home & Kitchen,1877,Delivered,Standard,New,MUM-WH01,4,4,No
+FK100805,2026-08-31 00:00:00,Ahmedabad,Home & Kitchen,733,Delivered,Standard,Regular,AMD-WH01,4,6,Yes
+FK101031,2026-08-31 00:00:00,Bengaluru,Electronics,2255,Delivered,Express,Regular,BLR-WH01,2,2,No
+FK100143,2026-08-31 00:00:00,Kolkata,Grocery,2279,Returned,Standard,New,KOL-WH01,4,,N/A
+FK100029,2026-08-31 00:00:00,Mumbai,Fashion,2864,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100468,2026-08-31 00:00:00,Hyderabad,Fashion,2015,Delivered,Standard,New,HYD-WH01,4,5,Yes
+FK101282,2026-08-31 00:00:00,Kolkata,Electronics,629,Delivered,Standard,New,KOL-WH01,4,4,No
+FK100460,2026-08-31 00:00:00,Delhi,Grocery,2478,Delivered,Express,Regular,DEL-WH01,2,2,No
+FK100956,2026-08-31 00:00:00,Bengaluru,Grocery,2625,Delivered,Standard,New,BLR-WH01,4,4,No
+FK100145,2026-08-31 00:00:00,Kolkata,Electronics,2571,Delivered,Standard,Premium,KOL-WH01,4,4,No
+FK100545,2026-08-31 00:00:00,Ahmedabad,Beauty,2249,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK101303,2026-08-31 00:00:00,Delhi,Fashion,994,Delivered,Standard,Premium,DEL-WH01,4,5,Yes
+FK101148,2026-08-31 00:00:00,Ahmedabad,Grocery,2971,Delivered,Standard,Premium,AMD-WH01,4,5,Yes
+FK100790,2026-08-31 00:00:00,Delhi,Home & Kitchen,2179,Cancelled,Express,Regular,DEL-WH01,2,,N/A
+FK101205,2026-08-31 00:00:00,Mumbai,Fashion,1230,Delivered,Express,Regular,MUM-WH01,2,3,Yes
+FK100789,2026-08-31 00:00:00,Pune,Home & Kitchen,1103,Delivered,Express,Regular,PUN-WH01,2,2,No
+FK100155,2026-08-31 00:00:00,Mumbai,Home & Kitchen,1200,Delivered,Standard,Regular,MUM-WH01,4,5,Yes
+FK101266,2026-08-31 00:00:00,Delhi,Fashion,687,Delivered,Standard,New,DEL-WH01,4,5,Yes
+FK101265,2026-08-31 00:00:00,Delhi,Beauty,811,Delivered,Express,Regular,DEL-WH01,2,2,No
+FK100292,2026-09-01 00:00:00,Kolkata,Fashion,1143,Returned,Express,Regular,KOL-WH01,2,,N/A
+FK100339,2026-09-01 00:00:00,Pune,Electronics,1372,Delivered,Standard,New,PUN-WH01,4,4,No
+FK101386,2026-09-01 00:00:00,Kolkata,Electronics,1070,Delivered,Express,Regular,KOL-WH01,2,2,No
+FK100335,2026-09-01 00:00:00,Chennai,Beauty,5468,Delivered,Standard,New,CHE-WH01,4,4,No
+FK100889,2026-09-01 00:00:00,Bengaluru,Beauty,2023,Delivered,Standard,New,BLR-WH01,4,4,No
+FK101312,2026-09-01 00:00:00,Delhi,Electronics,1911,Returned,Standard,New,DEL-WH01,4,,N/A
+FK101300,2026-09-01 00:00:00,Chennai,Beauty,1476,Delivered,Standard,Premium,CHE-WH01,4,5,Yes
+FK100843,2026-09-01 00:00:00,Mumbai,Home & Kitchen,2772,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100618,2026-09-01 00:00:00,Pune,Beauty,1453,Delivered,Express,Regular,PUN-WH01,2,2,No
+FK101419,2026-09-01 00:00:00,Mumbai,Grocery,3928,Delivered,Standard,New,MUM-WH01,4,4,No
+FK100594,2026-09-01 00:00:00,Kolkata,Beauty,1304,Delivered,Express,Regular,KOL-WH01,2,2,No
+FK100087,2026-09-01 00:00:00,Bengaluru,Fashion,1755,Cancelled,Standard,New,BLR-WH01,4,,N/A
+FK100546,2026-09-01 00:00:00,Kolkata,Beauty,6452,Returned,Standard,Regular,KOL-WH01,4,,N/A
+FK100120,2026-09-01 00:00:00,Ahmedabad,Fashion,695,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100062,2026-09-01 00:00:00,Pune,Electronics,2415,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK101047,2026-09-01 00:00:00,Hyderabad,Home & Kitchen,328,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100673,2026-09-01 00:00:00,Chennai,Fashion,2800,Delivered,Standard,Premium,CHE-WH01,4,5,Yes
+FK101023,2026-09-01 00:00:00,Delhi,Grocery,670,Delivered,Express,Regular,DEL-WH01,2,3,Yes
+FK101015,2026-09-01 00:00:00,Delhi,Electronics,726,Delivered,Standard,New,DEL-WH01,4,5,Yes
+FK100730,2026-09-01 00:00:00,Chennai,Fashion,5418,Delivered,Standard,Regular,CHE-WH01,4,7,Yes
+FK100995,2026-09-01 00:00:00,Kolkata,Fashion,624,Cancelled,Standard,Premium,KOL-WH01,4,,N/A
+FK100979,2026-09-01 00:00:00,Pune,Beauty,386,Cancelled,Standard,Premium,PUN-WH01,4,,N/A
+FK100366,2026-09-01 00:00:00,Chennai,Electronics,2415,Delivered,Express,Regular,CHE-WH01,2,2,No
+FK100383,2026-09-01 00:00:00,Kolkata,Grocery,4359,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100824,2026-09-02 00:00:00,Chennai,Fashion,2855,Delivered,Standard,Regular,CHE-WH01,4,5,Yes
+FK101150,2026-09-02 00:00:00,Bengaluru,Beauty,719,Delivered,Standard,Premium,BLR-WH01,4,6,Yes
+FK100668,2026-09-02 00:00:00,Kolkata,Beauty,1093,Delivered,Standard,Regular,KOL-WH01,4,7,Yes
+FK100382,2026-09-02 00:00:00,Mumbai,Electronics,2307,Delivered,Standard,New,MUM-WH01,4,4,No
+FK100280,2026-09-02 00:00:00,Hyderabad,Fashion,3454,Delivered,Express,New,HYD-WH01,2,2,No
+FK100273,2026-09-02 00:00:00,Kolkata,Home & Kitchen,2243,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK101486,2026-09-02 00:00:00,Kolkata,Grocery,2019,Delivered,Standard,Premium,KOL-WH01,4,5,Yes
+FK100016,2026-09-02 00:00:00,Bengaluru,Electronics,2241,Delivered,Express,Regular,BLR-WH01,2,2,No
+FK100864,2026-09-02 00:00:00,Mumbai,Home & Kitchen,3487,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100867,2026-09-02 00:00:00,Kolkata,Fashion,4568,Delivered,Standard,Premium,KOL-WH01,4,4,No
+FK100592,2026-09-02 00:00:00,Delhi,Electronics,2271,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK101437,2026-09-02 00:00:00,Kolkata,Electronics,1182,Delivered,Standard,New,KOL-WH01,4,4,No
+FK100905,2026-09-02 00:00:00,Delhi,Grocery,545,Delivered,Standard,Premium,DEL-WH01,4,4,No
+FK101427,2026-09-02 00:00:00,Bengaluru,Beauty,1668,Delivered,Express,Regular,BLR-WH01,2,2,No
+FK101413,2026-09-02 00:00:00,Bengaluru,Beauty,4835,Delivered,Standard,New,BLR-WH01,4,5,Yes
+FK100776,2026-09-02 00:00:00,Bengaluru,Beauty,1996,Returned,Standard,Regular,BLR-WH01,4,,N/A
+FK100455,2026-09-02 00:00:00,Kolkata,Home & Kitchen,1333,Cancelled,Express,Regular,KOL-WH01,2,,N/A
+FK100034,2026-09-02 00:00:00,Delhi,Grocery,1825,Delivered,Express,Regular,DEL-WH01,2,3,Yes
+FK100753,2026-09-02 00:00:00,Kolkata,Home & Kitchen,1899,Delivered,Express,Regular,KOL-WH01,2,5,Yes
+FK101063,2026-09-03 00:00:00,Ahmedabad,Fashion,2771,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100327,2026-09-03 00:00:00,Ahmedabad,Electronics,3767,Delivered,Express,New,AMD-WH01,2,2,No
+FK100428,2026-09-03 00:00:00,Bengaluru,Home & Kitchen,874,Delivered,Standard,New,BLR-WH01,4,4,No
+FK100108,2026-09-03 00:00:00,Bengaluru,Electronics,3332,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK101274,2026-09-03 00:00:00,Delhi,Fashion,1220,Delivered,Standard,Regular,DEL-WH01,4,5,Yes
+FK100842,2026-09-03 00:00:00,Pune,Beauty,7950,Delivered,Standard,Regular,PUN-WH01,4,5,Yes
+FK101433,2026-09-03 00:00:00,Kolkata,Home & Kitchen,864,Returned,Standard,Regular,KOL-WH01,4,,N/A
+FK100519,2026-09-03 00:00:00,Delhi,Fashion,673,Returned,Standard,Premium,DEL-WH01,4,,N/A
+FK101153,2026-09-03 00:00:00,Kolkata,Fashion,1941,Delivered,Standard,New,KOL-WH01,4,5,Yes
+FK100645,2026-09-03 00:00:00,Kolkata,Electronics,1165,Cancelled,Standard,New,KOL-WH01,4,,N/A
+FK100656,2026-09-03 00:00:00,Kolkata,Beauty,3002,Returned,Express,Regular,KOL-WH01,2,,N/A
+FK100613,2026-09-03 00:00:00,Kolkata,Electronics,4231,Delivered,Express,Regular,KOL-WH01,2,2,No
+FK100082,2026-09-03 00:00:00,Mumbai,Grocery,785,Cancelled,Express,Regular,MUM-WH01,2,,N/A
+FK101286,2026-09-03 00:00:00,Ahmedabad,Grocery,1292,Delivered,Standard,Regular,AMD-WH01,4,5,Yes
+FK100800,2026-09-04 00:00:00,Pune,Electronics,10915,Delivered,Standard,New,PUN-WH01,4,4,No
+FK100918,2026-09-04 00:00:00,Delhi,Beauty,2023,Delivered,Standard,New,DEL-WH01,4,4,No
+FK101407,2026-09-04 00:00:00,Delhi,Home & Kitchen,2194,Delivered,Standard,Regular,DEL-WH01,4,7,Yes
+FK101178,2026-09-04 00:00:00,Delhi,Beauty,1212,Delivered,Standard,New,DEL-WH01,4,4,No
+FK100664,2026-09-04 00:00:00,Bengaluru,Electronics,1266,Cancelled,Standard,Regular,BLR-WH01,4,,N/A
+FK100133,2026-09-04 00:00:00,Kolkata,Grocery,2946,Cancelled,Express,Regular,KOL-WH01,2,,N/A
+FK100242,2026-09-04 00:00:00,Kolkata,Home & Kitchen,788,Delivered,Express,Regular,KOL-WH01,2,2,No
+FK100690,2026-09-04 00:00:00,Pune,Home & Kitchen,1463,Delivered,Standard,New,PUN-WH01,4,5,Yes
+FK101116,2026-09-04 00:00:00,Delhi,Grocery,2058,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100306,2026-09-04 00:00:00,Bengaluru,Home & Kitchen,2244,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK101253,2026-09-04 00:00:00,Mumbai,Grocery,1559,Cancelled,Standard,Premium,MUM-WH01,4,,N/A
+FK100607,2026-09-04 00:00:00,Pune,Grocery,2800,Delivered,Standard,New,PUN-WH01,4,4,No
+FK100333,2026-09-04 00:00:00,Pune,Grocery,837,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100893,2026-09-04 00:00:00,Pune,Grocery,562,Delivered,Express,Regular,PUN-WH01,2,2,No
+FK100807,2026-09-04 00:00:00,Delhi,Electronics,1504,Delivered,Express,New,DEL-WH01,2,2,No
+FK101044,2026-09-04 00:00:00,Mumbai,Home & Kitchen,1504,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100513,2026-09-04 00:00:00,Ahmedabad,Home & Kitchen,1732,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK100900,2026-09-05 00:00:00,Bengaluru,Home & Kitchen,2806,Delivered,Standard,Premium,BLR-WH01,4,5,Yes
+FK100427,2026-09-05 00:00:00,Mumbai,Grocery,2952,Delivered,Standard,New,MUM-WH01,4,4,No
+FK100766,2026-09-05 00:00:00,Bengaluru,Electronics,1076,Delivered,Express,New,BLR-WH01,2,4,Yes
+FK100256,2026-09-05 00:00:00,Kolkata,Home & Kitchen,4294,Delivered,Standard,New,KOL-WH01,4,4,No
+FK101065,2026-09-05 00:00:00,Bengaluru,Beauty,1525,Delivered,Standard,Regular,BLR-WH01,4,5,Yes
+FK101469,2026-09-05 00:00:00,Hyderabad,Grocery,1926,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100202,2026-09-05 00:00:00,Delhi,Grocery,1067,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK101342,2026-09-05 00:00:00,Delhi,Grocery,1265,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK101069,2026-09-05 00:00:00,Ahmedabad,Beauty,5862,Delivered,Standard,Regular,AMD-WH01,4,5,Yes
+FK101339,2026-09-05 00:00:00,Hyderabad,Electronics,2597,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK101100,2026-09-05 00:00:00,Delhi,Grocery,549,Delivered,Standard,Premium,DEL-WH01,4,4,No
+FK100704,2026-09-05 00:00:00,Hyderabad,Grocery,861,Delivered,Standard,New,HYD-WH01,4,4,No
+FK101369,2026-09-05 00:00:00,Delhi,Fashion,4522,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100703,2026-09-05 00:00:00,Pune,Electronics,4496,Delivered,Standard,Regular,PUN-WH01,4,6,Yes
+FK100300,2026-09-05 00:00:00,Hyderabad,Grocery,1102,Delivered,Standard,New,HYD-WH01,4,4,No
+FK100386,2026-09-05 00:00:00,Delhi,Electronics,838,Delivered,Standard,Regular,DEL-WH01,4,5,Yes
+FK100295,2026-09-05 00:00:00,Hyderabad,Electronics,598,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100534,2026-09-05 00:00:00,Pune,Fashion,1040,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100960,2026-09-06 00:00:00,Chennai,Beauty,2630,Cancelled,Standard,Regular,CHE-WH01,4,,N/A
+FK101291,2026-09-06 00:00:00,Chennai,Grocery,2107,Delivered,Express,Regular,CHE-WH01,2,2,No
+FK101077,2026-09-06 00:00:00,Ahmedabad,Electronics,1885,Delivered,Standard,Premium,AMD-WH01,4,4,No
+FK101280,2026-09-06 00:00:00,Ahmedabad,Fashion,2192,Delivered,Standard,Regular,AMD-WH01,4,6,Yes
+FK101426,2026-09-06 00:00:00,Delhi,Home & Kitchen,3681,Returned,Standard,Regular,DEL-WH01,4,,N/A
+FK100445,2026-09-06 00:00:00,Kolkata,Grocery,967,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100355,2026-09-06 00:00:00,Bengaluru,Electronics,1012,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100183,2026-09-06 00:00:00,Chennai,Home & Kitchen,2873,Delivered,Standard,Regular,CHE-WH01,4,6,Yes
+FK100817,2026-09-06 00:00:00,Kolkata,Electronics,3959,Delivered,Express,Regular,KOL-WH01,2,2,No
+FK100934,2026-09-06 00:00:00,Chennai,Grocery,2458,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK101424,2026-09-06 00:00:00,Mumbai,Electronics,2708,Delivered,Standard,Premium,MUM-WH01,4,4,No
+FK100764,2026-09-06 00:00:00,Kolkata,Electronics,1809,Delivered,Express,Regular,KOL-WH01,2,4,Yes
+FK100917,2026-09-06 00:00:00,Mumbai,Fashion,1106,Cancelled,Standard,Premium,MUM-WH01,4,,N/A
+FK100248,2026-09-06 00:00:00,Ahmedabad,Grocery,930,Delivered,Express,Premium,AMD-WH01,2,2,No
+FK101335,2026-09-06 00:00:00,Pune,Grocery,1303,Cancelled,Standard,Regular,PUN-WH01,4,,N/A
+FK100393,2026-09-07 00:00:00,Ahmedabad,Electronics,1728,Delivered,Standard,New,AMD-WH01,4,4,No
+FK101096,2026-09-07 00:00:00,Ahmedabad,Fashion,1082,Delivered,Standard,Regular,AMD-WH01,4,5,Yes
+FK100628,2026-09-07 00:00:00,Hyderabad,Home & Kitchen,1451,Cancelled,Standard,Premium,HYD-WH01,4,,N/A
+FK101363,2026-09-07 00:00:00,Delhi,Fashion,3902,Cancelled,Express,Regular,DEL-WH01,2,,N/A
+FK100853,2026-09-07 00:00:00,Delhi,Grocery,1073,Delivered,Standard,New,DEL-WH01,4,5,Yes
+FK100190,2026-09-07 00:00:00,Delhi,Grocery,2489,Delivered,Express,Regular,DEL-WH01,2,2,No
+FK100482,2026-09-07 00:00:00,Kolkata,Fashion,531,Delivered,Standard,Regular,KOL-WH01,4,5,Yes
+FK101170,2026-09-07 00:00:00,Delhi,Electronics,1983,Delivered,Standard,New,DEL-WH01,4,6,Yes
+FK100396,2026-09-07 00:00:00,Bengaluru,Fashion,1582,Delivered,Standard,Regular,BLR-WH01,4,5,Yes
+FK100604,2026-09-07 00:00:00,Mumbai,Home & Kitchen,1329,Delivered,Express,Regular,MUM-WH01,2,3,Yes
+FK100686,2026-09-07 00:00:00,Delhi,Grocery,1034,Delivered,Express,Regular,DEL-WH01,2,2,No
+FK100384,2026-09-07 00:00:00,Ahmedabad,Beauty,2829,Returned,Standard,New,AMD-WH01,4,,N/A
+FK100944,2026-09-07 00:00:00,Chennai,Beauty,1232,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK100224,2026-09-07 00:00:00,Hyderabad,Grocery,1262,Delivered,Express,Regular,HYD-WH01,2,2,No
+FK100274,2026-09-07 00:00:00,Pune,Beauty,3040,Delivered,Standard,Premium,PUN-WH01,4,4,No
+FK101477,2026-09-07 00:00:00,Delhi,Home & Kitchen,846,Delivered,Express,Regular,DEL-WH01,2,4,Yes
+FK100404,2026-09-07 00:00:00,Pune,Beauty,879,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100411,2026-09-07 00:00:00,Chennai,Beauty,1875,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK100151,2026-09-08 00:00:00,Hyderabad,Beauty,1703,Returned,Express,New,HYD-WH01,2,,N/A
+FK100191,2026-09-08 00:00:00,Pune,Home & Kitchen,1274,Delivered,Standard,Regular,PUN-WH01,4,5,Yes
+FK101415,2026-09-08 00:00:00,Kolkata,Electronics,1272,Delivered,Express,Premium,KOL-WH01,2,3,Yes
+FK100181,2026-09-08 00:00:00,Ahmedabad,Beauty,3565,Delivered,Standard,Premium,AMD-WH01,4,5,Yes
+FK100898,2026-09-08 00:00:00,Bengaluru,Home & Kitchen,1432,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100786,2026-09-08 00:00:00,Mumbai,Electronics,805,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100525,2026-09-08 00:00:00,Ahmedabad,Home & Kitchen,2390,Delivered,Standard,Premium,AMD-WH01,4,5,Yes
+FK101208,2026-09-08 00:00:00,Ahmedabad,Electronics,3325,Delivered,Standard,New,AMD-WH01,4,4,No
+FK101297,2026-09-08 00:00:00,Ahmedabad,Electronics,1789,Delivered,Express,Regular,AMD-WH01,2,2,No
+FK100785,2026-09-08 00:00:00,Kolkata,Fashion,3856,Delivered,Express,Regular,KOL-WH01,2,2,No
+FK101357,2026-09-08 00:00:00,Hyderabad,Grocery,1356,Cancelled,Express,New,HYD-WH01,2,,N/A
+FK101011,2026-09-08 00:00:00,Kolkata,Fashion,731,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100780,2026-09-08 00:00:00,Mumbai,Home & Kitchen,2131,Delivered,Standard,New,MUM-WH01,4,6,Yes
+FK100717,2026-09-08 00:00:00,Bengaluru,Grocery,3805,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100347,2026-09-08 00:00:00,Bengaluru,Beauty,2144,Cancelled,Standard,New,BLR-WH01,4,,N/A
+FK101126,2026-09-08 00:00:00,Kolkata,Home & Kitchen,2962,Delivered,Express,New,KOL-WH01,2,3,Yes
+FK100196,2026-09-08 00:00:00,Mumbai,Fashion,1495,Delivered,Standard,Regular,MUM-WH01,4,4,No
+FK100815,2026-09-08 00:00:00,Mumbai,Home & Kitchen,1063,Delivered,Express,New,MUM-WH01,2,2,No
+FK101026,2026-09-09 00:00:00,Delhi,Fashion,3643,Delivered,Express,New,DEL-WH01,2,4,Yes
+FK101220,2026-09-09 00:00:00,Bengaluru,Electronics,1125,Delivered,Standard,Regular,BLR-WH01,4,5,Yes
+FK101009,2026-09-09 00:00:00,Delhi,Electronics,997,Returned,Standard,Regular,DEL-WH01,4,,N/A
+FK100521,2026-09-09 00:00:00,Bengaluru,Electronics,720,Delivered,Express,Premium,BLR-WH01,2,2,No
+FK100130,2026-09-09 00:00:00,Pune,Beauty,4834,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK101417,2026-09-09 00:00:00,Bengaluru,Grocery,3821,Delivered,Standard,Regular,BLR-WH01,4,5,Yes
+FK101020,2026-09-09 00:00:00,Hyderabad,Grocery,1442,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100049,2026-09-09 00:00:00,Kolkata,Electronics,1506,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100478,2026-09-09 00:00:00,Pune,Beauty,3296,Cancelled,Standard,Regular,PUN-WH01,4,,N/A
+FK101143,2026-09-09 00:00:00,Ahmedabad,Fashion,1834,Cancelled,Express,Regular,AMD-WH01,2,,N/A
+FK100205,2026-09-09 00:00:00,Delhi,Fashion,1697,Cancelled,Standard,Regular,DEL-WH01,4,,N/A
+FK101306,2026-09-09 00:00:00,Kolkata,Electronics,2181,Delivered,Standard,Regular,KOL-WH01,4,6,Yes
+FK100083,2026-09-09 00:00:00,Bengaluru,Fashion,1659,Delivered,Standard,New,BLR-WH01,4,4,No
+FK100963,2026-09-10 00:00:00,Ahmedabad,Beauty,3703,Returned,Express,Regular,AMD-WH01,2,,N/A
+FK100003,2026-09-10 00:00:00,Kolkata,Electronics,3028,Delivered,Standard,New,KOL-WH01,4,4,No
+FK100903,2026-09-10 00:00:00,Hyderabad,Fashion,3454,Delivered,Standard,Premium,HYD-WH01,4,5,Yes
+FK100882,2026-09-10 00:00:00,Bengaluru,Grocery,1548,Delivered,Standard,New,BLR-WH01,4,5,Yes
+FK100868,2026-09-10 00:00:00,Delhi,Fashion,1241,Delivered,Standard,Regular,DEL-WH01,4,5,Yes
+FK101353,2026-09-10 00:00:00,Pune,Electronics,727,Delivered,Express,New,PUN-WH01,2,2,No
+FK100539,2026-09-10 00:00:00,Chennai,Fashion,2477,Delivered,Express,Regular,CHE-WH01,2,2,No
+FK101493,2026-09-10 00:00:00,Mumbai,Home & Kitchen,856,Delivered,Standard,Regular,MUM-WH01,4,6,Yes
+FK100237,2026-09-10 00:00:00,Chennai,Electronics,3917,Delivered,Standard,New,CHE-WH01,4,4,No
+FK101229,2026-09-10 00:00:00,Pune,Grocery,308,Returned,Standard,Regular,PUN-WH01,4,,N/A
+FK101067,2026-09-10 00:00:00,Hyderabad,Home & Kitchen,1396,Returned,Standard,Regular,HYD-WH01,4,,N/A
+FK100648,2026-09-10 00:00:00,Hyderabad,Electronics,1303,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100071,2026-09-10 00:00:00,Kolkata,Electronics,3498,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100098,2026-09-10 00:00:00,Kolkata,Home & Kitchen,1601,Delivered,Express,New,KOL-WH01,2,2,No
+FK100580,2026-09-10 00:00:00,Bengaluru,Grocery,1495,Cancelled,Standard,Regular,BLR-WH01,4,,N/A
+FK100152,2026-09-10 00:00:00,Pune,Home & Kitchen,820,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK101209,2026-09-10 00:00:00,Chennai,Fashion,957,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK100950,2026-09-10 00:00:00,Bengaluru,Electronics,3966,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK101310,2026-09-10 00:00:00,Bengaluru,Beauty,1334,Delivered,Express,Premium,BLR-WH01,2,2,No
+FK100596,2026-09-11 00:00:00,Ahmedabad,Beauty,2161,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK101118,2026-09-11 00:00:00,Hyderabad,Electronics,1427,Delivered,Standard,Premium,HYD-WH01,4,4,No
+FK100638,2026-09-11 00:00:00,Delhi,Home & Kitchen,1687,Delivered,Standard,New,DEL-WH01,4,4,No
+FK100097,2026-09-11 00:00:00,Pune,Beauty,466,Returned,Standard,Regular,PUN-WH01,4,,N/A
+FK100194,2026-09-11 00:00:00,Bengaluru,Beauty,3855,Delivered,Express,Regular,BLR-WH01,2,2,No
+FK100726,2026-09-11 00:00:00,Hyderabad,Beauty,1398,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK101176,2026-09-11 00:00:00,Pune,Grocery,1843,Delivered,Standard,Premium,PUN-WH01,4,4,No
+FK101334,2026-09-11 00:00:00,Kolkata,Electronics,1116,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100844,2026-09-11 00:00:00,Delhi,Grocery,792,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK101288,2026-09-11 00:00:00,Bengaluru,Electronics,3531,Delivered,Standard,Regular,BLR-WH01,4,4,No
+FK100039,2026-09-11 00:00:00,Ahmedabad,Grocery,1404,Delivered,Express,New,AMD-WH01,2,2,No
+FK100453,2026-09-11 00:00:00,Delhi,Electronics,1061,Delivered,Standard,Premium,DEL-WH01,4,5,Yes
+FK100986,2026-09-11 00:00:00,Pune,Fashion,1122,Delivered,Standard,Premium,PUN-WH01,4,5,Yes
+FK101180,2026-09-11 00:00:00,Kolkata,Fashion,2256,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK101179,2026-09-11 00:00:00,Ahmedabad,Home & Kitchen,1663,Delivered,Express,Regular,AMD-WH01,2,2,No
+FK100989,2026-09-12 00:00:00,Chennai,Grocery,2580,Delivered,Standard,Regular,CHE-WH01,4,5,Yes
+FK100755,2026-09-12 00:00:00,Mumbai,Home & Kitchen,4620,Returned,Standard,Regular,MUM-WH01,4,,N/A
+FK101056,2026-09-12 00:00:00,Delhi,Fashion,2253,Delivered,Express,Premium,DEL-WH01,2,2,No
+FK100947,2026-09-12 00:00:00,Kolkata,Fashion,1494,Cancelled,Express,Regular,KOL-WH01,2,,N/A
+FK100066,2026-09-12 00:00:00,Bengaluru,Home & Kitchen,397,Delivered,Express,Regular,BLR-WH01,2,2,No
+FK100684,2026-09-12 00:00:00,Chennai,Fashion,1030,Delivered,Express,Regular,CHE-WH01,2,3,Yes
+FK100636,2026-09-12 00:00:00,Hyderabad,Home & Kitchen,1300,Delivered,Standard,Regular,HYD-WH01,4,4,No
+FK100921,2026-09-12 00:00:00,Mumbai,Home & Kitchen,1755,Delivered,Standard,New,MUM-WH01,4,6,Yes
+FK100635,2026-09-12 00:00:00,Bengaluru,Grocery,1418,Delivered,Express,Regular,BLR-WH01,2,2,No
+FK101084,2026-09-12 00:00:00,Chennai,Fashion,354,Delivered,Express,Regular,CHE-WH01,2,3,Yes
+FK101110,2026-09-12 00:00:00,Ahmedabad,Electronics,3900,Delivered,Standard,New,AMD-WH01,4,5,Yes
+FK100442,2026-09-12 00:00:00,Hyderabad,Grocery,3810,Delivered,Express,Regular,HYD-WH01,2,3,Yes
+FK101418,2026-09-12 00:00:00,Chennai,Fashion,1568,Delivered,Express,Regular,CHE-WH01,2,2,No
+FK100531,2026-09-12 00:00:00,Chennai,Beauty,897,Delivered,Standard,New,CHE-WH01,4,4,No
+FK101200,2026-09-12 00:00:00,Bengaluru,Beauty,5850,Delivered,Express,Regular,BLR-WH01,2,2,No
+FK100431,2026-09-12 00:00:00,Kolkata,Grocery,1193,Delivered,Standard,New,KOL-WH01,4,4,No
+FK101314,2026-09-12 00:00:00,Mumbai,Electronics,2086,Delivered,Standard,Premium,MUM-WH01,4,5,Yes
+FK100502,2026-09-12 00:00:00,Chennai,Grocery,2513,Delivered,Express,Regular,CHE-WH01,2,3,Yes
+FK100578,2026-09-12 00:00:00,Hyderabad,Fashion,1441,Delivered,Express,Premium,HYD-WH01,2,2,No
+FK100847,2026-09-13 00:00:00,Mumbai,Fashion,1049,Delivered,Standard,New,MUM-WH01,4,5,Yes
+FK100007,2026-09-13 00:00:00,Mumbai,Grocery,5636,Delivered,Standard,New,MUM-WH01,4,6,Yes
+FK100808,2026-09-13 00:00:00,Ahmedabad,Grocery,1209,Delivered,Standard,Premium,AMD-WH01,4,4,No
+FK100498,2026-09-13 00:00:00,Mumbai,Electronics,3061,Delivered,Express,Regular,MUM-WH01,2,4,Yes
+FK100788,2026-09-13 00:00:00,Ahmedabad,Grocery,2866,Returned,Standard,Regular,AMD-WH01,4,,N/A
+FK100236,2026-09-13 00:00:00,Mumbai,Fashion,1183,Returned,Express,Regular,MUM-WH01,2,,N/A
+FK100997,2026-09-13 00:00:00,Delhi,Home & Kitchen,2225,Cancelled,Standard,New,DEL-WH01,4,,N/A
+FK100144,2026-09-13 00:00:00,Chennai,Fashion,2083,Delivered,Standard,New,CHE-WH01,4,4,No
+FK101467,2026-09-13 00:00:00,Chennai,Fashion,3149,Delivered,Standard,New,CHE-WH01,4,4,No
+FK100185,2026-09-13 00:00:00,Mumbai,Fashion,975,Cancelled,Standard,New,MUM-WH01,4,,N/A
+FK100006,2026-09-13 00:00:00,Ahmedabad,Home & Kitchen,1416,Delivered,Standard,Premium,AMD-WH01,4,4,No
+FK100857,2026-09-13 00:00:00,Hyderabad,Fashion,2668,Delivered,Standard,Premium,HYD-WH01,4,4,No
+FK100801,2026-09-13 00:00:00,Pune,Grocery,1928,Delivered,Standard,Premium,PUN-WH01,4,5,Yes
+FK100447,2026-09-13 00:00:00,Bengaluru,Fashion,3444,Cancelled,Standard,New,BLR-WH01,4,,N/A
+FK101462,2026-09-13 00:00:00,Delhi,Fashion,1265,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100576,2026-09-13 00:00:00,Mumbai,Fashion,1163,Delivered,Standard,New,MUM-WH01,4,4,No
+FK101125,2026-09-13 00:00:00,Chennai,Fashion,866,Returned,Standard,New,CHE-WH01,4,,N/A
+FK101451,2026-09-13 00:00:00,Chennai,Beauty,2034,Delivered,Standard,New,CHE-WH01,4,4,No
+FK100665,2026-09-13 00:00:00,Pune,Fashion,497,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100560,2026-09-13 00:00:00,Hyderabad,Electronics,2482,Delivered,Express,Premium,HYD-WH01,2,5,Yes
+FK100693,2026-09-13 00:00:00,Bengaluru,Electronics,1333,Delivered,Standard,Premium,BLR-WH01,4,4,No
+FK100696,2026-09-13 00:00:00,Kolkata,Beauty,858,Delivered,Standard,New,KOL-WH01,4,5,Yes
+FK100935,2026-09-14 00:00:00,Kolkata,Grocery,4431,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK101440,2026-09-14 00:00:00,Chennai,Home & Kitchen,5335,Delivered,Standard,Regular,CHE-WH01,4,5,Yes
+FK100581,2026-09-14 00:00:00,Delhi,Beauty,1997,Delivered,Express,Premium,DEL-WH01,2,3,Yes
+FK100860,2026-09-14 00:00:00,Pune,Home & Kitchen,3059,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK100476,2026-09-14 00:00:00,Ahmedabad,Electronics,2660,Delivered,Standard,Regular,AMD-WH01,4,4,No
+FK101344,2026-09-14 00:00:00,Mumbai,Electronics,1252,Delivered,Standard,Premium,MUM-WH01,4,4,No
+FK100020,2026-09-14 00:00:00,Bengaluru,Home & Kitchen,615,Delivered,Standard,Premium,BLR-WH01,4,4,No
+FK100260,2026-09-14 00:00:00,Delhi,Fashion,13230,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100500,2026-09-14 00:00:00,Hyderabad,Home & Kitchen,3161,Cancelled,Standard,Regular,HYD-WH01,4,,N/A
+FK101443,2026-09-14 00:00:00,Hyderabad,Beauty,1880,Delivered,Express,Regular,HYD-WH01,2,2,No
+FK100331,2026-09-14 00:00:00,Kolkata,Electronics,4006,Delivered,Standard,Regular,KOL-WH01,4,4,No
+FK100397,2026-09-14 00:00:00,Kolkata,Fashion,1756,Cancelled,Standard,Regular,KOL-WH01,4,,N/A
+FK100387,2026-09-14 00:00:00,Mumbai,Grocery,1136,Delivered,Standard,New,MUM-WH01,4,5,Yes
+FK100959,2026-09-14 00:00:00,Pune,Fashion,1870,Delivered,Express,Regular,PUN-WH01,2,2,No
+FK101135,2026-09-14 00:00:00,Pune,Home & Kitchen,2963,Delivered,Express,Regular,PUN-WH01,2,2,No
+FK100118,2026-09-15 00:00:00,Kolkata,Grocery,1156,Delivered,Standard,Premium,KOL-WH01,4,4,No
+FK101404,2026-09-15 00:00:00,Ahmedabad,Home & Kitchen,1052,Returned,Standard,Premium,AMD-WH01,4,,N/A
+FK100828,2026-09-15 00:00:00,Chennai,Electronics,3656,Delivered,Standard,Premium,CHE-WH01,4,4,No
+FK101304,2026-09-15 00:00:00,Ahmedabad,Home & Kitchen,1313,Delivered,Express,Regular,AMD-WH01,2,2,No
+FK100642,2026-09-15 00:00:00,Chennai,Electronics,1715,Delivered,Standard,Regular,CHE-WH01,4,4,No
+FK100691,2026-09-15 00:00:00,Delhi,Electronics,1476,Delivered,Standard,Regular,DEL-WH01,4,4,No
+FK100598,2026-09-15 00:00:00,Hyderabad,Fashion,4087,Delivered,Express,Regular,HYD-WH01,2,2,No
+FK100149,2026-09-15 00:00:00,Pune,Home & Kitchen,6075,Delivered,Standard,Regular,PUN-WH01,4,4,No
+FK101361,2026-09-15 00:00:00,Mumbai,Beauty,1088,Cancelled,Express,Regular,MUM-WH01,2,,N/A
+FK101364,2026-09-15 00:00:00,Mumbai,Electronics,5367,Delivered,Standard,New,MUM-WH01,4,4,No
+FK101373,2026-09-15 00:00:00,Delhi,Fashion,879,Delivered,Standard,New,DEL-WH01,4,4,No
+FK100544,2026-09-15 00:00:00,Kolkata,Fashion,1601,Delivered,Standard,Premium,KOL-WH01,4,5,Yes
+FK100622,2026-09-15 00:00:00,Bengaluru,Home & Kitchen,855,Delivered,Standard,Regular,BLR-WH01,4,6,Yes
