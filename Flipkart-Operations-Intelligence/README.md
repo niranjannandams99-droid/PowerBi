@@ -1,3 +1,6 @@
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/7a4f1fe6-8169-49e9-bae9-42804f75746b" />
+
+
 # Flipkart Operations Intelligence & SLA Performance Analytics
 
 ### Turning order, delivery and customer data into actionable operational intelligence.
