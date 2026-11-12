@@ -111,12 +111,20 @@ Additional analysis includes month-over-month performance, category contribution
 The Power BI solution contains six analytical pages.
 
 **01. Executive Overview**
+
+<img width="1412" height="799" alt="01  Executive Overview" src="https://github.com/user-attachments/assets/40c9458c-4367-424e-b213-757a0037a611" />
+
+
 - Overall business performance
 - Sales and order KPIs
 - Delivery and SLA overview
 - Category and city performance
 
 **02. Sales & Orders Analysis**
+
+<img width="1412" height="799" alt="02  Sales   Orders" src="https://github.com/user-attachments/assets/499307a1-d56d-4490-8ba9-4566253399e1" />
+
+
 - Monthly sales and order trends
 - Category-wise sales contribution
 - City-level sales performance
@@ -124,24 +132,40 @@ The Power BI solution contains six analytical pages.
 - Customer segment analysis
 
 **03. Delivery & SLA Analysis**
+
+<img width="1412" height="799" alt="03  Delivery   SLA" src="https://github.com/user-attachments/assets/3d79ea13-abcc-4d93-8d97-22b8acae2f62" />
+
+
 - Actual versus promised delivery time
 - SLA breach performance
 - City and category comparisons
 - Delivery efficiency monitoring
 
 **04. Cancellation Analysis**
+
+<img width="1412" height="799" alt="04  Cancellation Analysis" src="https://github.com/user-attachments/assets/24766c2f-2c46-4cf3-992d-38efb082ab58" />
+
+
 - Cancellation volume and rate
 - City-level cancellation patterns
 - Category-wise cancellation analysis
 - Delivery type comparisons
 
 **05. Customer Insights**
+
+<img width="1412" height="799" alt="05  Customer Insights" src="https://github.com/user-attachments/assets/84d38223-f5f0-4135-b74e-5620b132e1f2" />
+
+
 - Customer segment contribution
 - Order volume by segment
 - Revenue and average order value analysis
 - Customer behaviour patterns
 
 **06. Management View**
+
+<img width="1412" height="799" alt="06  Management View" src="https://github.com/user-attachments/assets/d29e4177-e9a0-4f6d-a94e-2b2d1e1289d5" />
+
+
 - Consolidated operational performance
 - Management-level KPIs
 - Key business observations
@@ -178,21 +202,25 @@ It enables business teams to:
 ```text
 Flipkart-Operations-Intelligence/
 │
-├── README.md
-│
-├── Dataset/
-│
-├── SQL/
+├── SQL Server/
+│   ├── README.md
+│   └── SQL scripts
 │
 ├── SSIS/
+│   ├── README.md
+│   └── SSIS project files
 │
 ├── SSAS/
-│
-├── PowerBI/
+│   ├── README.md
+│   └── SSAS model files
 │
 ├── Screenshots/
+│   ├── README.md
+│   └── Dashboard images
 │
-└── Documentation/
+├── Flipkart.pbix
+├── Flipkart_Raw_Orders.csv
+└── README.md
 ```
 
 ## 12. Project Scope & Disclaimer
