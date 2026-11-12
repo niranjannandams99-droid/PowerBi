@@ -1,4 +1,4 @@
-<img width="384" height="131" alt="image" src="https://github.com/user-attachments/assets/538f232f-3f68-44f5-9300-0fb380101448" />
+<img width="484" height="131" alt="image" src="https://github.com/user-attachments/assets/538f232f-3f68-44f5-9300-0fb380101448" />
 
 
 # SSIS – ETL & Data Integration
