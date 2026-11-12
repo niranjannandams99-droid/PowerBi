@@ -185,7 +185,20 @@ Based on the portfolio dataset:
 
 These findings highlight opportunities to investigate delivery delays, improve service-level compliance and monitor cancellation patterns.
 
-## 10. Business Value
+## 10. Business Recommendations
+
+| Finding | Recommended Action |
+|---|---|
+| 24.20% SLA breach rate | Investigate delivery delays and operational bottlenecks. |
+| 11.33% cancellation rate | Analyse cancellation patterns by city and category. |
+| Electronics leads category sales | Monitor category demand and inventory availability. |
+| Regular customers contribute 57.4% of orders | Explore customer retention strategies. |
+| Mumbai has the highest order volume | Review delivery capacity and operational performance. |
+
+These recommendations are based on the observed dataset patterns.
+They are proposed actions, not implemented business improvements.
+
+## 11. Business Value
 
 This solution demonstrates how operational data can be converted into a structured decision-support system.
 
@@ -197,7 +210,7 @@ It enables business teams to:
 - Understand customer contribution and purchasing behaviour.
 - Support management decisions through consistent analytical reporting.
 
-## 11. Repository Structure
+## 12. Repository Structure
 
 ```text
 Flipkart-Operations-Intelligence/
@@ -223,7 +236,7 @@ Flipkart-Operations-Intelligence/
 └── README.md
 ```
 
-## 12. Project Scope & Disclaimer
+## 13. Project Scope & Disclaimer
 
 This is an independent portfolio project developed to demonstrate practical skills in data integration, relational data modelling, analytical modelling, SQL, DAX and business intelligence reporting.
 
