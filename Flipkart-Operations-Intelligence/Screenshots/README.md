@@ -21,14 +21,13 @@ The dashboard is organised into six analytical pages, each focusing on a specifi
 
 ```text
 Screenshots/
-│
 ├── README.md
-├── Executive_Overview.png
-├── Sales_Orders_Analysis.png
-├── Delivery_SLA_Analysis.png
-├── Cancellation_Analysis.png
-├── Customer_Insights.png
-└── Management_View.png
+├── 01. Executive Overview.png
+├── 02. Sales & Orders.png
+├── 03. Delivery & SLA.png
+├── 04. Cancellation Analysis.png
+├── 05. Customer Insights.png
+└── 06. Management View.png
 ```
 
 ## Purpose
