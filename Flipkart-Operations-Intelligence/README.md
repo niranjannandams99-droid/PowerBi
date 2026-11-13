@@ -7,6 +7,15 @@
 
 An end-to-end business intelligence project focused on understanding order performance, delivery efficiency, service-level compliance, cancellations and customer behaviour through data engineering, analytical modelling and interactive reporting.
 
+## Project Navigation
+
+- [SQL Server Documentation](SQL%20Server/README.md)
+- [SSIS Documentation](SSIS/README.md)
+- [SSAS Documentation](SSAS/README.md)
+- [Dashboard Screenshots](Screenshots/README.md)
+- [Power BI Dashboard](Flipkart.pbix)
+- [Raw Dataset](Flipkart_Raw_Orders.csv)
+
 ---
 
 ## 1. Business Problem
