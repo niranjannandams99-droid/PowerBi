@@ -185,7 +185,7 @@ The Power BI solution contains six analytical pages.
 Based on the portfolio dataset:
 
 - **1,500 orders** were analysed, generating approximately **₹3.31 million** in sales.
-- **1,137 orders (75.80%)** were delivered within the defined SLA.
+- **1,137 orders (75.80% of total orders)** were within the defined SLA.
 - **363 orders (24.20%)** breached the delivery SLA.
 - The overall cancellation rate was **11.33%**, representing 170 orders.
 - Electronics generated the highest category sales at approximately **₹709.5K**.
